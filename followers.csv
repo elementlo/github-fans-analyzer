@@ -1,0 +1,2713 @@
+,created_at,login,name,type,company,location,contributions,public_repos,followers,following
+0,2015,StanSilas,Stan Silas(Vivek Mangipudi),User,@DataforDemocracy,"Dallas, TX",,112,7,77
+1,2013,daoxunchen,Welthy,User,,,,17,0,9
+2,2013,wowlusitong,卢思侗,User,,"Harbin, China",,27,42,73
+3,2014,FredWe,Fred,User,NEET,Beijing,,44,57,337
+4,2017,Martin2877,Ali0th,User,,,,35,23,243
+5,2016,ChenGuangHN,,User,,,,5,1,4
+6,2012,starrysoul,,User,,,,6,2,10
+7,2013,huangshuwei,Huang ShuWei,User,@eastmoney,ShangHai China,,30,113,133
+8,2011,chickenlove,Qthrones,User,,,,530,10,79
+9,2012,loveshell,,User,,,,416,442,509
+10,2016,zhangjing9898,,User,@alibaba,杭州,,90,21,41
+11,2014,duqb,Jack Du,User,,,,28,18,268
+12,2016,yuanjingsong,,User,,,,30,10,48
+13,2011,tinytang,,User,,,,21,19,1396
+14,2013,FilipposM,Filippos Mastrogiannis,User,,"Athens, Greece",,29,212,898
+15,2015,undersunshine1020,,User,,,,16,2,21
+16,2016,plebsX,,User,,,,6,2,1
+17,2016,Starxyz,,User,,,,14,2,26
+18,2015,Fly-Bird,李亚州,User,,China,,24,0,17
+19,2017,pythontalk,,User,,,,0,0,1
+20,2017,PracNeyman,,User,,,,28,7,24
+21,2016,lcf12307,lcf12307,User,,,,17,4,11
+22,2011,carlos-wong,carlos,User,Lejurobot.com,"china, shenzhen",,135,44,17
+23,2016,codyi96,Charley,User,,,,7,1,18
+24,2017,Zijianlalala,Zijian Wu,User,,Qingdao/Tai'an China,,26,7,14
+25,2014,binderclip,clip,User,@xiachufang ,Beijing,,44,113,50
+26,2017,Xuxudong166,,User,,,,7,2,16
+27,2017,liziwenzzzz,wa!,User,,,,31,7,82
+28,2016,gprj,roy,User,,,,6,3,10
+29,2012,JaySun1314,,User,,,,13,12,21
+30,2012,cobain,Cobain,User,,"Xi'an, China",,35,39,178
+31,2017,YouEzreal,,User,,,,0,0,3
+32,2014,linkcheng,linkcheng,User,,Shanghai,,19,5,28
+33,2016,melllllllllllll,MaErLe,User,,China,,9,2,3
+34,2017,pinylin,,User,,,,17,9,81
+35,2016,daniellauyu,daniel lau,User,,,,8,1,6
+36,2017,Giotto110,,User,,,,3,0,6
+37,2013,foukation,,User,,,,330,8,46
+38,2016,Cyberman-Dalek,,User,,,,2,0,6
+39,2014,201419,Daniel Shu Yang,User,,Shenzhen University,,10,7,28
+40,2016,Tao-Chan,taochen94,User,,,,8,0,3
+41,2014,zzxT,zzx,User,,"China,Beijing",,54,7,52
+42,2017,paobainsist,,User,,,,1,0,1
+43,2015,zhangtianxiang,ZhangTianxiang,User,Fudan University,Shanghai China,,10,15,16
+44,2016,soukakei,柿子君,User,,,,2,0,2
+45,2015,ZhangYangDev,ZhangYang,User,,ShangHai,,8,2,83
+46,2017,BurningNeverCry,白少,User,,,,21,1,4
+47,2014,jimingye,Jiming Ye,User,,New York,,10,4,22
+48,2012,hesling,hesling,User,,,,152,10,130
+49,2017,proteincraft,,User,,,,2,0,1
+50,2012,commodus,,User,,,,16,23,611
+51,2014,jiyiren,jiyiren,User,,jiangsu suzhou,,66,46,100
+52,2016,lx-eotk,lx-eotk,User,,China,,5,2,15
+53,2017,Annguwenen,Annguowenwen,User,,,,0,1,7
+54,2012,zhangxiaoyang,Yang Zhang,User,Tencent,Beijing,,74,120,61
+55,2015,zsluedem,will,User,,,,41,15,39
+56,2014,q15866188,,User,,,,24,1,84
+57,2016,archervanderwaal,Archer VanderWaal,User,@Meituan,BeiJing,,52,52,74
+58,2016,CranzCapatain,Cranz,User,,HangZhou,,67,4,13
+59,2014,augustuslin,Yijun Lin,User,Peking University,"Beijing, China",,4,1,3
+60,2016,leeyuanhe,leeyuanhe,User,,"Beijing,China",,13,1,19
+61,2015,DerekTso,Derek,User,,,,31,18,453
+62,2017,v5sollee,Manlou,User,@shuquyun,HangZhou,,19,15,69
+63,2016,fanhuiren888,,User,,"ShangHai, China",,2,1,12
+64,2016,leisiji,,User,,"Guangzhou,China",,23,15,221
+65,2013,liaozd,Liao Zhuodi,User,JDD,Beijing,,16,12,126
+66,2014,hughhugh,Nailong Wu ,User,DHU,中国 China,,52,18,148
+67,2014,xianyunyh,闲云野鹤,User,,China ShangHai,,46,101,52
+68,2014,yizhilee,荔枝,User,,,,0,6,126
+69,2011,SiQLuxe,Luxe,User,@QStrategy,上海,,4,8,83
+70,2017,ducknessman,,User,,,,0,1,15
+71,2017,RNAvirus,bluesky,User,,,,2,0,8
+72,2017,hakrtt,,User,,,,2,1,1
+73,2016,tloyd,HeFan,User,,,,6,1,12
+74,2017,Akashic0,,User,,,,1,17,372
+75,2016,dkl520,dkl520,User,,shenzhen,,93,1,50
+76,2016,KongWiki,KongWiki,User,China,Chengdu,,65,11,37
+77,2017,doingdd,Du Ying,User,,Beijing,,13,2,4
+78,2016,JackZs,,User,,,,17,0,2
+79,2016,Ciyfly,Recar,User,,,,3,10,156
+80,2017,Lay-Ousana12,,User,,,,1,0,10
+81,2017,CrazySzg,薛志强,User,,广东工业大学,,46,0,4
+82,2017,dhruveeldoshi,,User,,,,6,0,3
+83,2013,yewenhui,叶文辉,User,,China FuJian Xiamen,,26,12,129
+84,2017,lingxingyizhi,haha,User,,,,6,0,1
+85,2017,tobyDing,丁天成,User,http://www.kuaidihelp.com/,shanghai,,4,3,122
+86,2013,rfyiamcool,fengyun.rui,User,@ServiceMesher @b3log @goniubi,China / BeiJing,,163,1477,365
+87,2016,kioyong,LiangYong,User,,,,43,17,29
+88,2017,crufkasav,Cruf Kasav,User,,,,0,5,15
+89,2015,lujanan,Janan,User,,"Guangzhou, China",,5,2,7
+90,2017,Qiuliuyang,Qiuliuyang,User,,,,11,2,15
+91,2015,chenyuebo,陈跃波,User,,,,15,16,35
+92,2016,yywc,眼已望穿,User,,ShenZhen,,14,7,13
+93,2015,moyasu,moyasu,User,,,,1,1,31
+94,2015,TianshicHunting,王晓泽,User,,,,7,3,7
+95,2015,wallbase,Wallbase Wallpapers,User,Wallbase Not Inc,China Great Wall ,,15,2,112
+96,2015,Liyndon,lixyon,User,,,,181,12,281
+97,2015,LiuQhahah,LiuQhahah,User,null,Nanjing,,79,3,67
+98,2015,cwj-rogers,rogerFun,User,,FoShan,,10,4,45
+99,2017,Johnliny,,User,,,,0,0,4
+100,2014,wq1019,wq1019,User,@zm-dev ,安徽省淮南市,,45,40,80
+101,2015,iipoter,poterliu,User,Medimpact,"Beijing,China",,37,1,41
+102,2016,badboy3000,,User,,,,308,10,149
+103,2015,Qughaq,Jilil Rahmat,User,Donghua University,Shanghai China,,13,2,18
+104,2017,lovelilei,lovelilei,User,,,,1,0,6
+105,2017,wewan,Wei Wang,User,,,,53,4,39
+106,2017,tryrus,,User,,,,3,0,11
+107,2014,EzimetYusup,EzimetYusup,User,@AD60 @OtkurBiz ,"ChapelHill,NC",,17,92,1184
+108,2015,CynScm,,User,,,,44,4,58
+109,2016,SamuelYG,SamYoung,User,,,,29,1,30
+110,2017,ldw21cn,,User,,,,138,3,23
+111,2014,gobraves,,User,,,,35,13,137
+112,2016,VictorZan,,User,,,,1,1,9
+113,2015,AutuanLiu,AutuanLiu,User,Southeast University,"NanJing, China",,81,64,727
+114,2017,maxixi13,maxiaoxiao,User,,,,2,0,2
+115,2016,xieys,xieys,User,ECUT,NanChang,,14,4,50
+116,2016,yaozheng1998,YZ,User,,,,7,22,55
+117,2016,Android-MI,小米`s,User,,China TianJin,,138,16,314
+118,2014,wnpllrzodiac,Michael.Ma,User,tv189,shanghai,,282,24,67
+119,2016,SoySauce1024,SoySauce1024,User,,,,13,1,23
+120,2016,easy4sec,easy4sec,User,,,,15,1,7
+121,2017,ChanZeZ,ChanZeZ,User,,,,2,0,93
+122,2014,micrologic,micrologic,User,Hundsun,"Hangzhou, China",,224,23,637
+123,2013,linkadd,Martin.J,User,,,,4,7,21
+124,2017,huangxiaoxie,,User,,,,39,1,16
+125,2016,xiaofan1991,Fan Jiang,User,Heilongjiang University of Chinese Medicine,"Harbin, China",,11,0,34
+126,2017,Marysgithub,Mary,User,,,,13,0,15
+127,2016,ingShen,Mings,User,,,,20,1,16
+128,2017,goodwell42,goodwell,User,,,,15,19,23
+129,2017,ayuchao,,User,,,,1,0,5
+130,2017,thinkergithub,Timge,User,,,,33,3,18
+131,2015,lovezp,梦想在路上,User,,,,1,0,4
+132,2015,kifast,天下的代码都是朕的,User,无组织无纪律,DPRK,,31,12,131
+133,2017,aiaihouge,LilAiTT,User,BIT,,,2,0,12
+134,2016,isees,,User,,,,94,4,80
+135,2015,ivitan,Vitan,User,,"Canton,China",,9,8,60
+136,2016,DToDelete,,User,,,,21,2,22
+137,2017,evi1j,,User,,,,1,0,14
+138,2014,qitianjin,qitianjin,User,北京,北京,,4,8,8
+139,2017,ChiefTigger420,Omar Jenkins,User,1982,Waynesville Missouri United States,,2,1,10
+140,2017,easepan,Ease,User,@code4everything ,"Chengdu, China",,19,24,95
+141,2009,leeight,Li YuBei,User,@Bytedance,"Shanghai, China",,190,318,728
+142,2013,perishyu,,User,,,,0,1,2
+143,2015,michaelymzhang,,User,,,,1,0,1
+144,2014,EumenidesCarry,ECarry,User,,"Fuzhou,China",,20,1,11
+145,2016,qicunshang,,User,,,,9,2,3
+146,2015,myinxd,Jason Ma,User,,"Shanghai, China",,32,13,18
+147,2015,JerryChii,JC For Short,User,,,,51,9,20
+148,2017,768927433,,User,,,,1,0,2
+149,2017,riba2534,riba2534,User,,,,28,18,34
+150,2015,anzh1,安之,User,,,,3,1,91
+151,2016,PerfectBlueFeynman,feynman,User,,,,10,2,42
+152,2016,wendyltan,Wendyltanpcy,User,People's Bank of China,"China,Zhuhai",,42,22,80
+153,2017,DylanYangwy,,User,,,,5,1,7
+154,2016,stormstone,Stone,User,,成都,,23,107,74
+155,2014,voitgxd,,User,,,,27,2,4
+156,2017,dongmiaomiao,,User,,,,2,3,5
+157,2014,zalax303,,User,,,,10,1,20
+158,2017,fishlegss,,User,,,,0,0,1
+159,2016,bsaby,Mona Sun,User,,Shanghai,,7,4,2
+160,2015,xintaiideas,流量,User,,china,,16,7,186
+161,2016,Easoncyx,Yixu Chen,User,,"College Station, TX",,16,5,13
+162,2017,Ambuehl97,,User,,,,3,0,16
+163,2013,YunoYuno,风神少女,User,,,,20,5,12
+164,2017,dustyding,Xiao Peng,User,,,,2,4,6
+165,2017,lxjack,jack liu,User,,,,3,0,4
+166,2016,couth1212,string,User,,,,7,0,2
+167,2016,stevenling,yunhu,User,,,,11,2,18
+168,2017,leolee5633,,User,,,,19,0,3
+169,2015,Sailfishc,张成,User,BEIJING,BEIJING,,140,35,444
+170,2016,swimmingwhale,Kuppo,User,,,,24,9,47
+171,2016,starlikerain,Evan Yann,User,major in computer science,Mainland China,,34,5,35
+172,2018,jker8,robin,User,,"Camrose, AB",,3,2,21
+173,2016,yueqianzhang,yueqian,User,,"Dalian, China",,23,15,405
+174,2017,jaisankit,Ankit Jais,User,Brand Profit,"Mumbai, India",,9,3,65
+175,2014,idreamshen,ChenHsingYu,User,"NetEase, Inc",Hangzhou,,38,32,170
+176,2016,Yanzlllll,,User,,,,123,8,177
+177,2016,Xixi20160512,ruan_xh,User,,china wh,,43,2,24
+178,2015,rockli0724,李林lilin,User,,,,45,1,24
+179,2012,chain0414,,User,,,,43,6,63
+180,2017,sabk222,,User,,,,1,0,13
+181,2016,WastonSuen,waston,User,,,,9,0,3
+182,2013,IssacYoung2013,Issac Young,User,Mistong Education Technology Company,HangZhou CN.,,30,7,45
+183,2016,biglygit,Timber,User,,,,6,5,43
+184,2016,ptteng,java,User,,,,35,29,16
+185,2017,littlefis,Yu Jianing,User,Zhejiang University,"Hangzhou, China",,8,8,12
+186,2017,zacharylam,ZacharyLin,User,,Sydney,,2,0,3
+187,2016,Godyakho,m,User,,Beijing,,26,7,34
+188,2016,CooSamuel,Qianshan,User,,"Suzhou, Jiangsu",,25,11,24
+189,2016,guowangrumeng,xizhao.dai,User,云霁科技,hangzhou,,18,3,4
+190,2014,codesboy,Rehack,User,BeiChen,"Chengdu,China",,79,11,31
+191,2017,HarrYjagariya,Harendra Sharma,User,,Noida,,0,1,18
+192,2016,adamsandwich,Adamsandwich,User,,"SHNU,Shanghai,China",,8,13,29
+193,2013,elnx,,User,,Universe,,36,122,898
+194,2016,wulin76,,User,,,,1,0,15
+195,2017,Mrxu123,Mrxu123,User,,guangdong.China,,3,0,30
+196,2016,Yannnnnnnnnnnn,,User,,,,76,18,91
+197,2015,mengyingzh,Mengying Melissa,User,,,,9,1,6
+198,2016,limberc,Limber Cheng,User,University of Oxford,"Oxford, UK",,160,82,176
+199,2016,QCtester,Qin朝,User,,,,2,1,7
+200,2017,atomwangda,Wang Da,User,,Beijing China,,18,3,28
+201,2016,Sophie521,Unicorn,User,221B,Chengdu,,29,12,219
+202,2013,w23ta0,武涛,User,,Beijing China,,18,11,86
+203,2017,heywrcoding,shufan zhang,User,UESTC,"Chengdu, Sichuan",,19,11,34
+204,2015,misakar,misakar,User,ByteDance,,,55,201,259
+205,2016,larrof,,User,,,,20,0,1
+206,2015,Sun-Shuai,AI developer,User,,TianJin,,33,5,13
+207,2015,ltyy,,User,,,,35,10,77
+208,2017,jc91715,,User,,Shanghai China,,60,11,69
+209,2017,isidore-wong,,User,GridSum,GuangZhou,,41,1,9
+210,2012,michaeldong,dong,User,,Beijing,,61,6,67
+211,2015,noyousjtu,,User,,,,16,0,2
+212,2014,MeiyouSunny,MeiyouSunny,User,MANZZ,China-ChengDu,,219,4,7
+213,2015,skyformat99,skyformat99,User,GITHUB,GITHUB,,8115,177,3968
+214,2013,kingheshan,King,User,,,,28,17,40
+215,2017,gggggggggg1,,User,,,,4,1,4
+216,2016,baifengbai,,User,,,,1082,15,1116
+217,2016,leibnizi,leibnizi,User,,shanghai,,30,4,49
+218,2017,ceqt333,,User,,,,4,0,2
+219,2017,ErBingBing,,User,,,,16,0,5
+220,2017,00why00,why,User,,,,5,1,9
+221,2015,chenyinchao,Yinchao Chen,User,,,,27,5,118
+222,2014,MrBigBang,Hyman Lee,User,,,,118,22,161
+223,2014,anynew,anynew,User,,,,5,5,13
+224,2016,StephenHuge,Steve Hu,User,,"Harbin, China",,29,6,41
+225,2017,Wonderful99668,ZhijunXue,User,HUST,Wuhan,,14,2,26
+226,2015,grlong,,User,,,,14,0,4
+227,2018,xiongqi123,,User,,,,1,1,33
+228,2016,Freetaoyu,陶瑜,User,,,,5,2,2
+229,2012,njZhuMin,MIN ZHU,User,,China,,42,41,99
+230,2015,dingweihua,布丁,User,,,,33,4,26
+231,2017,hi-noikiy,,User,,,,1451,7,38
+232,2015,YiwenXu,YiwenX,User,UNSW,Sydney,,2,1,13
+233,2015,MirrorAzureZhang,,User,,,,1,0,10
+234,2016,xieyufei1993,GeorgeJoe,User,,,,108,60,182
+235,2013,Cathon,Cathon,User,,Shanghai,,36,15,23
+236,2014,yrzx404,忆蓉之心,User,,"Chengdu, China",,9,40,129
+237,2016,shilunzhang,张诗伦,User,,,,4,2,13
+238,2018,Trijon1133,Jon Pritchard,User,Trithereum LLC,"West Palm Beach, FL",,2,8,82
+239,2016,SeanChen2012,,User,,,,37,3,28
+240,2016,dengbaoling,dengbaoling,User,,,,261,61,257
+241,2010,yihuihan,NeoHan,User,,Shanghai,,40,2,22
+242,2017,ryc3221775293,Yunzhao Wang,User,,,,18,5,15
+243,2017,nclight,gg,User,用友网络,BJ,,5,1,21
+244,2016,CoXier,JianxinLi,User,@Uniquestudio,Beijing,,20,104,78
+245,2016,WinMin,swing,User,@r3kapig ,,,40,179,54
+246,2016,100101001,,User,,,,1,0,15
+247,2013,yaoshanliang,iat,User,Soochow University,"Suzhou, China",,97,74,73
+248,2017,pyknife,candyriver,User,,,,63,1,73
+249,2017,YunLambert,GeekYUN,User,XiGuaCity,Chengdu,,24,22,59
+250,2013,phpmaple,KooFrank,User,http://weibo.com/phpmaple,ShangHai China,,25,124,319
+251,2016,LinAndroid,,User,,,,6,2,15
+252,2012,vovolie,dealernomore,User,,,,29,12,76
+253,2014,hustlihaifeng,lihaifeng,User,,Wuhan.China,,27,1,15
+254,2015,Tomy-Lee,Jia Li,User,Sun Yat-sen University,"Canton, Guangdong province, China",,20,18,48
+255,2016,ben1iu,刘兵林,User,,郑州,,12,3,105
+256,2012,Migoo-LiWB,www.macxx.cn,User,MacXX Inc,China,,15,6,40
+257,2012,luan0ma,Alan,User,,Eindhoven,,12,1,17
+258,2017,sandydecision,,User,,,,3,0,6
+259,2015,cyberorgnizm,Adole Samuel,User,CDR,"Abuja, Nigeria ",,29,25,59
+260,2017,qintao0203,qintao,User,,BeiJing,,11,3,53
+261,2016,duyehong,DuYeHong,User,,"DongGuan, China",,9,4,77
+262,2012,tianguanghui,GreyWolf,User,,,,1061,16,233
+263,2015,heishanmao,,User,,,,3,1,5
+264,2014,gunnergit,peng,User,,,,18,5,35
+265,2015,chenkexu,chenkexu,User,,,,32,4,75
+266,2016,Heisenberg710,,User,,,,8,0,4
+267,2015,Donglingang,董林刚,User,,,,12,0,7
+268,2012,renfengmei,renfeng.mei,User,petkit,www.petkit.com,,10,15,58
+269,2013,yzl520,,User,,,,33,7,57
+270,2015,chenshiyuhit,Shiyu Chen,User,"Harbin Institute of Technology, Shenzhen",,,45,7,13
+271,2014,humaozi00,,User,,,,6,1,50
+272,2016,Evinemz,,User,,,,0,1,5
+273,2014,suilin1254703825,Lin Ye,User,,beijing ，China,,6,3,17
+274,2015,wangkaiwan,,User,,Xi'an Shaanxi China,,23,2,24
+275,2016,Kylin2,,User,,,,9,1,7
+276,2015,MissCuriosity,MissCuriosity,User,,,,40,14,71
+277,2015,angellball,,User,,,,0,0,1
+278,2016,jyncode,,User,,,,2,6,28
+279,2017,superburn,,User,,,,1,2,5
+280,2017,LaelLuo,Lael,User,,,,7,2,11
+281,2016,yang217,jack,User,Global,Earth,,179,31,1576
+282,2017,LiuJiuJie,,User,,,,0,1,8
+283,2015,Wenyi1995,,User,,,,3,1,3
+284,2016,LuciferDemon,NeoLee,User,,,,1,0,1
+285,2014,liyuzhao,李玉召,User,@easemob ,Beijing,,314,8,39
+286,2016,hsy1992,Endless,User,,,,9,1,16
+287,2012,chenshengzhi,陈圣治,User,,"Xiamen, Fujian, China",,46,16,175
+288,2015,Ericsongyl,天外来客1009,User,,,,36,20,16
+289,2018,kennethliu2008,,User,,,,0,0,1
+290,2017,Allen151,Allen,User,公众号：allen151,GuangGong  China,,42,7,42
+291,2013,MaxLuan,Max LUAN,User,,CUHK HK,,12,5,15
+292,2014,JustgoFlyme,,User,,,,18,0,4
+293,2017,huangguangda,达叔小生,User,https://huangguangda.github.io/,广东-广州,,125,17,100
+294,2014,Edward-Shaw,肖老板,User,ECNU,"Shanghai, China",,80,18,68
+295,2016,yinbun,Yinbun Yip,User,,,,7,1,21
+296,2011,weimingtom,weimingtom,User,,"Guangdong, China",,2255,184,1873
+297,2015,disemboltura,,User,,,,2,1,14
+298,2014,google2013,,User,,,,1626,33,774
+299,2013,songyue,songyue,User,,,,47,7,47
+300,2017,Terrywjx,wangjinxin,User,Peking University,Beijing,,45,6,27
+301,2016,yancymin,Yancy Min,User,@GeeTeam,China,,41,31,216
+302,2016,hustliweizeng,,User,,,,4,3,28
+303,2016,jukieq,,User,,,,1,1,3
+304,2016,tianliuyang,sherry,User,,,,4,5,10
+305,2015,hyhlinux,tplinux,User,https://apkpure.com,,,406,18,122
+306,2014,18311023368,开着拖拉机迎着春天的到来,User,,,,30,1,19
+307,2017,w1327606,,User,,,,8,0,3
+308,2017,yophson,Yu-F,User,,,,1,0,1
+309,2017,AlexOzz,,User,,,,1,0,1
+310,2016,liujujun,,User,,,,5,0,3
+311,2016,zhengyima,ZY Ma,User,,"Haidian District , Beijing",,52,14,27
+312,2013,jackping,jackping,User,,,,11,1,7
+313,2014,pandancode,大团子,User,,,,22,6,14
+314,2015,lihonglinglory,Glory,User,,China,,29,6,47
+315,2016,rennianqing,,User,,,,3,0,3
+316,2016,SherlockLHT,,User,,,,24,2,1
+317,2016,StephenYgz,DanielYang,User,,"shanghai,China",,58,2,17
+318,2016,Cecil0o0,Cecil,User,@tuia-fed ,HangZhou ZheJiang China,,24,4,8
+319,2016,Polaris-cn,Polaris,User,,,,11,0,2
+320,2015,13567370952,,User,,,,188,2,23
+321,2014,503945930,wei,User,,chengdu,,192,88,225
+322,2015,wswMars,,User,,,,4,1,9
+323,2015,ioljok1988,,User,,,,0,9,245
+324,2013,hanx11,Han Feng,User,,Shanghai China,,39,7,71
+325,2017,Shiori625,,User,,,,0,0,1
+326,2015,yll2wcf,于连林520wcf,User,,天津,,25,33,25
+327,2015,LGang,李罡,User,,杭州,,15,8,60
+328,2015,Andy0214,Andy0214,User,,,,65,0,73
+329,2017,p18179156,,User,,,,0,0,1
+330,2015,yuxinuser,,User,,北京海淀区,,38,1,39
+331,2015,yizibi,一之笔,User,**信息科技,杭州·滨江,,48,25,172
+332,2016,ArrowC,ArrowC,User,,,,1,0,6
+333,2016,zhangmazi7357,,User,,,,3,1,28
+334,2016,MuY7MuL,MuMu,User,,,,10,0,5
+335,2014,LJ001,,User,,,,11,73,1654
+336,2015,24suixinsuoyu,David Heisenberg,User,ofo,"Beijing, China",,70,9,165
+337,2017,Tric333,,User,,,,12,0,2
+338,2016,fuhaodev,Fu Hao,User,,,,34,14,201
+339,2015,Luckyncl,,User,,,,109,2,37
+340,2017,BarryWang2017,,User,,,,8,0,1
+341,2013,xiaguliuxiang,侠骨留香,User,,,,42,1,37
+342,2013,Joycc,,User,,,,22,2,5
+343,2016,LeoaY,leoay,User,Hangzhou,"Hangzhou, Zhejiang",,119,3,19
+344,2015,muyu0808,,User,,,,0,0,1
+345,2014,CheungChan,阿章,User,超盟文化,Beijing,,26,14,99
+346,2018,WangXiaoyuoo,Wang Xiaoyu,User,,China,,11,5,49
+347,2013,sugarAndsugar,观剑不则声,User,,China,,10,8,6
+348,2017,JackLittlePig,Jack LittlePig,User,17610230792@163.com,,,24,9,32
+349,2013,ningbende,,User,,,,15,0,3
+350,2017,HelloWhist,,User,,,,9,2,13
+351,2017,GourdFans,zhang桌子,User,,China,,6,2,7
+352,2014,d470969047h,戴晖,User,,,,25,18,20
+353,2017,blackAndrechen,,User,,,,28,2,3
+354,2015,LeungEr,,User,,,,7,9,44
+355,2017,jinle94,Ffizz,User,,中国,,0,0,2
+356,2017,bestHAI,bestHAI,User,,,,1,0,14
+357,2017,personal-account-private,,User,,,,0,1,2
+358,2012,difoi,张群,User,,,,240,14,168
+359,2018,1995kkxl,,User,,,,2,0,1
+360,2015,TIGERB,Zhan Shi,User,Xiaomi Corp,"Beijing,China",,22,476,245
+361,2015,andy521,,User,,,,1511,20,527
+362,2013,V-KING,Viking,User,,,,78,3,28
+363,2016,HarlanZhou,,User,,,,6,1,4
+364,2016,Everglowzz,,User,,,,21,3,19
+365,2015,xiaocao008,,User,,,,5,2,12
+366,2017,xhbcctv,xhbcctv,User,,,,26,0,2
+367,2018,JunyuZou,,User,,,,2,0,2
+368,2017,Geassu,,User,,,,9,1,41
+369,2015,broadvieweditor,,User,,,,1,1,50
+370,2014,yoCruzer,yoCruzer,User,,,,243,91,2107
+371,2015,myqq156001980,abel,User,,,,103,3,10
+372,2015,Liuguozhu,柱哥哥,User,,"BeiJing, China",,37,5,15
+373,2016,m-shouman,Mostafa Shouman,User,,"Cairo, Egypt",,13,7,45
+374,2015,imjerrybao,Jerry Bao,User,,,,3394,34,466
+375,2016,Kearney66370,Kearney,User,,,,3,0,4
+376,2015,aermayue,aermayue,User,,,,48,2,7
+377,2017,Jamboalv,Super_Heroines,User,,China,,7,1,19
+378,2013,ming2d941,charming,User,cmcm,"BeiJing,China",,8,7,128
+379,2016,bigxigua,Running snail,User,,,,30,2,2
+380,2016,wushenghang,,User,,,,3,0,5
+381,2009,hooopo,Hooopo,User,<img src='' onerror='alert(1)' />,"Beijing, China",,110,509,755
+382,2016,z365892502,zk,User,,,,2,1,18
+383,2015,Ancodercff,Chenff,User,,"Quanzhou,China",,31,6,116
+384,2018,Yerichen,,User,,,,0,0,1
+385,2016,wsyue,,User,,,,1,0,1
+386,2011,KimiGao,Yang,User,,,,45,23,59
+387,2014,daikaixian,water.dai,User,,,,27,14,45
+388,2013,liqites,Tesla Lee,User,,,,60,19,172
+389,2015,gentrio,gentrio,User,,"Hangzhou, CHINA",,10,3,26
+390,2013,googlerobot,废材,User,,,,1,34,174
+391,2016,antarts,Antarts,User,,China,,47,10,43
+392,2017,flyingpig789,,User,,,,4,1,8
+393,2017,AmosLee94,,User,,,,19,1,1
+394,2015,jiachongliu,jiachongliu,User,,China,,27,52,125
+395,2016,Merpyzf,wang ke,User,,"NanJing , China ",,60,29,100
+396,2017,snowinglight,,User,,,,10,0,3
+397,2017,zhaoxiaozhou,Joe.Zhao,User,,HangZhou.China,,4,1,8
+398,2017,Tyella,Tyella,User,,,,28,1,18
+399,2016,ohownew,Yuan Zhong,User,,,,4,0,1
+400,2016,MrTheWhiteHat,Mr WhiteHat,User,,,,24,7,104
+401,2017,KiaoKing,KiaoKing,User,,,,10,0,3
+402,2015,pjh520,,User,,,,16,0,11
+403,2017,zhangerbeng,,User,,,,2,0,4
+404,2017,ligb1023561601,Ligb,User,,Beijing,,28,3,6
+405,2016,0njzy0,njzy,User,,"Anhui, China",,154,33,123
+406,2017,sxz1216,,User,,,,15,2,1
+407,2017,JackHat,JackHat,User,,,,4,0,14
+408,2018,Dyaln,,User,,,,1,0,1
+409,2018,Fly-Zhang,,User,,,,1,0,1
+410,2016,lufeisan,,User,,,,19,8,139
+411,2015,Tony-Chiong,,User,"PhD, Tsinghua University.",,,23,8,79
+412,2014,AndySung,Andy,User,,,,10,1,18
+413,2017,MrssiP,MrssiP,User,,Barcelona,,3,1,17
+414,2013,ychda,ychda,User,,,,8,0,29
+415,2015,snapsisy,kaiwang,User,,"Nanjing,Jiangsu,China",,10,16,216
+416,2015,zsf214,,User,,,,4,1,7
+417,2017,luozhuxiaoxiao,,User,,,,0,0,1
+418,2017,JinleiReborn,,User,,,,25,6,63
+419,2017,OscarXZQ,OscarXZQ,User,,,,4,0,2
+420,2018,Asia-Lee,Asia-Lee,User,,,,21,6,9
+421,2016,ghl116,尼古拉斯德彪,User,,shanghai  china,,27,2,39
+422,2016,bozhihouc,Analogy,User,,,,2,6,34
+423,2017,TakeDumbbell,C_H_C,User,,,,15,4,7
+424,2016,brightLLer,brightLLer,User,,,,14,3,7
+425,2016,SunWeiKeS,Weisun,User,,,,0,3,17
+426,2017,wanghao778,,User,,,,0,0,1
+427,2012,iMemento,王在京,User,PeakCoder,China,,9,12,46
+428,2016,look-for,,User,,,,7,2,46
+429,2017,Oslomayor,Denis,User,,,,77,7,16
+430,2017,hewenning,linuxer小橡皮,User,,Xi’an,,38,24,45
+431,2014,swzxsyh,,User,,,,3,0,5
+432,2016,alkayoun,Alkayoun,User,,,,14,0,40
+433,2017,497025126,MingRui.Hu,User,,,,4,1,21
+434,2017,gauravsinha1arrah,Gaurav Kumar Sinha,User,Lovely Professional University ,Jalandhar,,4,1,4
+435,2016,zzdespair,,User,,,,9,0,1
+436,2015,cybort,,User,I will be always collecting before 'everything went down'.,,,1441,35,639
+437,2016,pullboy2016,nuth1n1997,User,,nanning,,4,2,7
+438,2015,huleg,Lukehuleg,User,,"Cambridge, MA",,1781,39,817
+439,2017,platodray,,User,,,,1,0,2
+440,2016,sunnyysky,李庆平,User,国泰安教育科技有限公司,HeFei,,3,0,3
+441,2016,echogwu,Echo Wu,User,,San Francisco,,20,2,6
+442,2011,changboter,changboter,User,Wboll,,,53,7,65
+443,2013,codeterminator,zhukeyu,User,,nanjing,,8,4,9
+444,2015,Lalic,,User,,,,10,4,12
+445,2013,lynch1989,,User,,,,7,7,78
+446,2015,CinderellaCJ,,User,,,,28,6,14
+447,2014,zhanghqgit,,User,,China,,27,12,12
+448,2013,OXOYO,葡萄干@吐鲁番,User,AutoHome,Beijing,,132,101,180
+449,2016,jinhuizxc,,User,just do it,"shenzhen, China",,922,46,524
+450,2015,chenruibin,ruibin,User,Senior Software Developer Engineer,Beijing.China,,10,152,2595
+451,2017,shawn44,,User,,,,5,0,22
+452,2015,kcjian,库从建,User,,,,16,4,11
+453,2015,wzhanjun,jun,User,,,,11,17,109
+454,2015,JeepLin,Jeep,User,golang,China ShenZhen,,23,20,126
+455,2013,honeyflyfish,,User,,ShenZhen,,1150,11,82
+456,2015,liucing,liucong,User,,,,13,7,72
+457,2015,wfsly,Jax Wang,User,,,,19,4,66
+458,2017,yywecanwin,,User,,,,4,1,3
+459,2016,zzc-master,,User,,,,0,0,9
+460,2016,charismafight,Lee,User,champion,Hubei.Wuhan,,40,2,10
+461,2012,Abefocuson,Ridden,User,,,,25,1,52
+462,2016,yuyilei,Yilei,User,CCNU@Muxi-Studio,WuHan,,44,103,95
+463,2015,luohuaDev,Stefan,User,,,,11,4,105
+464,2015,zhang-yuyan,,User,,,,2,2,1
+465,2016,hammedalao,Hammed Alao,User,,Nigeria,,6,0,2
+466,2012,YY030913,YY030913,User,,,,592,10,149
+467,2014,stevenlfg,stevenlfg,User,ZM,"Shanghai,China",,26,21,232
+468,2016,fyl1994,"Edison,Feng",User,No company,HaiLaEr,,6,9,30
+469,2017,sabersword,Yan Peiquan,User,,"GZ,CHINA",,15,1,2
+470,2016,Enjay-wang,Q~~~~~~,User,,,,3,0,7
+471,2013,sakuya9t,,User,,,,26,2,6
+472,2015,newcoderzhang,,User,,,,279,7,36
+473,2014,Edison6351,你大爷,User,,中国 北京 朝阳,,65,3,19
+474,2016,cleverbao,Bao,User,,,,5,19,76
+475,2016,nancybaby002,nancybaby002,User,UESTC,"China,Shandong,Jinan",,19,6,9
+476,2011,tuyendv2,Tuyen Dinh,User,,Viet Nam,,17,14,121
+477,2016,canglangdahai,沧浪大海,User,,Wuhan,,2,0,4
+478,2017,xdql,,User,,,,10,0,3
+479,2012,maytrue,guowei,User,Immomo,Beijing,,122,10,78
+480,2013,gujiangbo,,User,,,,13,6,117
+481,2017,cbhcbhcbh,,User,,,,4,1,14
+482,2011,keefo,Xu Lian,User,http://www.beyondcow.com/,Vancouver,,106,376,83
+483,2015,cooldo,,User,,,,2,2,7
+484,2017,NeverSayFuck,sniper-lee,User,,,,1,0,1
+485,2013,biaomaxingkong,Steven Ma,User,,China,,4,2,2
+486,2015,luofengyeer,,User,,,,5,0,3
+487,2016,vikingden8,Viking Den,User,China VK Inc.,ShenZhen,,40,5,176
+488,2016,StormZang,StormZang,User,云天,济南,,3,3,24
+489,2013,ywanb3,,User,,,,5,5,23
+490,2017,StephenHolmesGo,,User,,,,3,1,9
+491,2015,wanshicheng,万仕诚,User,,Shenzhen,,27,9,89
+492,2017,sunwantong,wantong.sun,User,,ChongQing.China,,8,31,27
+493,2013,wadekun,Jack Liang,User,,,,76,14,55
+494,2016,vkkevin,Kevin Wong,User,,,,15,1,44
+495,2015,Windsander,Willow Li,User,,"China, BeiJing",,10,16,15
+496,2017,beehash,,User,,,,5,1,5
+497,2017,Weltloose,,User,,,,5,1,4
+498,2014,langmanxch,,User,,,,31,6,48
+499,2017,185086074,,User,,,,0,0,1
+500,2011,liubin1777,Robin,User,@alibaba,HangZhou,,286,33,273
+501,2015,sonicsunsky,,User,,,,34,2,155
+502,2013,lihonghong,L,User,mi.com,beijing,,6,7,34
+503,2016,Betweenwords,,User,,,,2,0,1
+504,2016,Leon0312,leon.z,User,,,,29,3,8
+505,2012,qinglong61,duan yu,User,GrowingIO,china,,50,11,60
+506,2014,staugur,Mr.tao,User,SaintIC,Beijing China,,12,160,249
+507,2014,WongCM,,User,,,,16,1,2
+508,2016,Harwy,,User,,,,7,3,3
+509,2018,lwy7e,,User,,,,5,0,3
+510,2015,freezehe,JiebingHe,User,,Shanghai .China,,105,7,14
+511,2016,shuanglangdeliubei,shuanglangdeliubei,User,,NanJin,,25,0,13
+512,2015,Qiu-Kejian,,User,,,,3,0,2
+513,2015,huangym2015,,User,,,,14,0,4
+514,2012,chenqiyi,chenqiyi,User,eWorld,,,23,27,116
+515,2016,coder-monkeys,Wenlong Zhang,User,,北京,,34,0,12
+516,2017,ByronGe,,User,,,,15,0,20
+517,2015,xbt18795959581,,User,,,,4,7,8
+518,2014,HotWordland,WL,User,chasefun,China,,64,47,228
+519,2015,mountainswen,wengs,User,,,,49,17,138
+520,2014,arbegla,,User,,,,5,2,17
+521,2016,walterzhaoJR,walterzhao,User,,shenzhen,,114,15,40
+522,2013,yoda23,,User,,,,7,0,1
+523,2012,AtWinner,胡胡,User,inspur,"JiNan, China",,37,2,27
+524,2017,bulande,,User,,,,1,0,1
+525,2015,Tailen,,User,,,,9,1,3
+526,2013,qinjuan,,User,,,,19,0,12
+527,2017,jiangshanlong,,User,,,,76,0,2
+528,2017,SachieWang,,User,,,,10,2,17
+529,2017,zhangyujia0223,hands-on,User,,,,2,0,10
+530,2015,L3T,zyy,User,,,,6,9,25
+531,2018,liyuanpei0718,,User,,,,0,0,1
+532,2016,sparkhuu,sparkhuu,User,,,,154,10,139
+533,2017,Zhangjiayu3721,ZhangJiayu,User,,,,9,3,1
+534,2015,jiaxinxuan,贾新轩,User,,,,7,18,44
+535,2016,DemmiCho,DemmiCho,User,https://ninacho.github.io/,shenzhen,,22,4,34
+536,2014,jieniyimiao,jieniyimiao,User,tencent,"Xi'an,China",,13,6,9
+537,2015,LiangMaYong,Liang Ma Yong,User,,HangZhou China,,46,12,16
+538,2017,YaliDuan,夏目,User,,,,2,0,1
+539,2016,XueChenChen,chenxuechen,User,,,,69,2,40
+540,2017,dongrixinyu,冬日新雨,User,,"Sichuan, Chengdu, China",,1,4,10
+541,2017,jigangzhang,,User,,,,22,0,8
+542,2016,dikang123,dikang123,User,"Closeli,ArcSoft",HangZhou,,680,14,392
+543,2016,Yuamo,Yumao,User,,"Xi'an, China",,79,5,34
+544,2013,0chunhui,,User,,,,17,3,16
+545,2017,zczhao2018,,User,,,,9,0,7
+546,2014,chen615,,User,,,,11,3,14
+547,2017,sctop,Mr. Zhang(Zhang qirun),User,,,,26,5,13
+548,2015,lcb1208,Biao Liu,User,None,CHINA,,4,0,3
+549,2017,15713772418,活到老学到老,User,,,,4,0,2
+550,2013,haxiaowei334,haxiaowei,User,,,,12,11,62
+551,2018,renewan,,User,,,,0,0,1
+552,2015,mnshun,Mai,User,china,beijing,,2,1,10
+553,2015,Sonyong,,User,,,,4,0,1
+554,2017,mengyagit,王梦亚,User,,Shenzhen,,10,0,5
+555,2016,PikuYoake,,User,SJU/W&P,,,41,29,136
+556,2017,TABOO55,,User,,,,6,1,16
+557,2018,yinmaoning55,碎碎念,User,,,,9,2,5
+558,2016,hu-qi,huqi,User,Hikikomori,Guangzhou CHN,,59,27,145
+559,2017,zx2693675,周祥,User,,,,4,1,4
+560,2017,zerostwo,duansq,User,Zzmath,"Yaan, Sichuan, China",,8,2,11
+561,2017,XUMUYU,Joe_Xu,User,,,,17,0,5
+562,2016,muzi-8,muzi-8,User,http://www.ie.ac.cn/,Beijing,,92,37,539
+563,2017,cyclezhou,,User,,,,13,0,2
+564,2017,llllaw,,User,,,,7,0,1
+565,2017,lvxiaodongweb,Lv Xiaodong,User,,,,5,4,50
+566,2016,tianchenxingzi,,User,,,,9,1,8
+567,2016,Yinqien,,User,,,,0,0,1
+568,2017,idongchen,,User,,,,9,5,12
+569,2018,toni-k,Toni K,User,Freelance,"Nairobi, Kenya",,1,1,12
+570,2018,ChineseSuperman,Get Good Go,User,,,,3,0,2
+571,2015,Iamasoldier6,ZeBron Swyane,User,@Meituan-Dianping ,"Shanghai, China",,14,92,1188
+572,2013,frankiezz09,Franklin Mark Aguba,User,Stratpoint,Philippines,,10,2,15
+573,2017,Arthurworker,,User,,,,5,0,26
+574,2017,LIShuHang1,李舒航-2015,User,河北师范大学,河北师范大学,,10,4,6
+575,2015,shizhenhua01,,User,,,,10,1,2
+576,2010,lotosbin,lotosbin,User,@fingersoft-inc ,江苏东海,,281,22,59
+577,2018,zcc24,,User,,,,14,0,2
+578,2017,hjqnorthsailor,,User,,,,20,0,2
+579,2017,BeanWei,,User,nil,Chongqing,,109,19,104
+580,2013,lmhfq,lmh,User,,,,16,3,22
+581,2013,iqkl,,User,,,,32,1,4
+582,2018,Josephdunkey,,User,,,,1,0,2
+583,2014,carlzhao,Carl,User,Tencent,Shenzhen,,47,11,197
+584,2015,lishucai,,User,,,,78,3,59
+585,2017,JGPY,Jason.Lou,User,,Hangzhou-China,,20,6,24
+586,2015,sjxt,时间小偷,User,kupurui,,,5,33,134
+587,2018,1websterjunior,,User,,,,1,0,12
+588,2014,CODINGLFQ,Frank.X,User,,"Ningbo, China",,72,6,46
+589,2016,jingchangyong,,User,,,,47,4,37
+590,2012,AndyZhuang,AndyZ,User,Starship,,,279,78,294
+591,2016,zhouSUway,周苏辉,User,美硕投资银行,上海,,19,3,22
+592,2015,Donugh,Donugh,User,,china,,24,0,6
+593,2014,tasktinkle,lisheng,User,Baidu,"Beijing, China",,1,25,118
+594,2016,sunqicn,SunQI,User,,"xi'an,china",,5,1,11
+595,2016,Xoin-Yang,Yangss,User,,Shanghai.China,,17,3,10
+596,2016,foreverlms,bobliao,User,Shanghai University,"Shanghai, China",,26,6,49
+597,2017,cuteqin,cuteqin,User,,,,9,0,5
+598,2018,alexjianglj,,User,,,,16,0,2
+599,2016,sjwang6,sjwang6,User,,HeFei in China,,1,0,2
+600,2013,Mini256,Mini256,User,,China,,6,1,32
+601,2017,youyuanjingmeng,,User,,"China,XiAn",,18,1,18
+602,2016,rhyspang,Rhys Pang,User,,Beijing,,30,17,19
+603,2015,DoubleKing,doubleking,User,Utry,Beijing,,4,4,6
+604,2017,wqc1235,Wang,User,,,,4,0,1
+605,2013,hackerchai,柴轶晟,User,Cotr Community,Shenyang Liaoning China,,33,27,27
+606,2017,AlexShenzy,Alex Shen,User,,,,2,0,2
+607,2018,tai-jexia,,User,,,,0,0,13
+608,2017,52unique,,User,,,,1,0,1
+609,2015,penguin-wwy,penguin-wwy,User,,深圳,,30,41,130
+610,2017,Hyzxshyx,Han,User,,,,12,1,6
+611,2016,fangxiaogang,fangxiaogang,User,,shenzhen,,29,12,10
+612,2017,Zachary-ding,Zachary-ding,User,,,,4,0,4
+613,2014,PackyXu,PackyXu,User,free,free,,36,11,39
+614,2013,jiangbing9293,jiangbing,User,FREELANCER,guangzhou,,162,4,49
+615,2016,Kevintso,,User,,,,6,0,2
+616,2017,realMiga,,User,,,,21,0,31
+617,2017,zgfcode,ATEN,User,,China,,9,5,20
+618,2016,zzllhc,,User,,,,7,1,79
+619,2014,liqing201104,,User,,,,42,5,29
+620,2017,abaoMAO,,User,,,,41,0,1
+621,2012,HiWill,,User,,,,84,19,395
+622,2015,datalee,,User,,,,37,8,157
+623,2016,RobinHC,,User,,,,98,2,4
+624,2017,kingshiplet,,User,,,,0,0,6
+625,2016,youaremybean,liwenbin,User,,china,,11,0,5
+626,2017,winberl,,User,,,,5,0,2
+627,2013,guzhaohui,顾朝辉,User,,,,0,6,10
+628,2014,YangShaoXiong,杨少雄,User,,HeBei China,,7,60,299
+629,2016,liyuenan93,Maxwell Li,User,@Nokia,HangZhou,,4,3,8
+630,2014,David2685,,User,,,,11,0,12
+631,2015,Pa55w0rd,Pa55w0rd,User,,,,63,40,114
+632,2017,TalissonQueiroz,,User,,,,2,0,9
+633,2018,realcici999,,User,,,,1,0,5
+634,2015,machengjun,,User,,,,7,2,16
+635,2016,mist-lin,Glin,User,,河南,,18,1,8
+636,2013,wning8258,,User,,,,38,3,30
+637,2016,BIGBird1994,xiaotao,User,,beijin,,19,8,118
+638,2015,JiaHaoGong,,User,,,,49,2,7
+639,2015,xsy2015,,User,,,,6,1,27
+640,2015,bosslizhiyong,小城屠夫,User,,,,9,0,4
+641,2014,cyl1231,zhongming,User,,beijing,,32,0,2
+642,2017,weijieren,,User,,,,2,0,2
+643,2014,sxyseo,,User,,ShenZhen,,513,36,607
+644,2017,OnlyCastiel,,User,,,,6,0,2
+645,2016,lihthub,Li Haitao,User,,"Nanjing, China",,5,3,24
+646,2017,ZooEver,,User,,,,4,0,5
+647,2017,LinnilNi,Linnil Ni,User,,,,9,2,27
+648,2013,happybin92,,User,,,,13,0,4
+649,2013,bberrydry,bb.dry,User,,,,3,2,9
+650,2018,Yan1015,Zijian Yan,User,,,,7,0,1
+651,2017,ThinkNothing,ThinkNothing,User,cqupt,,,2,0,2
+652,2016,xuehongnizhao,,User,,,,27,1,24
+653,2018,haige268,,User,,,,0,0,5
+654,2017,Clivn,dodilee,User,,,,7,4,19
+655,2014,zyMao,,User,,,,13,0,2
+656,2017,BigTreei,BigTreei,User,,Shenzhen,,21,2,10
+657,2015,wwwyccc,,User,,,,0,0,58
+658,2014,JiangangYang,Jiangang Yang,User,welines,Beijing,,8,9,168
+659,2013,h3ar7dump,h3ar7dump,User,,"Chengdu,China",,2,10,36
+660,2017,juhao666,Erik,User,,,,7,0,10
+661,2016,Hibop,Hibop Yuan,User,,"Shenzhen, China",,89,5,48
+662,2014,lxiaoxiang,luoxiaoxiang,User,,,,3,4,32
+663,2016,Unknown2016,无名,User,,,,3,4,55
+664,2016,xiphodon,Guo Chang,User,,,,134,12,18
+665,2016,hlfff,韩龙飞,User,,Beijing，china,,2,5,8
+666,2018,o0O0oLGL,,User,,,,0,0,1
+667,2015,MachelleZhang,,User,,ChengDu. China,,10,2,9
+668,2012,upcomingxx,tianjiayuan,User,,Beijing,,56,0,8
+669,2014,mizhon,little.arbor,User,nil,China,,5,10,76
+670,2015,iloyu,,User,,,,28,0,9
+671,2017,WangCanglong,,User,,,,2,0,9
+672,2016,Garfiebobo,,User,,chengdu,,12,1,18
+673,2018,VictorZG33,Wentao Zhang,User,,"New York, NY",,0,6,12
+674,2015,LoveCoati,,User,,,,119,2,28
+675,2016,xinmingZhou,周信明,User,,shenzhen,,15,8,31
+676,2013,dreamthrough,,User,,beijing,,34,1,4
+677,2016,zrh66,Hakunamatata、,User,,,,3,0,2
+678,2013,kedarui,,User,,,,43,1,4
+679,2015,DingjZhang,,User,,Beijing China,,11,4,30
+680,2017,Restill,,User,,,,73,0,16
+681,2016,softanemone,,User,,,,1,0,2
+682,2017,cdxdpeng,,User,,,,12,0,5
+683,2016,xiangsxuan,xiangsxuan,User,,,,78,8,68
+684,2017,Lenhartluo,Hao Luo,User,,,,1,1,22
+685,2015,XTCui,,User,,,,5,0,4
+686,2017,zsbyEric,,User,,,,2,1,1
+687,2016,zhongjidalao,薛定谔的猫,User,,,,27,5,41
+688,2015,zhaoyk1986,,User,,,,1,0,83
+689,2014,coooliang,Lion,User,newland,fuzhou fujian china,,50,3,62
+690,2015,viking714,viking zhang,User,ZTE,Shenyang China,,50,3,18
+691,2017,annanbest,annan,User,,,,2,0,2
+692,2017,QichangZhang,,User,,,,4,2,39
+693,2015,tktujy,,User,,,,0,0,12
+694,2013,Wykay-z,Wykay,User,Communication University of China,,,33,7,93
+695,2015,sixbo,狼的传说,User,,,,3,1,4
+696,2017,GoldenMountainKing,Shady,User,,,,2,0,6
+697,2016,shendewei,wenruo,User,,,,201,6,55
+698,2012,licangqiong,Caoyuan Li,User,,,,29,13,294
+699,2016,KeKangShui,,User,,,,20,0,8
+700,2015,wuwei88,wuwei,User,,,,2,2,8
+701,2015,a1oyss,a1oyss,User,,,,7,0,3
+702,2016,ZouHongxue,邹洪学,User,,烟台大学,,28,3,6
+703,2014,tw0629,飘逸小天 ,User,Tian Di Hui | 天地会,Beijing,,103,3,93
+704,2017,koudaiDemon,koudaiDemon,User,湖北大学,武汉,,15,1,10
+705,2015,wanjinchang,wyz,User,,"Shenzhen,CHINA",,1781,19,30
+706,2015,Hao-D,,User,,,,5,0,3
+707,2014,Tandysony,Suo Tan,User,@Playtika,,,49,8,68
+708,2017,glutouny,,User,,,,2,0,6
+709,2017,Chakid,Chakid,User,HuBei,China,,40,7,42
+710,2015,cristinast,GeGe Wang,User,,,,13,8,7
+711,2014,wanglelecn,Lele Wang,User,,China,,9,3,191
+712,2015,zhentoufei,Mr.Finger,User,,hangzhou,,47,12,47
+713,2014,tao31,,User,,,,13,0,6
+714,2016,dreamfish797,LoneWolf,User,ThunderSoft,Nanjing . China ,,13,10,19
+715,2015,zilongchina,,User,,,,2,0,2
+716,2016,bryant-shuai,,User,,,,36,1,15
+717,2016,DeepBlueStory,Ning Li,User,,,,9,0,1
+718,2018,thinkpad999000,,User,,,,1,0,6
+719,2018,hanc44,,User,,,,1,0,1
+720,2017,he1l0world,Suyang Chen,User,,The U.S.,,19,21,42
+721,2011,AnthonyDou,Shaojun Dou,User,,"Beijing, China",,44,7,76
+722,2014,afeiluo,,User,,,,27,2,4
+723,2017,TerryGu0908,Terry,User,,"Anhui, China",,37,6,4
+724,2015,xiao233ming,,User,GDUT,guangzhou China,,42,4,79
+725,2013,iconsider,Jesse.Liu,User,IC.tech,China,,22,4,22
+726,2016,U2tzJTNE,JK,User,,,,24,3,7
+727,2015,franlock,,User,,,,0,0,1
+728,2017,Nick-Zzz,,User,,,,6,0,2
+729,2015,zhuangrunbo,bazi,User,,,,5,0,8
+730,2018,Paulguitar,章鱼哥,User,,shanghai,,0,0,1
+731,2017,DukeSaika,Duke,User,,,,0,0,1
+732,2016,frozentearz,frazier,User,HuNan software college,"Xiangtan/Guangzhou, China",,12,7,27
+733,2013,Franktian,Yawen Tian,User,University of Toronto,Toronto,,34,14,28
+734,2017,t1nana,,User,,,,3,0,1
+735,2015,763077374,forseek,User,,深圳,,17,7,229
+736,2016,195440,洛城风起,User,,,,62,1,11
+737,2017,Mingmingge,Mingmingge,User,,杭州-HDU,,7,3,23
+738,2009,mornlee,mornlee,User,Mornlee,,,33,12,160
+739,2017,moonproto,,User,,,,1,0,8
+740,2013,di3goleite,Diego Leite,User,@matrix-io ,Brazil,,76,250,1476
+741,2017,Adwardsnow,MrWang,User,,南京,,6,0,4
+742,2014,herryzhang,,User,,,,17,4,34
+743,2017,LYU1860,,User,,,,0,0,1
+744,2015,tuot,Toto,User,,China,,2,3,18
+745,2016,intentto,fengzhihui,User,,,,2,3,18
+746,2016,Max-Lee1993,Max Lee,User,Xi`an University of Posts & Telecommunications,"xi'an,shaanxi,China",,12,10,23
+747,2016,wenyidao,,User,,,,10,0,11
+748,2016,hopeful-hgf,黄高锋,User,,,,15,2,35
+749,2017,MarkMyk,,User,,,,1,0,1
+750,2012,Inzaghi2012,,User,,,,290,13,189
+751,2014,AndyJMR,,User,,,,12,1,10
+752,2015,MrLeion,汤增雷,User,,"Hangzhou, Zhejiang,China",,67,68,138
+753,2017,pengpengyoung,,User,,,,1,0,11
+754,2016,doublezjia,zealous,User,,,,16,2,17
+755,2017,rrzeng,,User,,,,0,0,5
+756,2016,SuperCcKai,PangKai,User,NEU,"ShenYang,LiaoNing",,38,12,50
+757,2016,seasonluowx,,User,,,,5,2,4
+758,2015,tangwenixng,slim-teaegg,User,,,,20,3,34
+759,2016,BuffaloKuang,,User,,,,2,0,13
+760,2016,594884756,ZhouZZ,User,SCU,chengdu，China,,2,1,6
+761,2016,wuyangLife,,User,,,,6,0,1
+762,2013,lean426,lean426,User,,china,,6,0,1
+763,2016,xinlc,Leo Xin,User,BBKJ,"Dalian,China",,47,9,118
+764,2015,happynessTony,Tony,User,,,,1,0,3
+765,2016,hubeiwei,胡倍玮,User,,,,11,20,21
+766,2013,swjmy,jmy,User,,,,16,2,19
+767,2015,controlFate,LingYunZz,User,,,,138,2,20
+768,2017,EdisonYJC1994,Endison_YJC,User,CHANGSHU MUTUAL-TEK CO.LTD,"Suzhou,China",,2,0,2
+769,2014,songguohfut,songguo,User,,,,32,6,89
+770,2017,thomasguo2011,,User,,,,7,0,5
+771,2016,Ronshaoshu,,User,,"长沙,中国",,3,4,7
+772,2016,qianxingW,,User,,beijing,,12,2,16
+773,2015,QianChia,仟,User,QianQian-Studio,Beijing,,142,21,56
+774,2011,zsmountain,,User,,,,6,3,4
+775,2015,peijieking,,User,,,,2,0,10
+776,2018,Man-Darava,,User,,,,1,0,1
+777,2014,zhengpingwu,Grass,User,,,,2,1,4
+778,2013,xuqisheng,andy,User,,Hang Zhou,,155,20,314
+779,2016,ZeroJsus,ZeroJsus,User,,四川省成都市,,19,7,40
+780,2017,Ajianlin,,User,,,,0,0,1
+781,2014,XGHeaven,Bradley Xu,User,https://www.bytedance.com/,Hangzhou Zhejiang China,,95,58,187
+782,2012,andyqee,Yee,User,,Shanghai,,94,35,141
+783,2018,ForBalance,超人气陈小栋,User,,,,1,0,1
+784,2015,he19920226he,员帅,User,,,,5,5,26
+785,2016,incliff,wang yanbin,User,,,,15,3,21
+786,2018,chenyang777,,User,,,,0,0,1
+787,2017,Psyki,,User,,,,2,2,10
+788,2015,dashanshan,xueshan,User,,北京市朝阳区,,3,0,6
+789,2016,how0723,Burke,User,Coherent AI,Wuhan Hubei,,70,2,14
+790,2015,Khan03,Inayathullah Khan,User,,Hyderabad,,0,0,2
+791,2017,AIAmber,,User,,,,26,2,25
+792,2016,gmg0829,gmg,User,一览群智,beijing,,52,12,304
+793,2016,DayChan,DAYC,User,,,,15,11,19
+794,2013,shanezhiu,shane,User,"@Jsanity, Inc","Beijing,China",,2,32,299
+795,2014,mega16,mega16,User,,"Chengdu City, Sichuan province China",,38,0,2
+796,2016,zj2626,zj2626,User,,,,27,0,3
+797,2017,erialin,,User,,,,2,1,6
+798,2017,maeengreso,,User,,,,1,2,11
+799,2013,sdfvbn123,,User,,,,6,0,78
+800,2016,haikelei,,User,,,,24,2,7
+801,2017,godsmelling,周大侠,User,,,,4,1,10
+802,2015,sunchuan8280,,User,,,,4,3,10
+803,2017,Beprominent,ceasor,User,NEU,"shenyang,China",,28,7,80
+804,2014,iJasonY,JasonY,User,SOHO,China,,210,12,100
+805,2017,fabe2ry,fabe2ry,User,,https://www.cnblogs.com/faberry/,,4,13,37
+806,2015,feiwodev,feiwo,User,湖南动脑信息科技有限公司,changsha,,20,29,63
+807,2017,zision,周子健,User,,"北京Beijing, China",,10,6,5
+808,2015,diliburong,Yifan Xiang,User,,shanghai,,26,6,35
+809,2017,aszt,童重远,User,,,,25,1,14
+810,2016,yelvlab,,User,"@Sinovoip Co.,Limted",Guangdong Dongguan,,24,16,22
+811,2016,cccyf,,User,,Nanjing,,12,18,33
+812,2015,SeauWong,CUWong,User,HangZhou DianZi University ,"Hangzhou, Zhejiang Province",,22,1,16
+813,2016,StrongerQ,,User,,,,5,0,1
+814,2015,jackhman,,User,,,,131,10,84
+815,2015,gavin2010,左岸,User,,chengdu · China,,19,5,10
+816,2013,tibic,LiuHe,User,,,,56,3,51
+817,2018,ghostridersuperm,,User,,,,0,2,6
+818,2016,xygkevin,xygkevin,User,,"Beijing, China",,433,9,574
+819,2015,CodeNewman,姜忠良,User,CodeNewman,Beijing,,23,7,43
+820,2017,superlagrange,lizhengen,User,,,,4,0,1
+821,2017,haiyangmin,Wangjun Yang,User,,Tallinn ,,38,12,289
+822,2017,liufaaan,,User,,,,14,0,1
+823,2012,gera2ld,Gerald,User,,"Hangzhou, China",,70,143,35
+824,2016,f1tz,Agent Fitz ;-),User,,"Shanghai , China",,33,6,4
+825,2017,friend-ma,friend-ma,User,,Guangzhou,,16,2,29
+826,2017,Leesoar,Leesoar,User,,,,15,1,8
+827,2016,BenjaminCHEN2016,Benjamin CHEN,User,,"Shanghai, China",,10,32,88
+828,2017,Davelyb,Dave Liu,User,,Shanghai,,9,0,3
+829,2014,mitoop,Mitoop,User,mitoop,Mitoop,,30,33,66
+830,2017,Sakura1124,,User,,,,3,4,41
+831,2012,rainbowjlinux,rainbow,User,,,,17,2,5
+832,2016,KlausHao,,User,,,,2,0,20
+833,2017,acrofrank,Frank,User,,,,58,37,236
+834,2017,Mrhellow,,User,,,,0,0,6
+835,2018,TonyLeeIronMan,,User,,,,3,1,2
+836,2017,loyalyonggang,Yonggang Chi,User,GDG suzhou,JiangSu.China,,91,3,39
+837,2016,AmazingBaihua,,User,,,,1,0,2
+838,2017,Amblizer,amblizer,User,,Mainframe,,87,6,106
+839,2015,linyuanli,Maxwell1873,User,,,,3,0,7
+840,2017,ericsy86,,User,,,,4,0,4
+841,2017,chengyongbo,,User,,,,2,0,6
+842,2016,Raivien,RayCheung,User,,,,106,2,21
+843,2015,gentlyj,ifading,User,,,,10,3,21
+844,2016,472763693,Edifier,User,,,,64,25,218
+845,2016,xueyinjun,,User,,,,41,1,3
+846,2016,toddahoffman,Todd Hoffman,User,,US,,10,1,11
+847,2015,lunima618,,User,,,,10,2,17
+848,2017,Jeblqr,,User,,,,7,2,18
+849,2016,scenerysong,,User,,,,12,4,10
+850,2017,typhooon,,User,,,,0,0,2
+851,2017,hanseyuan,,User,,,,16,3,10
+852,2016,bingfengwangzuo,PG,User,,,,2,3,21
+853,2016,BarryCode,,User,,,,198,1,10
+854,2012,Winsonguo,Winsonguo,User,,Beijing,,49,9,173
+855,2018,wshsss,,User,,,,0,1,1
+856,2014,liyoushihaer,,User,,,,19,0,2
+857,2015,Hibiscus94,,User,,,,40,0,7
+858,2017,BangShinChul,Bang shin chul,User,08liter,,,73,3,15
+859,2016,jiangsir404,Rivir,User,,,,15,119,112
+860,2018,YZKSXD,顾遇安,User,,郑州,,2,1,1
+861,2016,907597029,lixilin,User,,,,5,0,4
+862,2016,www4why,me,User,github,China,,7,6,187
+863,2017,Chen-YQ,,User,,,,10,0,9
+864,2015,yugaoqing,余告青,User,,,,59,3,7
+865,2016,garyjia,,User,,,,0,0,1
+866,2015,fromUse,conykais,User,,,,74,0,4
+867,2017,MerleLiuKun,ikroskun,User,,China,,40,10,26
+868,2017,May-226,,User,,,,2,1,2
+869,2017,whoamirot,IFQU,User,,,,1,0,8
+870,2017,HugeCrack,,User,,,,2,1,1
+871,2014,calabashdoll,leo,User,CM,"Peking,China",,4,17,230
+872,2015,wheatMr,,User,,,,79,0,17
+873,2012,lingkeyang,Kris Zhang,User,,,,473,8,55
+874,2017,liunx-jun,,User,,,,2,0,1
+875,2017,choloe,,User,,,,4,0,2
+876,2015,hncsjj,,User,,ChangSha,,28,1,11
+877,2018,zheng35,,User,,,,0,0,1
+878,2017,diwugebingren,,User,,,,2,0,2
+879,2016,haoxinlv,,User,,,,20,1,2
+880,2017,Lei17,,User,,,,1,0,3
+881,2017,JokerWhy233,,User,,,,84,2,35
+882,2016,TaylorBoy,Taylor Boy,User,,,,9,2,10
+883,2018,Power-King,,User,,,,2,0,1
+884,2018,YoungWenMing,,User,,,,15,0,3
+885,2015,sanshengshi,,User,,,,42,4,116
+886,2013,Aarthas,shenyiice,User,sanjiang ,ningbo china,,27,6,21
+887,2013,hangj,hangj,User,,,,7,4,12
+888,2016,kinfeitwong,,User,,,,12,6,5
+889,2015,MarkWuCL,,User,,,,6,1,24
+890,2014,pengs,开心就好,User,,,,12,1,18
+891,2017,kappa0517,Yan,User,,China,,1,2,3
+892,2014,chenzhy,Bozhang Chen,User,,,,8,1,4
+893,2017,whongchen,Anwen,User,,西安,,24,2,17
+894,2016,cosweebt,,User,,,,3,1,4
+895,2014,DevilFeel,,User,,,,19,0,3
+896,2011,donaldcao,,User,,,,52,9,76
+897,2016,YSBF,,User,,,,92,1,10
+898,2017,yoyowhite,yoyo_white,User,,Beijing,,1,0,19
+899,2014,realzhangm,Colin Zhang,User,,Beijing,,38,13,113
+900,2016,RuanYue,,User,,,,1,0,3
+901,2017,KevinZhanyang,,User,,,,25,0,2
+902,2017,Ilathon,Ilathon,User,,,,2,0,3
+903,2013,gouchy,,User,,,,3,1,3
+904,2016,tinyarrow,,User,,,,9,3,17
+905,2012,vanshu,Van Shu,User,,NUSA PENIDA,,17,11,87
+906,2017,Gaitman,盖特曼,User,,"Shanghai, China",,14,0,3
+907,2017,manishkmrs,,User,,,,3,1,11
+908,2018,dongaccount,,User,,,,1,0,2
+909,2013,Rholais,Rholais Lii,User,,,,50,45,237
+910,2017,hsy124,,User,,,,3,0,1
+911,2008,wowenwen,,User,,,,63,5,57
+912,2017,likaiqianqingjiaoxingwo,,User,,,,1,0,1
+913,2016,aojueliuyun,Tiko.T,User,,Xi'an,,12,4,18
+914,2016,askar882,askar882,User,,,,19,2,17
+915,2018,TakaSoap,,User,,,,1,0,2
+916,2017,codingLv,,User,,,,87,6,244
+917,2016,EmotionalRonanyg,Ronan,User,,,,103,3,29
+918,2018,ruckchai717,,User,,,,2,1,14
+919,2016,domald,,User,,,,3,3,37
+920,2016,SeekerGAO,SeekerGAO,User,,,,8,0,25
+921,2017,Sylvia128,Sylvia,User,,,,1,0,1
+922,2014,advsets,amaxm,User,,,,12,11,34
+923,2018,mishKkhumalo,,User,,,,1,0,8
+924,2014,GangZhang,Jason Zhang,User,,Suzhou,,13,1,5
+925,2016,flybeta1988,,User,,,,10,1,7
+926,2018,superbitch81,,User,,,,1,3,16
+927,2013,xuefu,xuefu,User,,changsha,,25,14,99
+928,2014,xyching,,User,,,,9,0,1
+929,2018,zjr6010528,,User,,,,0,0,1
+930,2017,menglingqian0218,孟令仟,User,IT民工,北漂,,5,0,4
+931,2015,giesrjing,,User,,,,1,0,11
+932,2017,ylel,ylel,User,,,,5,0,11
+933,2016,linmm24,Ashawl,User,,,,3,0,16
+934,2018,huangjuanqunian,,User,,,,0,0,1
+935,2015,Qznan,,User,PingAn,ShenZhen,,13,3,20
+936,2015,T5eng,T5eng,User,szu,,,13,3,22
+937,2016,JQJoe,乔俊轩,User,,Shanghai. China,,66,2,6
+938,2015,fxzzq,xzq,User,CUIT,四川省成都市,,34,7,22
+939,2016,Suera,,User,,,,1,0,1
+940,2016,maitiantian,麦天天,User,HeFei University of Technology,China,,6,1,5
+941,2017,vincentwei28,VinceWei,User,,广州(GuangZhou),,25,1,59
+942,2014,XTpeeps,XT,User,dbapp,shanghai,,8,14,128
+943,2014,lwpk110,db,User,,,,44,4,13
+944,2018,hlyatb,,User,,,,0,0,1
+945,2015,edwardljh,Edwardliu,User,,,,46,1,40
+946,2016,peakrock,Yasser (Zhang Yousong),User,IBM,Beijing,,81,0,3
+947,2016,clarence-b,,User,,,,4,1,4
+948,2017,rex0yt,Yin,User,,,,3,3,3
+949,2017,tyViroth,Ty Viroth,User,,,,22,0,70
+950,2016,zhangjinchun,Jinchun Zhang,User,,Shanghai,,11,1,2
+951,2016,jianfan0709,rena,User,,,,12,0,5
+952,2014,zsxmatthew,,User,,,,5,0,1
+953,2017,niulang,,User,,,,2,2,3
+954,2016,Jax-Chen,Chen,User,,,,6,0,1
+955,2013,ning1022,ning1022,User,52free,,,172,49,201
+956,2016,zhao-yueyue,zhaoyueyue,User,,China,,15,5,11
+957,2015,KevinSgun,,User,,,,6,3,19
+958,2018,MArslanQadri,,User,,,,1,0,4
+959,2016,swiiQAQ,,User,,,,19,2,11
+960,2017,heiye007,heiye007,User,,,,62,185,2839
+961,2018,turbobin,如暘,User,,ShenZhen,,17,3,16
+962,2017,LQ6H,LQ6H,User,,,,7,0,4
+963,2017,SirGeraint,,User,,,,1,0,1
+964,2016,null-point-exception,ys,User,,,,23,1,11
+965,2014,jhy616415267,HYJia,User,BUPT,,,12,4,25
+966,2014,Ken-LiuL,,User,,,,54,17,26
+967,2018,AngelaaChan,Angela Chan,User,,Melbourne,,6,6,18
+968,2017,AlexMaxMiao,,User,,,,2,0,1
+969,2017,bbdrfun,,User,,,,2,0,1
+970,2016,Carterslam,Carter,User,,"Chengdu,China",,8,0,2
+971,2017,lds250250,多云,User,,,,4,1,2
+972,2016,geyuxi,Yuxi Ge,User,Shanghai University,Shanghai,,12,0,6
+973,2017,royswale,,User,,,,254,33,900
+974,2017,xushengxian,,User,,,,3,2,7
+975,2017,MorganWoods,Morgan Woods,User,,,,17,2,90
+976,2014,zjrnhg,嘿仙,User,,,,30,3,13
+977,2016,jimmybasketball,,User,EPET,Chongqin,,7,0,6
+978,2015,smilebin818,smile,User,,,,6,3,2
+979,2016,ZexiFangkong,Jersey,User,Yea,深圳,,51,7,69
+980,2016,LingyunXie,Lingyun Xie,User,,,,4,1,2
+981,2015,vipmorgana,,User,,,,25,1,13
+982,2010,alehanderi,,User,,,,1,1,19
+983,2017,qwertyuiop6,Shadow,User,,,,27,26,112
+984,2016,wangsha0,,User,,,,14,2,13
+985,2016,GFigure,东飞,User,,,,20,2,8
+986,2016,laoguan0420,laoguan,User,,,,9,0,8
+987,2018,StriveToOne,,User,,,,0,0,3
+988,2016,BlackSpadeJack,阿瑟兰,User,,北京,,24,1,29
+989,2018,liuzhengtx,,User,,,,19,1,10
+990,2017,rujinshi,rujin_shi,User,美团点评,Shanghai China,,16,9,24
+991,2011,mirguest,Tao Lin,User,IHEP,Beijing,,51,66,637
+992,2015,salmanli,Assassin,User,,,,4,2,17
+993,2009,qinanhg,,User,,,,4,2,2
+994,2013,sexysmallmonkey,SexySmallMonkey,User,,,,1,0,2
+995,2015,xiaoluolorn,Chaoyang Luo,User,Institute of Quantitive & Technical Economics (IQTE),Beijing，China,,9,0,11
+996,2014,sitefortest,,User,,,,8,17,571
+997,2016,duenyang,En Yang Du,User,JingDong,China,,12,4,5
+998,2018,mandymchu,Mandy Chu,User,,,,6,1,12
+999,2016,XLZH,Xiaolong Zhang,User,,,,13,3,2
+1000,2013,liyanfeng,liyanfeng,User,csu,China,,19,1,3
+1001,2016,KIM7AZEN,,User,,,,0,0,5
+1002,2016,pysrc,L.Chen,User,,,,16,5,22
+1003,2015,EricYangXD,EricYang,User,"I S&T, Continental , Shanghai, China","Shanghai, China",,52,18,45
+1004,2015,Naylor55,陈浩楠,User,漫步科技,北京市,,36,6,66
+1005,2017,linesed,,User,,,,10,6,134
+1006,2017,liang171,浪哩个亮,User,,,,1,1,1
+1007,2017,yzdx0000,Wind,User,Sugon,天津,,43,5,10
+1008,2017,HyetPang,HyetPang,User,,"Chengdu,China",,9,5,15
+1009,2017,Mephisto03,无聊的子木君,User,,,,1,3,29
+1010,2017,UESBTC,Hotdog,User,,"Chengdu,China",,9,8,12
+1011,2017,changht,,User,,,,3,1,8
+1012,2017,Findurname,,User,,,,25,0,11
+1013,2013,luozhang002,,User,Alibaba,,,137,7,42
+1014,2013,sluolct,,User,,,,2,18,249
+1015,2014,Georgeliang,,User,,,,50,3,55
+1016,2014,cannycophp,cannyco,User,microbull tech co.,"hangzhou,china",,5,5,54
+1017,2016,luodeCoding,,User,,,,3,0,10
+1018,2010,duugi,,User,,,,13,3,10
+1019,2014,Jailman,Jailman,User,Jailer's Studio,Beijing China,,26,19,26
+1020,2017,Frank-kk,Frank,User,,Beijing,,10,4,5
+1021,2014,pfctluke,Luke Sun,User,,China,,38,4,4
+1022,2018,cutybear,,User,,,,0,0,2
+1023,2012,xizheng,SMITH,User,,SH,,16,9,38
+1024,2017,Yuan-ZH,苑,User,,中国 青岛,,21,16,13
+1025,2016,ismaelchaquir,,User,,,,1,3,21
+1026,2017,XXIANGZ,XXIANGZ,User,,,,1,0,3
+1027,2015,yizihan,,User,,,,10,2,33
+1028,2017,ore-lingyu,ore-ling,User,,,,6,1,63
+1029,2016,blueskyxzy,,User,,HangZhou,,56,11,53
+1030,2017,li96,,User,,,,0,0,1
+1031,2017,testtz,,User,,,,64,0,11
+1032,2013,fredweb,George Santos ,User,Tecno Square,Salvador  Bahia,,36,34,255
+1033,2018,dashgen,持风以墨,User,,Beijing ,,0,3,15
+1034,2016,himankiw,,User,,,,1,0,1
+1035,2017,fred-jie,fred-jie,User,,,,5,1,7
+1036,2018,kuangyi00,,User,,,,0,0,1
+1037,2013,qunwang6,,User,,,,224,8,117
+1038,2012,AidySun,,User,@opentext,Beijing,,21,16,131
+1039,2016,houzhy,Zhyan Hou,User,,,,8,0,1
+1040,2018,wei1123,,User,,,,0,0,1
+1041,2017,wangzihan424,,User,,,,9,0,3
+1042,2016,ilovesport,,User,,,,11,0,3
+1043,2014,Evil-cuit,Evilyzkv,User,Bank,Chengdu，China,,1,0,2
+1044,2018,mengxinxiaobai,,User,,,,1,0,1
+1045,2013,congliu0704,Cong Liu,User,,,,24,5,96
+1046,2017,harekrishnamahto9872,HAREKRISHNA MAHTO,User,,"Jalandhar, India",,8,0,5
+1047,2018,tangdakai,Tang Da Kai,User,,,,2,0,12
+1048,2016,BabyMelvin,Hang,User,,shanghai,,96,4,25
+1049,2013,zhazha6,,User,,,,0,1,6
+1050,2015,oneing,oneing,User,,"Fuzhou,China",,4,2,21
+1051,2010,flyonok,freedom,User,,,,72,11,90
+1052,2017,lovexleif,,User,,,,11,2,6
+1053,2018,FancyKings,FancyKing,User,,,,25,2,4
+1054,2015,longjianjiang,,User,,,,32,5,106
+1055,2016,Major01,Major_,User,微创软件,中国重庆,,12,3,56
+1056,2017,pgmerx,,User,,,,2,0,14
+1057,2016,DaivdLei,,User,,,,1,1,4
+1058,2014,eskimock,weibiao.lwb,User,,,,2,1,2
+1059,2017,gongtengxinyimaolilan,,User,,,,0,1,1
+1060,2014,daosanjiao,,User,,,,18,1,8
+1061,2016,bhaltair,bhaltair,User,,CHINA,,21,13,153
+1062,2017,gesongzhe,walker,User,,,,9,0,5
+1063,2017,mooyyu,mooyyu,User,,,,2,0,16
+1064,2017,francohandel,,User,,,,1,0,1
+1065,2016,indrajithbandara,Indrajith Bandara,User,Google,"Diyathalawa, Sri Lanaka",,2814,1219,4838
+1066,2016,linyuanbin,Lin,User,BeiHua university,jilin,,42,11,35
+1067,2016,AndyFlower,桑丽平,User,,,,29,2,6
+1068,2017,AliceWoooo,Alice Wu,User,,"Edinburgh, UK",,7,0,7
+1069,2017,finyaci,,User,,,,8,3,9
+1070,2017,feidie436,,User,,,,2,1,131
+1071,2015,wahchi,WahchiYu,User,广州修炼信息科技有限公司,Guangzhou,,14,6,53
+1072,2017,yxin89,,User,,,,0,0,1
+1073,2010,ssdr,Damian,User,LKC,CHINA,,17,20,248
+1074,2013,zongkelong,铁锤,User,新氧,"Bei jing,China",,71,6,17
+1075,2015,DemoJ,Demo.J,User,,,,0,1,1
+1076,2013,thelou1s,Luis,User,,,,202,23,259
+1077,2017,Yanethan,,User,,,,8,2,4
+1078,2017,gitmannor,,User,,,,2,0,2
+1079,2016,DengQilong,DragonMan,User,,China,,37,8,26
+1080,2016,winston-zheng,,User,,,,3,12,15
+1081,2018,smarthkb,,User,,,,0,2,5
+1082,2013,WangJiemin,Jamin,User,,,,15,10,205
+1083,2016,SidneyLee2997,,User,,,,1,0,17
+1084,2017,duoy,zy,User,,,,2,2,60
+1085,2016,VinceJHQ,Vince,User,,"China,WuXi",,7,2,7
+1086,2017,HobaiRiku,HobaiRiku,User,,广西 南宁,,18,6,8
+1087,2017,haozimao,haozi,User,,chengdu,,6,0,16
+1088,2017,zc3945,,User,,,,6,2,6
+1089,2017,codeRiding,刘汶,User,,广东佛山,,564,4,131
+1090,2015,Max010230,邬星星,User,,上海,,8,1,7
+1091,2012,jxljf,lijianfeng,User,,beijing,,113,9,151
+1092,2018,THUSHAAKAR,tk,User,,,,19,14,38
+1093,2016,hillmychen,,User,,,,48,4,51
+1094,2016,jjyzcgl,ouxh,User,,,,3,1,2
+1095,2009,mengalong,Meng along,User,,Xi'an China,,25,4,16
+1096,2017,Zhangjing520,,User,,,,4,1,31
+1097,2018,dyrdyr0803,,User,,,,0,0,1
+1098,2018,Subhashisbarma,,User,,,,3,2,9
+1099,2016,Giaming,Giaming,User,,guangzhou,,8,1,116
+1100,2017,KuiperSirius, Ursa Minor,User,,Duskwood,,32,4,51
+1101,2015,1170197998,Stevin,User,WEKSOFT,Beijing,,61,35,29
+1102,2018,lesleascott,,User,,,,0,2,10
+1103,2014,jw575,Jasper,User,,,,4,1,2
+1104,2017,GeniusZhang7,,User,,,,2,0,1
+1105,2016,hacker-er,朱锐,User,,,,8,7,94
+1106,2016,lihengtianxia,,User,,,,205,10,205
+1107,2016,weaver-peeper,Jason,User,,,,5,0,3
+1108,2014,HardTom,,User,,,,1,0,6
+1109,2018,yuzhezzz,,User,,,,0,0,1
+1110,2015,liangqinwei,Beiluma,User,,,,5,0,5
+1111,2015,TyssenLove,Tyssen,User,@alibaba,,,97,2,28
+1112,2012,dzwillpower,,User,,,,210,40,286
+1113,2016,phyj,,User,,,,13,0,1
+1114,2015,BigcraftServer,Bigcraft,User,,,,37,9,43
+1115,2017,antiabcdefg,anti,User,,,,2,0,30
+1116,2018,CheeseKun786,,User,,,,1,0,5
+1117,2015,TianTianForever,Sirius,User,,,,17,4,5
+1118,2015,claude9493,claudezhang,User,@SUSTC,,,12,5,26
+1119,2017,kangkai115,康凯,User,,,,17,1,5
+1120,2017,Cherawn,Jason,User,,,,4,0,1
+1121,2017,nuwanwickramasingha,,User,,"Avissawella, Sri lLanka",,3,1,13
+1122,2018,alfazize,,User,,,,1,4,18
+1123,2017,tyingbiao,,User,,,,2,0,4
+1124,2013,gaoypChina,,User,,,,11,32,356
+1125,2012,bjc5233,二又二分之二,User,,,,56,4,14
+1126,2017,Keithers,,User,,,,1,0,9
+1127,2013,lxtx021,,User,,,,2,7,127
+1128,2014,YG-FLUSH,Yoge,User,,,,23,3,14
+1129,2014,helinyu,,User,,,,313,11,133
+1130,2015,zxc135781,祀画,User,@moefront ,Ganzhou,,72,24,90
+1131,2017,yerkeys,,User,,,,10,0,5
+1132,2016,ericshen90,Eric Shen,User,,"Hangzhou,CN",,25,1,55
+1133,2017,dupl10,,User,,,,39,3,106
+1134,2017,yeslcj,Changjun Li,User,UESTC,"Chengdu, CHN",,7,1,5
+1135,2011,l5oo00,,User,,,,16,23,244
+1136,2018,Anniu1234,,User,,,,0,0,1
+1137,2018,Daltan,Daltan He,User,,"China, Henan",,8,31,360
+1138,2017,pony007,,User,,,,19,1,23
+1139,2018,ojabe,OJABE JOHN,User,OJABE JOHN DE BEST ,Sokoto State,,1,3,15
+1140,2013,jackkd,,User,,,,4,11,41
+1141,2018,Mowuyy,,User,,,,8,0,1
+1142,2017,6u6a,Rogers,User,,"CHENGDU, CHINA",,28,2,14
+1143,2017,CuityMiko,Cuity,User,,,,1284,39,429
+1144,2017,buyiwushuang,,User,,,,3,0,1
+1145,2017,1EvanXu,,User,,,,5,3,5
+1146,2015,XiangyunHuang,Xiangyun Huang,User,@cosname ,Beijing,,68,65,557
+1147,2010,foonnnnn,KennethPCF,User,,Hong Kong,,224,22,276
+1148,2017,4vil4ric,4vil4ric,User,,,,5,8,140
+1149,2017,Operater9,,User,,,,34,1,5
+1150,2017,Nam168,,User,,,,2,1,10
+1151,2014,benyaiba,yaiba,User,,china,,10,0,2
+1152,2016,wuwf7,WalterWu,User,,,,0,0,2
+1153,2018,huang2217,,User,,,,0,0,1
+1154,2016,yong9875,,User,,,,0,0,5
+1155,2012,ruanhao,Hao Ruan,User,Cisco Inc.,Shanghai,,39,23,19
+1156,2018,L-miao,,User,,,,0,0,2
+1157,2017,byby221b,BY,User,Beihang University,,,6,4,16
+1158,2017,HanBurger92,,User,,,,5,0,1
+1159,2014,kdrx,,User,,,,60,4,35
+1160,2016,JasonJing23,小景哥哥,User,SITI,Shanghai,,3,2,10
+1161,2013,TemcoHeng,HengYongchao,User,espressif,"shanghai,China",,112,6,31
+1162,2018,Dekker88888,,User,,,,0,0,2
+1163,2017,yuannf,yuannf,User,,"Wuhan, China",,0,0,3
+1164,2017,ECJTUCharles,charles,User,,CHINA,,16,0,4
+1165,2011,justmyfreak,Zainul Setyo Pamungkas,User,,"Jakarta, Indonesia",,41,8,3
+1166,2018,cephur,,User,,,,0,0,1
+1167,2014,rwangr,Ryan Wang,User,,"Shanghai, China",,9,1,8
+1168,2016,walle1988,Cheng,User,,"Suzhou, China",,10,0,25
+1169,2017,mingxiu-scott,,User,,,,7,6,14
+1170,2018,rainplants,,User,,,,2,0,1
+1171,2018,Lingling0408,,User,,,,1,0,3
+1172,2016,joyDDT,,User,,"KunMing,China",,2,0,18
+1173,2017,KingXS,,User,,,,1,0,2
+1174,2018,hanbingde,hanbd,User,,,,32,11,25
+1175,2014,phobal,phobal,User,@Strikingly,Chengdu,,38,706,141
+1176,2017,Nansoon,,User,,,,5,0,2
+1177,2016,jambillking,Hai Jin,User,,,,1,4,154
+1178,2015,pluieciel,,User,,,,2,2,5
+1179,2018,megamaner,,User,,大阪市,,0,2,18
+1180,2015,youmoula,,User,,,,18,0,14
+1181,2017,lijinjia,,User,,,,5,2,1
+1182,2016,GoldL,iGolden,User,,,,26,0,13
+1183,2018,AIRTang,,User,,,,3,0,1
+1184,2013,zhangxuekun,king,User,own,,,9,3,24
+1185,2014,cijianzy,Yue Zhang,User,@alibaba ,"HangZhou,ZheJiang,China",,33,59,179
+1186,2017,yawuplus,yawuplus,User,,China,,23,3,46
+1187,2017,b2stry,Elliot,User,@haici,china,,66,31,51
+1188,2014,tth1996,tth1996,User,,,,9,8,27
+1189,2012,malihemant77,,User,,,,18,1,54
+1190,2017,Dimpless,,User,,,,7,1,3
+1191,2016,Aleck16,Aleck Phang,User,Hebei University of Technology,"Tianjin, China",,15,2,30
+1192,2016,lilyneaoer,SnowMar,User,,,,32,0,7
+1193,2015,LeeGeong,LeeGeong,User,,,,2,0,8
+1194,2016,MorrowXu,Morrow,User,,China,,18,1,6
+1195,2015,RobinCZW,Robin,User,@alibaba cloud,Hangzhou,,11,5,5
+1196,2010,nfultz,Neal Fultz,User,@comake,"Los Angeles, CA",,89,3825,69725
+1197,2017,leon332157,,User,,"Massachusetts, US",,43,14,73
+1198,2015,SionFu,Fu_sion,User,Fu_sion,QuZhou ZheJiang,,43,3,22
+1199,2018,ZHENGX1N,,User,,,,1,0,6
+1200,2016,starryfei,starryfei,User,,Beijing,,27,6,42
+1201,2015,tuowazi,,User,,,,6,1,4
+1202,2017,xiaolinjia,favoriteDrinkMilk,User,,,,3,1,5
+1203,2012,khs123,,User,,,,9,0,2
+1204,2018,fraga2017,,User,,,,1,0,5
+1205,2014,kinegratii,,User,,"Fuzhou,Fujian,China",,8,33,14
+1206,2016,zhangqifei,张琦飞,User,,北京,,47,1,13
+1207,2015,Ian729,Weixiang Zheng,User,,"Toronto, Canada",,12,7,17
+1208,2015,00vivi,,User,,,,13,1,29
+1209,2015,maokailu,maokailu,User,,,,11,7,5
+1210,2016,shengliwang,王胜利,User,,,,10,0,2
+1211,2014,Joey-Chen,,User,,,,0,0,2
+1212,2018,superxmy,,User,,,,0,0,1
+1213,2015,frank-stonybrook,,User,,,,17,0,2
+1214,2015,ZhangBingbin,,User,,,,67,4,82
+1215,2016,liuyu1994,byliuyu,User,,"Tianjin,China",,11,5,18
+1216,2015,as798982083,coderABC,User,,"Nanjing,China",,8,2,6
+1217,2017,winters988,hmzhang,User,China Academy of Railway Sciences,"Beijing, China",,1,1,6
+1218,2017,WayneYangsa,,User,,,,9,0,24
+1219,2017,minitab,Tab,User,,"Xiamen,China",,3,3,5
+1220,2016,Jinsiye,很哇塞的大叔,User,,,,5,1,7
+1221,2015,lishaogang,,User,,,,10,0,2
+1222,2018,liuxuanming0216,,User,,,,1,0,2
+1223,2018,Collen-Gura,,User,,,,1,1,7
+1224,2016,ZhangBo2016,bobo,User,@NetEase,guangzhou,,22,2,24
+1225,2016,NicolasLuo,,User,,,,20,0,6
+1226,2016,gustavkkk,frank K.,User,,shenzhen,,276,17,60
+1227,2014,candledragle,yanmingsheng,User,,,,79,17,200
+1228,2016,crystal-xu,Crystal Xu,User,,,,4,3,3
+1229,2012,yangqintaotomrose,yangqintao,User,,,,44,8,68
+1230,2017,jianming221,Adam,User,,,,17,5,20
+1231,2015,sunsipeng,承熙,User,Freelancer,"Dalian, LiaoNing, China",,61,22,500
+1232,2016,aib628,V主宰,User,,,,9,0,2
+1233,2017,17835267035,,User,,,,60,0,6
+1234,2017,yanweij,,User,,,,28,2,7
+1235,2016,feifeiwang123,飞飞,User,,,,30,3,10
+1236,2016,yangfan0095,fanyang,User,zhongan,shanghai,,31,51,173
+1237,2016,gleamer,gleamer,User,,,,5,2,42
+1238,2017,EEERT,,User,,,,0,0,1
+1239,2017,hongiii,solanine,User,Peking University,"Beijing, China",,10,11,14
+1240,2018,1429880240,___海,User,haiyu,陕西西安,,36,7,16
+1241,2018,piagetandhobbes,Alex Kolmorov,User,,,,2,2,32
+1242,2015,jango2015,Jangos,User,,,,2597,46,896
+1243,2015,ZM-BAD,Ming Zhou,User,Zhejiang University,Beijing,,1,17,52
+1244,2015,PhrenoVermouth,Gran Young,User,Tongji University,Shanghai,,11,6,31
+1245,2015,XieZhuoJun,Xie Zhuojun,User,BUPT,"Chengdu,Sichuan,China",,5,1,5
+1246,2016,codeant071,,User,,,,0,0,2
+1247,2015,goblinjj,Gobling,User,众度信息科技（上海）有限公司,china,,3,0,2
+1248,2015,Runningdogs,,User,,,,5,0,1
+1249,2016,kkgace,,User,,,,21,1,2
+1250,2016,wangkairong,kavin.wang,User,,,,11,1,10
+1251,2013,qukaimin,,User,,,,63,0,4
+1252,2010,rookiepeng,Zhengyu Peng,User,Aptiv,"Westfield, Indiana, USA",,17,38,27
+1253,2017,UaneiSakai,uanei,User,,,,8,2,15
+1254,2012,skydazzle,,User,,,,20,0,13
+1255,2017,find0day,find0day,User,,,,29,2,37
+1256,2014,slightun,slightun,User,,chengdu,,16,6,43
+1257,2017,xyiscoding,,User,,,,1,0,6
+1258,2016,dshowing,dshowing,User,,Asia/Beijing,,20,5,19
+1259,2012,nicai1900,zhengjie,User,,Beijing,,156,20,66
+1260,2013,fangxiangdong,,User,,,,6,6,41
+1261,2018,yj1156122030,李嘉袁,User,,,,0,0,1
+1262,2017,QinKai176,qin kai,User,,Nan Jing,,15,2,10
+1263,2014,yoyojacky,yoyojacky,User,52Pi,Shanghai in China,,197,16,16
+1264,2017,Will-Ls,脑洞不够大,User,,杭州,,2,29,3
+1265,2016,dylan0120,,User,,,,0,0,4
+1266,2013,AnryYang,Anry Yang,User,,,,60,8,10
+1267,2018,dojinfeng,,User,,,,4,0,5
+1268,2015,yuhanle,煜寒了,User,@oh-bear @latehorse ,Shanghai,,29,62,248
+1269,2016,yybb8007,,User,,,,10,0,2
+1270,2015,wffeige,wangfei,User,china sinorail,beijing,,27,0,11
+1271,2017,songxianjin,,User,,,,464,11,166
+1272,2018,08163182,,User,,,,19,1,8
+1273,2013,spy0578,,User,,,,2,0,2
+1274,2017,ywcmoon,WenChao Yue,User,,,,5,0,3
+1275,2013,qlxiao520,Lingxiao Qiu,User,,,,6,5,18
+1276,2017,wangpeng905,,User,,"Shenzhen, China",,7,4,8
+1277,2016,mytEcust,,User,,,,10,1,3
+1278,2017,manpingmao,,User,,,,1,1,3
+1279,2013,callnothing,Win_Beyond,User,,"ShenZhen,China",,23,12,53
+1280,2017,congwulong,,User,,,,1,2,2
+1281,2016,stefango,Xu Zili,User,Changshu Institute of Technology,"Suzhou, China",,21,1,57
+1282,2013,magicduan,,User,,,,1,3,1
+1283,2017,wyux,wyux,User,,fujian,,1,0,13
+1284,2017,beyondjz,Adam,User,,,,1,0,5
+1285,2017,hjsw1976,,User,,,,13,0,3
+1286,2015,Sxiaolong,shixiaolong,User,,,,12,2,7
+1287,2015,javaboyka,,User,,,,41,0,8
+1288,2016,KURANADO2,JING,User,AUST,Shanghai，China,,30,5,26
+1289,2015,Zteng1995,zteng,User,,,,5,17,294
+1290,2013,HDelbert,HuMeng,User,Harman,ShangHai,,28,47,200
+1291,2017,dachuan7,,User,,,,1,0,1
+1292,2015,jiangguoqing,,User,,,,10,2,23
+1293,2015,chaoyz,YangChao,User,,ShenZhen,,12,11,34
+1294,2013,boyso,BOYSO,User,BOYSO,china,,4,1,30
+1295,2016,Jvongo,,User,,,,4,0,8
+1296,2016,mgjo5899,Joseph,User,,"Champaign, IL",,12,15,131
+1297,2015,cygmris,Chris,User,eSix,GuangZhou,,58,59,354
+1298,2017,VergeDX,Vanilla,User,,China Henan Xinxiang,,24,15,46
+1299,2016,slow-is-fast,slow-is-fast,User,,,,19,24,341
+1300,2017,umasankarsahoo,Uma Sankar,User,,Earth,,9,5,37
+1301,2016,Hiro989,,User,,,,0,0,3
+1302,2017,yxli8023,,User,,China GanSu ZhangYe,,26,0,29
+1303,2015,yw-fang,,User,Kyoto University,Japan,,36,6,19
+1304,2016,polarbearwy,polarbear,User,,,,8,0,3
+1305,2017,YangGod0318,,User,,,,1,0,2
+1306,2017,mikuily,HatsuneMiku,User,,,,1,0,7
+1307,2017,ALiGaDuoZq,,User,,,,6,0,19
+1308,2017,Junglego,Jungle,User,,,,1,1,13
+1309,2016,Dennisyaya,wangxin,User,,,,8,0,1
+1310,2016,originalcore,,User,,,,43,1,26
+1311,2014,shenxs,Richard,User,ZJU,china,,22,39,177
+1312,2017,LiamPKU,,User,,,,2,0,2
+1313,2017,shiyiya,R,User,,Earth,,14,13,175
+1314,2018,bodhisatan,Bodhisatan_Yao,User,,,,17,0,5
+1315,2013,beyondyuanshu,袁曙,User,e-CarX,HangZhou,,96,2,14
+1316,2015,rudolfcn,,User,,,,87,3,199
+1317,2017,kevin8719,KevinDang,User,,"Xian,China",,4,0,21
+1318,2016,TonyYinChina,,User,,,,2,0,5
+1319,2012,ZephyrJung,O型血橙,User,,,,67,28,37
+1320,2015,feoyo,,User,,,,3,0,1
+1321,2013,stamaimer,stamaimer,User,Tencent,"ShenZhen, China",,67,49,317
+1322,2012,Bunlong,Bunlong VAN,User,@themodernjavascript,❤️ USA ❤️ Japan,,161,1373,24747
+1323,2016,RickPang,Rick Wick,User,,,,2,0,14
+1324,2015,liuxiaochen0625,Reus,User,,杭州(HangZhou),,103,20,383
+1325,2018,neetcod,Gadus ogac,User,,,,0,60,2709
+1326,2015,Oliver-Cheng,,User,,,,8,0,2
+1327,2015,nagerenxiong,nagerenxiong,User,china,jiangxi,,43,1,1
+1328,2017,schickmush,Sonia Wu,User,University College London. CASA,"China, Shanghai",,4,1,5
+1329,2012,hoohooho,hoohooho,User,,,,11,2,51
+1330,2015,hexianqiao3755,Coexistence,User,dayotec,"ShenZhen, China",,10,40,57
+1331,2011,xiaoqguo,guo zheng mao,User,GreenLand,shanghai,,14,0,5
+1332,2016,chuntaojun,liaochuntao,User,HyperChain,HangZhou,,16,5,4
+1333,2012,foreveryl,,User,,,,6,2,22
+1334,2013,pdgz,Dylan,User,www.bingosoft.cn,广州.广州.China,,3,10,223
+1335,2017,patelatit53,atit patel,User,,"Toronto,Canada",,77,1,73
+1336,2018,stcorn,,User,,,,0,0,1
+1337,2016,rxlee,,User,,,,23,0,5
+1338,2014,dengqingguo,QingGuo,User,youzan,hangzhou,,8,5,13
+1339,2017,qh4869,qh,User,,,,5,3,5
+1340,2018,boomshakalaka111,,User,,,,2,0,1
+1341,2017,xavisong,,User,,,,8,0,4
+1342,2013,cstopery,cstopery,User,cstopery,cstopery,,79,8,161
+1343,2017,Rayongice,Buck,User,,,,10,1,3
+1344,2013,Gavin888888,lilei,User,,,,21,1,18
+1345,2015,DesenYang,DesenYang,User,NONE ,Andsmind Studio,,3,4,33
+1346,2016,ChangLiuuu,Chang Liu,User,Santa Clara Univeristy,"Santa Clara, CA",,28,4,7
+1347,2013,Bourbon404,BourbonZ,User,,Nanjing,,38,14,67
+1348,2017,mohanyu,HanyuMo,User,洛克希德马丁,杭州,,14,0,30
+1349,2015,vtronxy,xuyan,User,Leader,武汉,,56,10,39
+1350,2016,fh2002,,User,,,,4,0,2
+1351,2013,lcoops,,User,,,,9,1,8
+1352,2017,MuteBardTison,Zihan Qi,User,Jacobs University,"Bremen, Germany",,28,22,64
+1353,2017,zmjgenius,,User,,,,0,0,2
+1354,2017,LTstrange,LTstrange,User,,,,12,6,4
+1355,2012,qins,Qinsi,User,,"Shanghai, China",,14,9,235
+1356,2015,Ezoio,Ezio,User,, Changning Hunan China ,,27,3,19
+1357,2016,BaeSeulki,Chill Yu,User,@Tencent,YICHUN,,15,13,46
+1358,2016,Sandu1213,杜双龙,User,tatfook,shenzhen,,13,8,31
+1359,2015,enveloper,,User,,,,25,1,7
+1360,2017,JackYWills,Jack,User,,china,,6,0,2
+1361,2017,aqqje,,User,,中国，湖南，衡阳,,28,3,36
+1362,2017,chshaobo,,User,,,,3,1,2
+1363,2018,csbbo,,User,,,,24,0,3
+1364,2017,zheyuan2025,,User,,,,12,0,1
+1365,2015,msorre2,Melissa Sorrells,User,,"Baton Rouge, LA",,267,24,191
+1366,2015,nichollu,Blukkk,User,,,,15,3,138
+1367,2018,Qblackcat,,User,,,,3,0,8
+1368,2015,yvanwangl,Yvan Wang,User,meituan,"30th, Xueyuan road, Haidian District, Beijing,",,76,99,335
+1369,2018,FranklinDX3906,张毅恒,User,UESTC,China,,4,2,4
+1370,2017,52html,子非鱼,User,,"Hangzhou, China",,5,2,9
+1371,2014,songjinju,sparklingRedStar,User,,,,5,0,6
+1372,2017,hyqskevin,kevin_w,User,,Hangzhou,,15,11,50
+1373,2016,tanbinlove,tan bin,User,,guangzhou chine,,9,0,5
+1374,2015,jiangliu2u,jiangliu,User,,"Shanghai, China",,51,6,6
+1375,2016,FontUtopia,Nancy Niu,User,,,,23,3,5
+1376,2014,bayshier,Easin,User,i4爱思助手,深圳,,97,20,282
+1377,2013,liangyangtao,yangtao,User,,beijing China,,43,15,48
+1378,2012,limeng0403,Lion,User,,China,,40,9,11
+1379,2018,zht1246,ZHT,User,,,,20,2,15
+1380,2014,frankguo77,,User,,,,15,0,63
+1381,2018,linchaoran,,User,,,,3,0,1
+1382,2014,yrx0619,,User,,,,72,4,52
+1383,2017,chenrb,,User,,,,44,2,37
+1384,2016,cassiebai,,User,,,,5,44,1918
+1385,2014,zousiliang,塞伯克,User,,China,,65,8,84
+1386,2018,wxm2018,,User,,,,1,0,9
+1387,2016,dhengyi,_rainbow,User,Xi`an University of Posts & Telecommunications,,,11,35,19
+1388,2016,wholeGale,billge,User,,"Shanghai, China",,43,6,66
+1389,2016,HeLiangHIT,Liang He,User,Harbin Institute of Technology,Harbin,,169,35,68
+1390,2017,XinZhewu,锌锗钨,User,,Nanning China,,3,3,14
+1391,2017,ZzzwyPIN,ZzzwyPIN,User,Ahu University,"Hefei,China",,5,5,6
+1392,2018,aLLLiyyy,,User,,,,6,1,1
+1393,2018,CheerGirl0309,,User,,,,4,0,5
+1394,2017,pigeSky,,User,,,,5,0,4
+1395,2015,hhniao,,User,,,,9,3,31
+1396,2018,WangYongjun001,,User,,,,0,2,2
+1397,2018,xuyagang,Adam,User,,,,11,1,8
+1398,2017,fgyeason,FGY,User,,hangzhou,,24,5,83
+1399,2017,wxxfe,王肖肖 ,User,学堂在线,,,22,3,119
+1400,2017,Na1an,Yuchen BAI,User,,,,19,5,7
+1401,2016,BetterZhang,,User,,"Nanjing, China",,28,9,110
+1402,2015,Andywang089,Wang Ye,User,"Tianjin Airlines Co., LTD",Tianjin,,7,0,7
+1403,2017,dingputongxi,,User,,,,10,7,205
+1404,2014,shukaka,,User,,,,8,11,110
+1405,2018,cjx018,chen,User,,,,1,0,1
+1406,2017,HankBass,,User,,,,15,47,53
+1407,2017,fuquanli,李先生怕生,User,,ShangHai,,5,3,8
+1408,2015,Windleao,FengLingDu,User,,ShenZhen,,9,0,47
+1409,2015,xiaoweiruby,肖威（xiaowei）,User,才华横溢科技（北京）有限责任公司,"beijing,China",,783,943,16237
+1410,2018,langzi125,Jackie Chen,User,Delta Electronics,"Shanghai, China",,2,4,2
+1411,2013,luhuilei,luhl,User,qingpu,,,1,0,4
+1412,2016,superyzh,,User,,,,12,0,23
+1413,2018,Sadmoons,,User,,,,2,0,5
+1414,2016,chen141225,跳跳糖,User,,JiNan,,130,8,121
+1415,2016,NealHUAG,John,User,,,,6,0,3
+1416,2018,paiqu,,User,,,,4,0,2
+1417,2016,sunchengxiu,Yuppie Programmer丶,User,融云,,,62,4,59
+1418,2013,CSZHK,,User,,,,11,0,2
+1419,2012,cluo,,User,,,,1838,54,1903
+1420,2015,djokovicwang,,User,,,,0,1,33
+1421,2017,ArchyYang,,User,,,,4,0,1
+1422,2018,fluose,,User,,,,0,2,27
+1423,2016,zhangyiding,,User,,,,85,2,70
+1424,2013,AliceGuo,AliceGuo,User,,,,2,1,30
+1425,2016,caohaiwen,Haiwen  Cao,User,"Department of Information Engineering, The Chinese University of Hong Kong","Sha Tin, Hong Kong",,0,4,4
+1426,2015,webshell520,lixiangsheng,User,,,,684,262,4055
+1427,2012,ZhangQiuxue,,User,,,,14,6,154
+1428,2014,wangtongli,wangtongli,User,TJU,Tianjin,,37,22,8
+1429,2015,luoxiaolei,luoxiaolei,User,,"Baotou, China",,42,1,19
+1430,2015,hao15239129517,,User,@zhixinst ,"Zhengzhou, Henan, China",,47,37,1670
+1431,2017,Noir-desir,noir-desir,User,,,,6,0,8
+1432,2017,lionliuchen,千年之狐,User,,china,,15,8,51
+1433,2015,Deali-Axy,DealiAxy,User,CodeInstitute,China,,32,8,7
+1434,2017,alanumer234,,User,,,,0,0,47
+1435,2015,helingang,解忧杂货店,User,,,,11,1,8
+1436,2009,wangguoqin1001,WANG Guoqin,User,@ShowingCloud Showing Cloud Inc @SHU-AutoCar-Lab ,Shanghai,,18,12,40
+1437,2015,xuduofeng,derek,User,,,,210,5,48
+1438,2018,appsleee,,User,,,,1,2,8
+1439,2011,liuguanyu,liuguanyu,User,qihoo 360,BeiJing,,117,67,198
+1440,2016,Rockflow,stone,User,,,,24,6,54
+1441,2017,AnzeWang,,User,,,,1,0,2
+1442,2015,leolikang,,User,,,,2,1,9
+1443,2016,tzcteddy,,User,,,,26,25,36
+1444,2016,tomyanmmx,,User,,,,6,0,10
+1445,2018,yaoyunkai,liberty,User,,China,,15,2,25
+1446,2016,Wjp43045,Wang JP,User,,,,13,1,8
+1447,2016,qytang326,Quanyin Tang,User,Fudan University,"Shanghai, China",,12,12,61
+1448,2016,Dimples-yao,Lisy,User,,,,4,1,5
+1449,2015,AdiChat,Aditya Chatterjee,User,@OpenGenus ,❤️ Japan ✈︎ India,,21,2555,16412
+1450,2016,xiaolanmeng86,,User,,,,13,2,28
+1451,2018,AMUcoco,Mengqi Wang,User,,,,0,0,4
+1452,2016,worksch,Wright,User,,,,57,0,2
+1453,2017,123xzy,AXie,User,,Hangzhou,,24,3,9
+1454,2013,itdamo,Tony Feng,User,itdamoyuan.com,,,404,31,246
+1455,2014,335622119,,User,,,,31,0,6
+1456,2017,cyqmimc,,User,,,,5,1,12
+1457,2017,NeXT01,NeXT,User,,,,4,6,145
+1458,2017,tys1998,tys1998,User,,"Guangdong, China",,1,2,66
+1459,2017,chenkehao1,Chen Ke,User,,qingdao-China,,6,5,33
+1460,2018,xiaoxinheihei,,User,,,,5,0,4
+1461,2015,lonly-wolf,,User,,,,15,0,2
+1462,2018,HAOyanWEI24,HAO延WEI,User,,,,8,7,20
+1463,2016,yantailee,,User,,,,151,4,32
+1464,2017,smlme,,User,,,,23,0,13
+1465,2012,cih315,,User,,,,97,16,212
+1466,2018,Samuel008,Samuel,User,,,,2,0,4
+1467,2015,dboyxyz,,User,,,,5,1,6
+1468,2017,sjbl,,User,,,,0,1,3
+1469,2017,hklmtb,Panda,User,Amino Apps,shanghai,,0,5,65
+1470,2017,chxpu,Spon9e,User,,"Kunming,Yunnan,China",,7,4,85
+1471,2018,AOXinYu,,User,,,,53,1,36
+1472,2017,annoymousone,,User,,,,89,3,147
+1473,2016,MihaiWong,Mihai Wong,User,,Shanghai China,,50,3,8
+1474,2013,jxustlq,,User,,,,6,3,3
+1475,2016,SHIJIECHN,shijie,User,Shanghai University,"333 Nanchen Rd,Baoshan,Shanghai",,22,2,9
+1476,2015,gavinyangs,Gavin,User,,"NanShan,  ShenZhen,  China",,33,3,16
+1477,2015,jackfrost1994,,User,,,,4,0,1
+1478,2013,linfox,linfox,User,,ShenZhen,,6,5,77
+1479,2015,jiangmuhua,,User,,,,34,0,3
+1480,2015,neptunetulip,,User,,,,1,4,6
+1481,2014,haochuang,haochuang,User,EISOO,ShangHai,,302,7,63
+1482,2017,mozhouwen,,User,,,,29,0,5
+1483,2018,RenSLei,rsl,User,,,,9,0,2
+1484,2015,Dennisan96,Da An,User,,NYC,,10,3,14
+1485,2015,Clark-jhx,Clark_jiang,User,,,,22,6,12
+1486,2018,yangbenbo,,User,,,,17,0,4
+1487,2015,xyanglzu,,User,,,,32,4,7
+1488,2016,brick-carrier,Bugdealer,User,,,,19,2,44
+1489,2017,evazc,,User,,,,4,0,45
+1490,2014,vjudge,咕噜丹,User,,beijing,,31,54,459
+1491,2017,xzs1994,,User,,,,8,3,57
+1492,2018,littlelittleboom,,User,,,,6,1,34
+1493,2017,nofeetbirds,无脚鸟,User,,,,15,0,2
+1494,2018,Shine-heavy,,User,,,,1,0,3
+1495,2013,crush0441,,User,,"china, shenzhen",,13,0,14
+1496,2017,gaoendi,,User,,,,8,0,4
+1497,2016,zeoyzhaogithub,zeoy,User,,"shenzhen,china",,7,2,11
+1498,2016,F-loat,柴茂源,User,@youngon-cn ,"TianJin,China",,32,268,25
+1499,2018,yangwusi,,User,,,,12,1,44
+1500,2018,Anymre,Anymre,User,Not yet,China,,15,2,2
+1501,2016,zc910704,Zhang Chen,User,,China,,17,0,11
+1502,2015,libp,Li Bp,User,,,,15,9,42
+1503,2016,SuperDubbo,隔壁老王,User,HiveBox,"ShenZhen,China",,85,6,42
+1504,2017,harity,,User,,,,19,1,73
+1505,2014,hupingzhi,,User,,,,1,0,2
+1506,2017,yifree,yifree,User,,,,2,1,32
+1507,2018,chiwent,,User,,,,49,6,246
+1508,2017,w-cat1994,xiongxiaohui,User,,,,7,14,611
+1509,2017,gaoxianli,灵魂,User,自由状态,中国深圳,,6,1,10
+1510,2015,heavenlwf,Heaven,User,,,,5,1,20
+1511,2011,lujiacn,Jia Lu,User,SA,BJ,,65,15,45
+1512,2013,kevien,M0rk,User,,iceland,,148,78,497
+1513,2013,JasperYanky,Jasper,User,Jiangnan University,Wuxi China,,33,25,37
+1514,2015,AhianZhang,Ahian Zhang,User,,beijing,,41,6,69
+1515,2016,starnightcyber,starnightcyber,User,USTC,Shanghai,,110,38,64
+1516,2017,GoodDriver,与我无关,User,哇,,,13,2,4
+1517,2014,xilingwu,,User,,,,0,0,1
+1518,2013,Jermic,Yaung,User,Null,Null,,55,84,191
+1519,2013,xbfighting,leicheng bai,User,,Shenzhen,,26,24,87
+1520,2015,b1ueb0y,,User,,,,90,75,626
+1521,2012,einverne,Ein Verne,User,,,,143,89,143
+1522,2017,FortuneC00kie,Fortune_C00kie,User,JDSEC security team,"ShangHai,China",,77,86,205
+1523,2017,yxlDragonslayer,,User,,,,152,8,184
+1524,2015,DOTA2mm,Chuck,User,,"Wuhan, Hubei, China",,21,1,44
+1525,2016,harry1080,python_study,User,,,,273,31,435
+1526,2012,rekken,,User,,,,1,53,1053
+1527,2016,jianshuwuxian,luckymice,User,,,,4,1,8
+1528,2017,HubQin,Qin,User,,zhuhai china,,41,11,89
+1529,2013,renzhexigua,Jiaxi ®,User,,"Cheng Du, China",,20,13,44
+1530,2015,john213,江城,User,,,,3,7,57
+1531,2017,yuncheng1998,Fafnir,User,,,,12,6,12
+1532,2015,coco413,Coco413,User,,,,244,66,156
+1533,2013,vuuihc,Ethan,User,,Beijing.CHINA,,28,16,124
+1534,2015,leriou,哎呀是太阳嘛,User,,shanghai,,21,18,19
+1535,2011,Everfighting,everfight,User,,Shanghai,,28,13,125
+1536,2013,tvvocold,Ray,User,,China,,129,997,3854
+1537,2018,wyuand,,User,,,,1,1,12
+1538,2015,testsecer,Test404,User,,,,7,93,51
+1539,2015,kanting,,User,,Beijing China,,21,11,111
+1540,2014,HexFF,,User,,,,328,57,745
+1541,2012,itspig,Nick Zhu,User,None,China,,3,3,110
+1542,2014,HAOGRE,Xinuo's Father Since 2016/07/16,User,1024.engineer,ChaoYang BeiJing ,,5,14,97
+1543,2016,a67793581,carlo,User,,wenzhou,,5,7,11
+1544,2015,jordanqin,秦佳东,User,,,,11,5,16
+1545,2014,xja,ｚ,User,,,,27,0,10
+1546,2014,Jevby,Jevby,User,,,,24,18,517
+1547,2017,benjamin-wei,BenjaminWei,User,,,,3,0,1
+1548,2014,wutuobangduan,utopia,User,,,,19,10,12
+1549,2017,dear-rain,Rain,User,sillinfo,China,,3,26,520
+1550,2015,ZhiyuanLIPlus,Zhiyuan LI,User,,Paris,,11,2,6
+1551,2017,Applenice,,User,,"Beijing, China",,9,7,66
+1552,2017,WilliamsZhang,Williams_Z,User,,"Nanjing,China",,9,2,89
+1553,2015,Ray201,,User,,,,25,0,9
+1554,2017,1522402210,Mist,User,,,,545,177,1663
+1555,2015,peiniwan,,User,,,,18,6,2
+1556,2017,binyoucai,挖掘机大王子,User,,"Guangxi, China",,28,2,22
+1557,2016,zgbzgb,zgb,User,,,,2,5,24
+1558,2016,flyingvirus,,User,,,,3,0,7
+1559,2016,AndroidHot,Zhiwei Li,User,,"Chengdu, China",,28,20,122
+1560,2014,XatMassacrE,Xat_MassacrE,User,,,,66,22,39
+1561,2017,jiufunghaha,,User,,,,5,0,1
+1562,2015,Hawken94,Hawken,User,,Bei Jing,,16,10,65
+1563,2014,NolanZhao,,User,,Beijing.China,,50,51,60
+1564,2016,dongfangqiaoen,东方乔恩,User,,,,8,2,6
+1565,2015,wuxiaoxiaoshen,XieWei,User,SHU,Shanghai,,35,74,56
+1566,2016,m9rco,Shaowei Pu,User,ʕ•̫͡•ʔ-̫͡-ʕ•͓͡•ʔ-̫͡-ʔ,Beijing China,,141,100,93
+1567,2014,andrewmmc,Andrew Mok,User,@lalamove,Hong Kong,,16,32,142
+1568,2015,gauravssnl,GAURAV,User,,,,148,243,8256
+1569,2016,wangyu1990,Wang Yu,User,A,Hangzhou.China,,0,1,30
+1570,2016,paperant,,User,,"Beijing, China",,21,3,43
+1571,2015,qdiankun,qdiankun,User,,,,157,6,127
+1572,2012,fakegit,,User,,,,428,15,189
+1573,2014,AzuresongMageblade,azuresong,User,Belle,"Qingdao,China",,39,2,11
+1574,2014,shiping998,wang tianfang ,User,西北工业大学 Northwestern Polytechnical University,西安,,91,4,34
+1575,2016,TrustTheBoy,Trust,User,Trust,"3065 Bowers Ave Santa Clara, CA 95054 United States",,81,52,47
+1576,2011,alexband,Huang Huang,User,,Chengdu,,62,86,713
+1577,2014,yilimy,Y.L.M Orice,User,,,,20,6,8
+1578,2013,DFreeMind,露秋,User,unissoft,北京,,22,6,46
+1579,2015,litt1e-p,litt1e-p,User,,,,116,27,100
+1580,2015,qq781548819,大好时光,User,,,,402,4,130
+1581,2017,zeroibc,zeroibc,User,,,,229,6,70
+1582,2015,soldier828,xbk,User,THU-VIP,,,16,4,24
+1583,2015,zimplexing,Xin,User,@EmptyCup20 ,hangzhou,,22,27,51
+1584,2017,w4ctech,w4ctech,User,@github,china,,40,28,781
+1585,2015,qiaofei32,Joe,User,,,,63,22,43
+1586,2015,shijian123,时间shiwo,User,,,,97,7,105
+1587,2017,164580084,AnstJJ,User,,中国广东广州,,26,3,10
+1588,2012,pygmalion666,Andy Luo,User,,GuangZhou,,180,31,546
+1589,2013,tjhrh,ner,User,ner,ner,,6,2,18
+1590,2016,dreamerxiong,Mr X,User,Everywhere,Shanghai,,53,4,40
+1591,2015,zwj7181,,User,,,,9,1,56
+1592,2014,lyh2668,lyh2668,User,,,,48,32,34
+1593,2013,HakunamatataLeo,Gifffffan,User,,,,91,8,82
+1594,2016,tudouloveloli,Tudou,User,,"ShangHai,China",,143,10,138
+1595,2015,ff0c,,User,,,,55,8,58
+1596,2010,DikangGu,Dikang Gu,User,Facebook,Bay Area.,,44,28,25
+1597,2014,xu6148152,Binea,User,,,,67,60,15
+1598,2016,guangzq,采虹先生,User,,Beijing,,24,18,97
+1599,2014,qqjt,拖鞋门吹雪,User,,,,6,3,19
+1600,2014,nmshuishui,,User,,Beijing,,9,2,5
+1601,2017,TeenieSu,Teenie Su,User,,,,2,1,8
+1602,2016,SuperChenSSS,Chen Mengyang,User,@Microsoft ,"Shanghai, China",,55,40,77
+1603,2012,fanghuaqi,Huaqi Fang,User,@foss-for-synopsys-dwc-arc-processors ,"Wuhan, Hubei",,80,54,426
+1604,2018,MiggyWei,,User,,,,0,0,1
+1605,2016,ssttm169,Tom Tan,User,I will tell you if you give me some candies.,"Shenzhen, China",,65,14,69
+1606,2015,fpGHwd,Stefrex,User,,"Shenzhen, China",,26,17,65
+1607,2017,Seven7McFly,,User,,,,1,3,21
+1608,2016,cxMax,makefun,User,,china,,48,25,230
+1609,2017,MiracleXYZ,Yuzhang Xie,User,,"Shanghai, China",,20,11,25
+1610,2014,taomylife521,Soul Coders,User,,,,61,15,247
+1611,2013,lys091112,crescent,User,,,,12,3,3
+1612,2016,dragonhaw,dragonhaw,User,,"Wuhan,China",,11,2,35
+1613,2012,bjfuzzj,bjfuzzj,User,,,,29,1,10
+1614,2014,dsw0214,杜世伟,User,@Bilibili,"Shanghai, China",,80,9,91
+1615,2015,YSShannon,,User,,,,28,1,130
+1616,2016,iccpeng,peng,User,,Beijing,,49,23,81
+1617,2011,johnwonder,,User,,,,96,58,1415
+1618,2016,zhaoyunxing92,赵云兴,User,,中国&杭州,,98,1,74
+1619,2015,MattQian,,User,,,,13,0,12
+1620,2013,dyxushuai,John Smith,User,,"ShangHai, China",,116,36,61
+1621,2014,changshoumeng,Taz Zhang,User,,Asia China shanghai,,67,16,147
+1622,2014,ivyivylynn,Irene,User,,,,15,12,397
+1623,2015,zwgshr,张文广,User,,"中国,山东,青岛 / Qingdao,Shandong,China",,12,0,18
+1624,2017,bobli1128,bao_bossLi,User,,"Beijing,zh",,7,1,17
+1625,2013,williamauhk,William Au,User,,Hong Kong,,6,3,97
+1626,2011,huangbqsky,,User,,,,96,24,226
+1627,2017,xia0bs,Yanng,User,,,,67,15,110
+1628,2016,rocketlu,,User,,,,3,2,52
+1629,2017,JagerDing,JAGER,User,,"Phoenix, AZ",,8,1,1
+1630,2016,KangboLu,Kangbo Lu,User,,,,39,51,112
+1631,2017,MengPY,DEARJOHN,User,,"Shanghai, China",,13,2,13
+1632,2013,huangchenggang,jikeehuang,User,,,,13,3,64
+1633,2015,haymanyu,HaymanYu,User,,,,10,2,3
+1634,2013,dllen,dllen,User,北京家帮帮科技有限公司,北京,,214,36,336
+1635,2012,Tinker-S,Ting Sun,User,Mobvoi,"Haidian, Beijing",,46,56,101
+1636,2013,cyhhao,,User,竹笋&美团,,,29,51,21
+1637,2018,chenrtoken,,User,,,,4,0,6
+1638,2016,yangzuoqi,Yang Zuoqi,User,,"Shanghai, China",,1,1,11
+1639,2018,gankeke,,User,,,,0,0,2
+1640,2016,Clausding,比尔小老弟,User,,中国深圳,,25,1,16
+1641,2011,manuzhang,Manu Zhang,User,,"Shanghai, China",,92,140,234
+1642,2011,IPL,Xinyu Wang,User,,Beijing,,9,16,99
+1643,2015,madaoCN,madao,User,,,,26,24,14
+1644,2016,DukeEnglish,Junyi_Li,User,@meituan,Beijing,,85,8,63
+1645,2017,erfengwelink,erfeng,User,,shenzhen，china,,108,18,469
+1646,2018,sigmoid3,mgeo,User,,Zhejiang China,,13,0,28
+1647,2016,SheenChow,,User,,University of ZhengZhou,,12,2,10
+1648,2015,doctording,,User,,,,65,21,14
+1649,2015,RongleXie,RongleXie,User,,ChengDu,,87,25,86
+1650,2011,hevily,hevily,User,,china,,274,44,754
+1651,2018,lantaoxu,,User,,,,54,24,522
+1652,2015,evilchaos,,User,,,,5,1,10
+1653,2016,CrackerCat,,User,,,,1475,26,487
+1654,2012,jingyan,Jing Yan,User,,,,16,7,19
+1655,2016,aiminsu,Aimin,User,,,,4,3,31
+1656,2016,yian2271368,qiuyu tian,User,iflytek research,,,17,1,5
+1657,2013,leefouce,leefouce,User,,Shanghai China,,16,3,2
+1658,2014,Nyloner,,User,Bytedance,"Beijing,China",,17,276,23
+1659,2015,wesavetheworld,,User,,,,2220,17,333
+1660,2016,linsong8208,,User,,,,170,2,80
+1661,2016,governormars,没咸鱼的梦想,User,,,,25,13,21
+1662,2014,songxin1990,宋鑫 SongXin,User,Song's Co. Ltd,ShenZhen China,,89,48,228
+1663,2017,rosefun,Rosefun,User,,,,258,3,244
+1664,2012,iStig,iStig,User,喜马拉雅FM,"Shanghai,China",,90,25,171
+1665,2014,zkl99999,kailin zhang,User,,,,265,13,99
+1666,2013,daydayfantasy,赵腾飞,User,,Beijing,,28,10,27
+1667,2017,NeoZion,,User,,,,15,9,57
+1668,2017,EruDev,石头,User,,China,,26,27,75
+1669,2013,xujianhai,snow4young,User,,,,218,22,403
+1670,2014,Dongss,Shaoshuai Dong,User,NIO,"Shanghai,China",,45,39,108
+1671,2015,duyueyue,shirley,User,infinityarts,武汉，中国,,160,7,200
+1672,2017,wen2cheng,,User,,,,5,0,1
+1673,2017,travmygit,trav,User,Zhejiang University,浙江 杭州,,4,5,37
+1674,2016,Anthony-Lu,Anthony-Lu,User,,Beijing China,,89,8,50
+1675,2012,camark,Ming Gong,User,,,,505,15,220
+1676,2012,q640202047,William Leung,User,,,,8,0,7
+1677,2016,dncmn,,User,,,,32,7,126
+1678,2013,lyzz0612,skyup,User,,China,,22,17,1
+1679,2018,aaaboss,,User,,,,2,0,2
+1680,2015,thecatshidog,,User,,,,54,18,262
+1681,2014,Leocodefocus,leo,User,Bupt,Beijing,,112,22,88
+1682,2016,GoogleCodes,,User,,,,62,6,28
+1683,2015,liangdahong,梁先森,User,BlueMoon,"Guangzhou , China",,89,207,253
+1684,2015,feaswcy,feaswcy,User,didi,Beijing，China,,18,6,21
+1685,2017,Hermesfish,hermesfish,User,,"JiangSu, China",,98,0,20
+1686,2011,shepherddog,zhiminbai,User,,Nanjing,,5,1,5
+1687,2013,Renford,,User,,,,22,1,16
+1688,2015,itibbers,Ryan Ji,User,,,,22,14,40
+1689,2017,styleolder,scrapy,User,,,,46,1,21
+1690,2014,cnwangjie,Yunhao Zhang,User,seeking...,"Hefei, Anhui, PRC",,60,90,82
+1691,2015,mrhjx2,,User,zhejiangranzhong jinrongfuwu gufenyouxiangongsi,HangZhoushi,,31,8,132
+1692,2016,TwistHdc,mlzgb,User,,,,3,0,1
+1693,2012,wilddylan,Dylan,User,Dylan,浙江省 杭州市,,52,123,207
+1694,2013,jkxqj,跳跳猴,User,vivo,shenzhen,,18,48,66
+1695,2018,muxiaomu001,,User,,,,3,0,1
+1696,2016,dphong,Whark,User,,Shanghai,,23,5,16
+1697,2015,yangjinsong,,User,,,,14,2,23
+1698,2018,mahesh143vms,,User,,,,1,0,3
+1699,2016,peichangbao,,User,,,,3,1,1
+1700,2016,Real-young,Booming Young,User,,Shenzhen Guangdong China,,56,10,40
+1701,2017,zhumengguang,,User,,,,104,3,58
+1702,2017,cexll,imorta,User,,,,14,11,7
+1703,2014,vkyang,,User,,,,2,0,7
+1704,2016,YanPengImp,imp,User,codoon,ChengDu,,38,4,5
+1705,2016,acheng93,null,User,,"Chongqing,China",,5,8,66
+1706,2012,zhangyanrui,Will Zhang,User,,Beijing,,44,19,68
+1707,2016,luyunfeng,lucode,User,,地球,,73,19,47
+1708,2014,kyneh,,User,,,,2,0,4
+1709,2014,Flatheadman,,User,,,,13,7,18
+1710,2016,LittleChengxuYuan,LittleChengxuYuan,User,,"wuhan,China",,3,3,5
+1711,2016,yhangf,yhf,User,,,,10,140,9
+1712,2016,wyon1314,wyon,User,,,,33,0,10
+1713,2015,depers,__fulin,User,,甘肃张掖(CHINA),,11,15,108
+1714,2016,SeanChengN,,User,Boy♂Next♂Door,China,,15,1,19
+1715,2017,MoveLikeRabbit,司颖,User,,,,18,2,7
+1716,2015,zhxfei,,User,,,,22,14,39
+1717,2016,CallMeMhz,Mega Hertz,User,,,,32,3,27
+1718,2017,DripDripDrip,,User,,,,3,0,1
+1719,2016,Sir7,,User,,,,3,1,2
+1720,2011,zhzenghui,zhzenghui,User,,,,311,14,101
+1721,2017,xmmmmmovo, !输认不永DGL,User,,North University of China,,12,18,46
+1722,2015,leyiqiang,Leyi Qiang,User,,,,28,17,31
+1723,2014,thomasmktong,Thomas Tong,User,,Hong Kong,,36,19,26
+1724,2016,layiw,赖益文,User,,珠海,,30,1,11
+1725,2017,bohenmian,杨松柏,User,,chengdu,,30,6,25
+1726,2015,heyuxin,,User,,,,2,6,31
+1727,2016,tak-wah,Dehua Wang,User,HIT,BeiJing,,62,5,11
+1728,2017,shiwanghua,Swhua,User,NO now.,GuangZhou,,5,0,4
+1729,2015,mangouu,,User,,,,59,0,50
+1730,2016,ufukcelen,Ufuk Çelen,User,,Turkey / Ist,,5,0,7
+1731,2017,EternalKeel,,User,,,,282,10,291
+1732,2013,district10,TANG ZhiXiong,User,Momenta,"Wudaokou, Beijing, China",,214,143,476
+1733,2016,jajupmochi,linlin,User,Institut National des Sciences Appliquées de Rouen Normandie,"Rouen, France",,10,4,33
+1734,2017,8979AND,,User,,,,3,0,2
+1735,2016,Ninzero,,User,Wellington College,,,4,0,6
+1736,2014,pengshiqi,Patrick_psq,User,Shanghai Jiao Tong University,Shanghai,,28,23,29
+1737,2014,xiaoxiaoleo,小小leo,User,,Zion,,47,174,354
+1738,2015,DavidZhiXing,,User,,,,86,8,39
+1739,2017,willemsestan,,User,,,,4,2,24
+1740,2015,minhao1995,minhao,User,,,,26,9,84
+1741,2015,yeyiqing,yiqing ye,User,,HangZhou Zhejiang ,,13,0,1
+1742,2014,ausky,,User,,,,4,3,22
+1743,2014,robot0x,,User,,,,436,2,116
+1744,2016,mallGit,,User,,,,7,0,3
+1745,2014,Perrywzp,Perry,User,hikvison,"HangZhou,ZheJiang",,63,7,22
+1746,2015,KDXdaxiong628,CoderDX,User,,,,85,2,21
+1747,2016,xxxgitone,X.C,User,student,"ShangHai,China",,34,73,140
+1748,2011,TimothyYe,Timothy,User,,"Chengdu, China",,71,333,61
+1749,2016,Tower1189,tower1189,User,,,,18,0,4
+1750,2016,TClion,,User,,"Beijing,China",,77,3,24
+1751,2011,kennethxian,MaoYuan Xian,User,ChinaHadoop,Beijing,,31,22,2
+1752,2018,RumiaLunnar,Rumia,User,,,,4,4,47
+1753,2017,xiafansheng,夏凡盛,User,中央财经大学,北京,,5,11,188
+1754,2014,HachikoDream,Wells,User,Alibaba,hangzhou.China,,67,18,107
+1755,2016,27xx,2727,User,,,,59,6,18
+1756,2017,252860883,Dinosaur-,User,Tianjin Polytechnic University,Beijing,,38,11,51
+1757,2011,seizetheday,James Liu,User,,,,5,2,38
+1758,2017,Supremesir,,User,,,,1,6,21
+1759,2017,Leihungjyu,Leihungjyu,User,,"Chengdu,China",,0,2,2
+1760,2015,srxboys,smx,User,Yooli,"Beijing, China",,50,17,69
+1761,2013,qljiong,Bethink,User,,xiamen,,14,7,73
+1762,2017,caofengl,devin,User,,"Xi'an, China",,8,11,193
+1763,2016,ejunjsh,IdiotSky,User,Ericsson‘,Guangzhou China,,64,34,57
+1764,2017,setadd,,User,,,,8,4,110
+1765,2015,moyuanhuang,Moyuan Huang,User,@appfolio ,"San Diego, CA",,27,3,33
+1766,2011,rench,rench,User,,"Chengdu,China",,108,15,39
+1767,2016,JingYeoh,Yeoh,User,@bytedance,Beijing.China,,24,169,91
+1768,2013,lookinghong,,User,,ShangHai,,9,3,24
+1769,2017,SUNYI31,Sandy_SY,User,,,,1,2,23
+1770,2016,YellowDong,,User,,,,20,0,11
+1771,2016,lucky-beans,,User,,,,14,14,216
+1772,2018,z845974243,张飞,User,,,,1,0,14
+1773,2012,garnettk,Simon Leung,User,,,,5,30,744
+1774,2018,zhangchensong,,User,,,,7,0,7
+1775,2013,niexiaosong,聂晓松,User,,,,26,4,20
+1776,2015,learnr27,,User,,,,40,2,66
+1777,2015,dantefu9001,DanteDefatted,User,,"SH,PRC",,3,1,6
+1778,2014,encorechow,Zheng Zhou,User,Oregon State University,"Corvallis, OR",,30,9,14
+1779,2018,TVVVVVV,,User,,,,2,0,1
+1780,2015,zhilonglu,,User,,,,302,8,51
+1781,2015,lily-lee,Lily Lee,User,,Chengdu,,11,8,28
+1782,2017,XiaoYee,XiaoYee,User,,WuHan,,12,14,29
+1783,2016,chenjunCodingGit,陈俊,User,,chengdu,,20,2,13
+1784,2018,vinyou,,User,,shanghai,,30,0,2
+1785,2016,liuyun1995,劳夫子,User,,中国上海,,15,1,71
+1786,2017,forgiveboo,forgiveboo,User,,,,2,6,11
+1787,2016,tystudy,,User,,,,45,0,10
+1788,2011,reesun,Alex,User,come2art,Beijing,,252,6,159
+1789,2008,yava555,yava,User,,,,6,21,71
+1790,2017,ss313022298,MomNoodle,User,,Beijing,,23,1,19
+1791,2012,zyqhi,LaZyQ,User,NetEase,"Hangzhou, China",,31,15,90
+1792,2015,CrazyMelody,,User,,,,9,2,6
+1793,2017,yusirkuan,,User,,,,20,0,5
+1794,2016,WoooTer,WooTer,User,,,,13,1,10
+1795,2013,zacksleo,zacks,User,@haolianluo ,"Hangzhou,China",,105,45,164
+1796,2016,jieli4970,,User,,,,54,6,23
+1797,2016,tzhang2014,zhangtian,User,,guangzhou ,,95,3,60
+1798,2017,maruidong19930514,,User,,,,3,0,1
+1799,2015,rexnxiaobai,rex lau,User,,hangzhou,,31,13,376
+1800,2011,mingrui,Mingrui Jiang,User,,,,66,51,505
+1801,2018,wy595549,王大勇,User,,,,6,0,9
+1802,2015,qianlongo,谦龙,User,外卖厂,https://qianlongo.github.io/,,86,225,215
+1803,2012,mouse1130,,User,,,,33,0,8
+1804,2017,fwayne,,User,,,,5,2,4
+1805,2016,moli232777144,moli232777144,User,,,,5,59,45
+1806,2017,HashWaney,KK,User,,shenzheng china,,63,3,16
+1807,2014,zeromake,zeromake,User,厦门-欢乐逛 @gaoding-inc,Xia Men/China,,43,47,147
+1808,2017,f0829,,User,,,,620,13,373
+1809,2011,coolzilj,Jin Liu,User,@Puffant,"Shenzhen, China",,89,124,766
+1810,2015,kaskgj,跑火车,User,,,,8,1,15
+1811,2011,nilportugues,Nil Portugués Calderó,User,,"Barcelona, Catalunya",,820,165,260
+1812,2018,StonesLuo,StonesLuo,User,,"Shanghai, China",,3,2,12
+1813,2015,PiaoMax,,User,,,,7,0,2
+1814,2014,zry98,Zry98,User,,"Zhejiang, China",,0,13,26
+1815,2013,softliumin,zody,User,Alibaba Group,Hangzhou China,,103,14,84
+1816,2013,zacklocx,zacklocx,User,,,,4,20,706
+1817,2017,Panlq,,User,,,,8,2,21
+1818,2018,fujingyang27,fjy,User,,,,3,0,1
+1819,2017,imagemlt,Image,User,@susers ,"Nanjing,Jiangsu,China",,56,80,202
+1820,2017,yanpengning,阎彭宁,User,,,,6,1,6
+1821,2016,Kellercai,KellerCai,User,,"Guangzhou,China",,11,3,13
+1822,2016,Latube,smith latube,User,NPIC,China Chengdu,,6,2,128
+1823,2013,ScapeQin,,User,,,,452,5,67
+1824,2018,Roronoazorofans,ZoroZhang,User,,"Beijing,China",,10,5,23
+1825,2016,YoungWilliamZ,William Z,User,,"Shenzhen, China",,34,12,39
+1826,2015,koringz,koringz,User,Freelancer,"ShenZhen,China",,38,17,114
+1827,2016,luoshixiong123,,User,,,,5,1,2
+1828,2013,FreezeSoul,FreezeSoul,User,Remoting,"116.363967,39.95137",,28,42,488
+1829,2013,zxx,,User,,Beijing,,42,24,156
+1830,2016,BestDI,Tong Ww,User,,ShaanXi Xi'an,,71,4,114
+1831,2016,neild47,,User,,,,21,1,8
+1832,2016,chengguobiao,Chengguobiao,User,Hit,WeiHai,,163,7,29
+1833,2017,NathanDataPlayer,,User,,,,1,0,2
+1834,2015,Alisonlwin,Aye Aye Aung Lwin,User,,,,0,0,2
+1835,2017,daniel-5,daniel,User,,,,5,0,57
+1836,2014,JeaNile,,User,,,,0,8,74
+1837,2017,R3dFruitRollUp,Smfh,User,,,,792,71,1139
+1838,2017,kingsleytorlowei,Kingsley Torlowei,User,,Lagos,,16,0,7
+1839,2017,Clins28,,User,,,,19,1,8
+1840,2018,harileaf,Harikrishnan,User,,,,21,3,133
+1841,2014,kiang70,野驴,User,,,,62,38,93
+1842,2014,Ericxiaoshuang,Eric,User,,shenzhen,,47,9,41
+1843,2015,GlenGithub,一叶知秋,User,Rockymobi,China,,688,20,395
+1844,2013,18idc,,User,,,,9,5,16
+1845,2016,niechi123,,User,,,,6,2,21
+1846,2015,redone2000,红色一号,User,,广州,,21,2,2
+1847,2016,Wxinfeng,,User,,,,13,5,44
+1848,2017,irvinity,Irving,User,,Texas,,9,4,11
+1849,2017,BobcatsII,Pandalis,User,,,,27,0,12
+1850,2015,huachaoliu,Huachao Liu,User,,shanghai,,109,37,128
+1851,2013,mr007rin,andy ren,User,freelance,China,,11,0,11
+1852,2016,Linbubin,,User,,hangzhou,,42,11,98
+1853,2013,yesan,5yesan,User,,Shanghai,,34,30,218
+1854,2016,westne,westne,User,,,,5,1,18
+1855,2016,privatez,Icanuseyourhead?,User,,杭州,,18,10,14
+1856,2018,izhaojinlong,,User,,,,9,0,5
+1857,2016,github-dengyu,dengyu,User,万科,深圳市福田区上梅林,,8,3,87
+1858,2016,prismheart,,User,,,,4,2,15
+1859,2017,JluTiger,JluTiger,User,学生,吉林,,9,2,2
+1860,2016,tuzimoe,Tuzi Liu/兔子鲜笙,User,一群肥宅（深圳）网络科技有限公司 @Weee-Dev ,国立音ノ木坂学院,,84,224,317
+1861,2017,Wh1sht,,User,,,,28,0,6
+1862,2018,kevin9036,,User,,,,1,0,1
+1863,2015,sheilaCat,,User,Ctrip,"Shanghai,China",,18,23,30
+1864,2015,whyrookie,git,User,,,,5,3,36
+1865,2015,wangtotang,Tong,User,,"guangzhou,china",,24,10,95
+1866,2015,xmsec,,User,,BeiJing,,18,37,60
+1867,2017,JiangJiangjungle,JSJ,User,SCUT,Guangzhou,,20,3,9
+1868,2012,wangxujun163163,鬼谷子,User,,,,91,8,65
+1869,2014,herseus,herseus,User,,China,,9,2,17
+1870,2017,zengbin93,,User,,,,7,27,14
+1871,2017,HenryLiu0,Henry Liu,User,SYSU,China GuangZhou,,13,7,100
+1872,2014,zgm4z,ZhuoGuangMing,User,,GuangXi,,73,3,40
+1873,2016,zhugegy,,User,,,,26,26,37
+1874,2016,forget1,杨阳,User,,上海,,8,2,24
+1875,2016,unlimitbladeworks,sssyyy,User,@,"BeiJing,China",,18,10,33
+1876,2017,guoqing-tang,糖果儿,User,,Beijing,,8,0,1
+1877,2014,guoyu-,guoyucn,User,量子金服,beijing,,75,13,129
+1878,2017,yangxuanx,&0xFF,User,,"Province of Moscow, Russia",,2,3,43
+1879,2017,CavonCheng,,User,,,,1,1,9
+1880,2017,cantfindone,leonardo.lu,User,,,,2,0,3
+1881,2015,smqh-github,水木清华,User,,,,198,0,12
+1882,2014,8055aa,Thomas Yang,User,RJ,CN,,31,0,2
+1883,2018,Jiahh234,,User,,,,4,1,2
+1884,2017,bigbigbean,,User,,,,51,4,21
+1885,2017,AngLi2,Ang Li,User,,,,12,6,14
+1886,2018,woshidaxia007,,User,,,,0,0,1
+1887,2017,linglingshinelove,cau_learninger,User,,,,5,1,10
+1888,2018,chandel-abhishek,,User,,,,1,1,8
+1889,2016,khalilliu,Khalil Liu,User,,"ShenZhen,China",,115,9,318
+1890,2016,JohannaWong,,User,,,,3,3,4
+1891,2014,stevemao,Steve Mao,User,,Sydney,,425,585,787
+1892,2017,sherlockyb,yangbing,User,,Beijing,,8,6,50
+1893,2012,orjuly,小风,User,,hangzhou,,40,10,67
+1894,2014,m0nkee,monkee,User,,,,11,2,2
+1895,2013,LemonAniLabs,Lennon Lin,User,,Taiwan,,29,8,49
+1896,2015,SitingSong-SYSU,Stella,User,,,,11,8,20
+1897,2017,davidkorea,,User,,,,75,2,25
+1898,2016,chengyuqi,T-man,User,,,,1,1,15
+1899,2014,lguodongustc,jelly,User,,,,9,1,27
+1900,2015,m102981,,User,,,,24,0,2
+1901,2016,zhenian,zhenian,User,,,,20,4,22
+1902,2017,charlesliucn,Qian Liu,User,"EE, Tsinghua University","Beijing, China",,9,14,61
+1903,2013,aaronshan,aaron,User,,"BeiJing, China",,34,21,8
+1904,2015,weiyien,weiyien,User,,,,13,0,4
+1905,2016,CaijiOrz,ze7o,User,,Chongqing China,,5,17,88
+1906,2016,q544891464,,User,,,,1,0,1
+1907,2014,LordKnows,Zandy,User,,"UI Lab, Tokyo University",,0,2,10
+1908,2014,PandaL33,Li Guohuang,User,,China,,10,0,11
+1909,2015,Jude309307972,,User,,shenzhen,,17,15,63
+1910,2014,y11en,y11en,User,@y11en,,,483,132,976
+1911,2016,bluesjm,,User,,,,0,0,3
+1912,2016,ToMatrgod,matr,User,科大,上海/四川,,2,2,6
+1913,2015,EVWang,EvilWang,User,,,,62,0,10
+1914,2015,hkng,Kitson Ng Ho Kit,User,,,,33,0,4
+1915,2016,showsmall,,User,,,,533,2,81
+1916,2016,lskllc,,User,,Beijing,,14,1,2
+1917,2012,fanchou,周凡,User,,"Shenzhen,China",,33,22,89
+1918,2013,cht8687,Robert Chang,User,,Sydney,,108,158,186
+1919,2015,taojin1207,Taojin,User,,"Shenzhen,China",,32,1,24
+1920,2017,popo63301,Sofiane Baddag,User,,"Paris, France",,22,33,144
+1921,2014,plsimon2014,Simon Pan,User,上海思澄智能科技有限公司,"Shanghai, China",,6,1,9
+1922,2016,hyyaoming,Yaoming Li,User,,Shanghai,,60,3,47
+1923,2018,lcdblock,Pedro Domingues,User,MD3,"Leiria, Portugal",,2,11,395
+1924,2012,wogong,Cheng Zhen,User,,Changsha,,38,42,187
+1925,2018,lirox3,Jon,User,@indogamers,Indonesia,,0,0,23
+1926,2018,Nzukisebastian,Nzuki_sebastian,User,thyself,Kenya,,12,8,73
+1927,2018,Moshr00m,,User,,,,0,0,9
+1928,2013,omnimark,F12X,User,,los angeles,,9,8,50
+1929,2013,yyypasserby,Yiyun Yao,User,Carnegie Mellon University,Pittsburgh,,9,92,159
+1930,2014,morganwang010,,User,,,,437,5,157
+1931,2016,jeffrey987,,User,,china,,14,3,22
+1932,2016,Usharerose,Chaojie Yan,User,,,,5,0,4
+1933,2012,DevenLu,,User,,,,2609,72,2541
+1934,2017,huanhuande,,User,,,,58,4,41
+1935,2016,martin3k,,User,,,,4,0,4
+1936,2016,githubhan2016,,User,,,,3,0,3
+1937,2013,microosx,,User,,,,1,4,18
+1938,2015,Appigle,Chenley,User,,,,40,6,11
+1939,2011,cleexiang,LiXiang,User,,ChengDu,,51,39,172
+1940,2014,maiiz,maiiz,User,,China Beijing,,20,21,8
+1941,2015,zyong812,Yong.Z,User,,Shenzhen,,34,8,110
+1942,2016,gbusr,ML_Plate,User,,,,254,3,87
+1943,2017,yzStrive,,User,,,,22,4,79
+1944,2018,SHXMRL,,User,,,,3,0,18
+1945,2017,weiminlee1,,User,,,,17,5,38
+1946,2016,selfimprW,夜尽天明,User,58赶集,北京朝阳,,917,32,302
+1947,2015,initLiu,,User,,,,502,8,157
+1948,2016,angeliur,angeliur,User,,,,22,3,55
+1949,2017,renefiedel,Renetus Fidel Masanja,User,Xi'an Jiaotong-Liverpool University 西交利物浦大学,"Suzhou, China.",,3,0,3
+1950,2017,Zchary,Zchary,User,,Nanjing,,6,6,35
+1951,2013,yxqme,Xiaoqiang Yang,User,@oxygenna ,shanghai,,2,20,61
+1952,2014,wuhaooooo,Hao Wu,User,,,,5,5,17
+1953,2017,PetiteBoy,,User,,,,9,1,5
+1954,2013,WenruiCui,,User,,,,24,10,22
+1955,2015,stxiaohan,Xiaohan,User,,,,0,1,30
+1956,2016,hhllnw,XueLei,User,,China,,8,2,2
+1957,2017,yuming923,,User,,,,0,3,211
+1958,2016,MLTcola,,User,,,,1,0,1
+1959,2017,blacklisten,Black_晨,User,,ShangHai,,20,5,32
+1960,2013,mack007liu,mack,User,ND,FUZHOU CHINA,,70,9,99
+1961,2015,thehackercat,Lexus Lee,User,@Douban,,,44,51,177
+1962,2014,chenpengjun,marlboro,User,,,,1,1,43
+1963,2018,hcc817,,User,,,,16,48,71
+1964,2018,seraphlr,喵喵喵？？,User,,,,2,52,66
+1965,2018,Bruce-py,gsl,User,,Shenzhen,,3,53,64
+1966,2018,AnmingXie,Anming,User,,,,5,48,70
+1967,2018,currynihao,huangpengsheng,User,,,,10,52,62
+1968,2018,wyqBTfish,,User,,,,4,52,67
+1969,2017,nihao-hit,,User,,,,16,0,4
+1970,2015,lsk-kun,,User,,,,9,0,2
+1971,2014,thonnyhu,,User,,,,25,4,22
+1972,2015,biguokang,Alpaca_Bi,User,,Guangzhou China,,58,5,67
+1973,2018,DanaeWang,,User,,,,1,0,1
+1974,2016,garyjiang1996,jiangyz,User,,"Changzhou,China",,8,0,14
+1975,2018,HaiLenZ,HAILIN,User,,,,5,50,55
+1976,2018,hooCC,,User,,,,2,0,11
+1977,2015,AlphaBrock,AlphaBrock,User,,GuangZhou China,,48,47,30
+1978,2017,Leooone,,User,,,,12,0,2
+1979,2015,jie786389209,,User,,,,16,1,4
+1980,2017,cowry5,CowRy,User,,,,7,1,22
+1981,2016,ricosmall,Rico,User,,"Shenzhen, China",,26,11,58
+1982,2015,luochengyao,罗成瑶,User,,,,0,0,16
+1983,2017,zane2017,,User,,,,13,0,27
+1984,2014,qq345386817,Peike Luo,User,,"Beijing, China",,25,22,172
+1985,2016,AlphaZach,Zhifeng Chen,User,,,,15,3,6
+1986,2012,keulraesik,keulraesik,User,,,,117,11,149
+1987,2018,devmoses,The Moses,User,@teamMOSES,0.0.0.0,,39,15,173
+1988,2018,leTeng,,User,,,,4,0,5
+1989,2015,Triple-Z,Zhenzhen Zhao,User,@NUAA-Open-Source ,"Nanjing, China",,35,80,237
+1990,2015,hoyawolfer,Wofm,User,suning,,,4,3,107
+1991,2015,cdswyda,Douglas Chen,User,,"ZhangJiagang, SuZhou, China",,68,20,58
+1992,2018,zhangyayaya,,User,,,,0,0,1
+1993,2017,welaing,,User,,,,9,1,13
+1994,2018,Chizhanggo,,User,,,,5,2,7
+1995,2016,claa,Claa,User,,"Shanxi,China",,14,1,21
+1996,2016,limbowandering,张灿,User,,中国,,37,6,112
+1997,2018,OriginNull,origin,User,,China ,,103,7,56
+1998,2016,sunboy166,big gao,User,,,,95,8,213
+1999,2013,ruochen18,,User,,,,3,0,1
+2000,2010,tomzhang,mingfeng.zhang,User,Dataman-inc,beijing china,,1955,51,883
+2001,2016,xinwii,xinwii,User,ctrip,shanghai,,24,15,70
+2002,2015,guoweikuang,郭伟匡,User,,广州,,42,17,228
+2003,2017,cxdaao,,User,,,,1,0,7
+2004,2016,cnpirti,,User,,,,2,0,3
+2005,2017,NigelHuang,NigelHuang,User,,,,1,1,1
+2006,2015,thomasgassmann,Thomas Gassmann,User,@novaCapta,Switzerland,,45,32,113
+2007,2016,huainanzi,DongDong Xu,User,aykj.com.cn,nanjing,,23,1,22
+2008,2016,pjshwa,jinsik park,User,@crema,,,4,5,21
+2009,2013,yu4nyu,YUAN Yu,User,,Shenzhen,,12,6,9
+2010,2016,MaxShang,Max Shang,User,University of Guelph,"Ontario, Canada",,12,0,19
+2011,2016,rosaprint,,User,,,,0,0,1
+2012,2013,derboys,Jayleong,User,,,,17,8,87
+2013,2012,machinefriendly,,User,,,,21,6,83
+2014,2014,wolfelee,LIWF,User,,,,52,5,31
+2015,2013,LiLiKiLL,Xu Chen,User,,,,10,3,16
+2016,2014,xdx3000,谢丁星 Haber,User,,"Fuzhou, Fujian, China",,12,0,1
+2017,2017,gihubcloner,githubcloner,User,,,,8,0,4
+2018,2016,Rainsho,Rainsho,User,,,,17,12,12
+2019,2015,NickTet,Better,User,,成都,,40,14,42
+2020,2015,TnZhao,Zheng Zhao,User,,"Nanjing,China",,19,1,144
+2021,2017,luolinfan,linda,User,,,,1,3,301
+2022,2017,wuyipin,,User,,,,9,0,2
+2023,2017,applepc12138,,User,,,,4,0,3
+2024,2016,N-ashou,,User,,,,12,1,17
+2025,2013,zhouyongtao,Irving,User,,"Xuhui, Shanghai, China",,301,65,140
+2026,2017,dlmgis,dlmgis,User,,HeBei China,,15,4,15
+2027,2018,iamhuilin,,User,,,,0,0,1
+2028,2015,aizigao,,User,,,,10,4,55
+2029,2015,hechaohe,hechao,User,,China,,41,2,55
+2030,2016,sammui4,老衲,User,,广州,,2,8,27
+2031,2014,fazlulkabir94,MD Shohag,User,Field Buzz,Dhaka,,60,12,144
+2032,2016,LIiong,Liion,User,,,,3,2,8
+2033,2016,1696012928,Walker,User,,"ChengDu, China",,16,2,11
+2034,2015,yangl235,,User,,,,100,2,6
+2035,2015,liweijian1,liweijian,User,,,,12,1,10
+2036,2017,zer0fire,,User,,,,54,2,70
+2037,2016,DorisHaoXue,,User,,,,0,0,1
+2038,2015,JimmyLee05,,User,Slightech,China,,46,17,211
+2039,2016,viper140,wangfeng,User,,,,7,5,9
+2040,2016,luciusun,Liang  Sun ,User,USTC,beijing,,29,1,13
+2041,2016,hubhack,,User,,beijing,,14,3,30
+2042,2016,feanlau,Liu Fan,User,,,,2,15,232
+2043,2016,jiwencheng,Wencheng Ji,User,,,,8,1,55
+2044,2018,SimpleFizz,,User,,,,8,1,2
+2045,2018,zHout888,,User,,,,1,0,1
+2046,2017,Jainmj1234,jain,User,,,,6,2,9
+2047,2017,Vanse-Mo,,User,,,,6,0,1
+2048,2016,moolean,Saptonnoc,User,,,,2,0,1
+2049,2015,chuanli11,,User,Lambda Labs,California,,21,97,1
+2050,2018,Nehalaryan,Nehal Ahmad,User,,kolkata india,,1,0,11
+2051,2017,wch1993,Chong Wang,User,,,,3,0,2
+2052,2014,zikuai,,User,,shenzhen,,5,1,16
+2053,2017,ygmsenator,,User,,,,0,0,3
+2054,2016,vincenthesiyuan,Vincent He,User,Hebei GEO university,,,3,0,11
+2055,2014,fzzf0618,Chris,User,ZhangZhongBao WuHan,"Wuhan,Hubei,China",,25,12,47
+2056,2017,EricJeffrey,Eric,User,,,,13,9,15
+2057,2013,JohnyXu,JohnyXu,User,上海XXX有限公司,ShangHai,,25,36,846
+2058,2016,hitao123,Billow,User,,shanghai,,21,12,166
+2059,2014,ahuang007,,User,,,,14,15,48
+2060,2018,YF1026037118,,User,,,,5,0,3
+2061,2010,Tukki,稻草人.L,User,,,,7,5,17
+2062,2016,joinmouse,吴奇,User,以息科技,hangzhou,,142,7,51
+2063,2018,helang1991,he lang,User,,chengdu,,7,0,10
+2064,2014,dsnlfk,,User,,,,15,1,14
+2065,2013,Natoto,共田君,User,YY.Inc,GuangZhou,,443,84,158
+2066,2012,miyataken999,kenichi miyata,User,MHK,japan,,211,25,123
+2067,2016,stuckyl,,User,,,,1,0,11
+2068,2016,sanriqing,,User,,,,7,3,15
+2069,2014,dony88,dony,User,,nanjing china,,4,3,10
+2070,2017,JinlongHe,诚若浅识,User,智禾大数据实验室,北京,,141,0,14
+2071,2017,wangwren,计科一班,User,,中国，辽宁，大连,,18,5,12
+2072,2015,YuanJiaShuai,Super_Yuan,User,,浙江杭州,,34,1,2
+2073,2015,zhaoquntao,愚非愚余,User,杭州,杭州,,248,17,322
+2074,2018,zmh19960419,王志杰,User,,,,5,0,6
+2075,2018,rabbitgogogogo,Vicky,User,,,,4,0,9
+2076,2016,imiem,Jianfeng Wang,User,,shanghai,,12,3,7
+2077,2017,nightsswatch,,User,,,,17,0,6
+2078,2015,codeamateur,,User,,,,71,9,49
+2079,2016,lf171314,Cherish_ li,User,,hangzhou,,7,1,8
+2080,2017,beautifulBoys,Jason_lixin,User,,,,60,89,13
+2081,2015,TTgit,,User,,,,6,0,9
+2082,2017,greedisalwaysgood,,User,,,,5,1,7
+2083,2013,huangjingcai,Jingcai,User,Timeinch,shenzhen,,1,4,9
+2084,2013,lkasdolka,Andy Liu,User,bupt,"Beijing,China",,32,9,16
+2085,2017,ronething,,User,,0.0.0.0,,72,10,54
+2086,2018,havugimanaremy,,User,,,,1,0,14
+2087,2018,sapkang,,User,,,,0,0,1
+2088,2018,EvelynZZZQQQ02,入江TuTu,User,,,,2,0,1
+2089,2017,sjpanchal,Siddharth Panchal,User,,,,69,2,32
+2090,2017,maybe-why-not,,User,,,,10,3,35
+2091,2015,yhbuao,yhbuao,User,,"Beijing,China",,64,8,40
+2092,2018,sadChinaV,,User,,,,2,0,1
+2093,2013,tandaly,tandaly,User,,,,58,5,61
+2094,2013,BruceChen5683,BattleCall,User,,"Sh,China",,57,5,61
+2095,2018,hcc6,,User,,,,0,0,1
+2096,2015,zhanlaoban,,User,"USTC, University of Science and Technology of China",hefei,,6,0,33
+2097,2018,QuYxxxxxx,,User,,,,1,1,4
+2098,2015,hua163,,User,,,,138,1,48
+2099,2015,mashirozx,Mashiro,User,,"Shanghai, China",,46,176,43
+2100,2016,masterace007,Shobhit Kumar Raghubanshi,User,,,,5,0,7
+2101,2018,gavuhop,,User,,,,0,0,16
+2102,2013,nickrogit,Nickro,User,,,,46,2,15
+2103,2017,HiDuke,,User,,,,15,1,12
+2104,2017,Robert-xiaoqiang,Q Indomitable,User,," Hangzhou City, CHN",,37,6,194
+2105,2016,Dshufeng,董书峰,User,,北京,,24,8,52
+2106,2016,kilingzhang,slight,User,XTU,XTU,,57,33,70
+2107,2016,dearzoe,文哲,User,,GuangZhou,,158,14,90
+2108,2014,h007,,User,,,,25,5,46
+2109,2018,superhanjun,,User,,,,0,0,2
+2110,2016,mengdaya,Z0ser,User,,,,193,22,205
+2111,2016,songzeng2016,Song Zeng,User,,"Shanghai, China",,29,11,82
+2112,2017,lmtsunnie,,User,,Beijing,,8,4,16
+2113,2017,charlesmade,Zeco,User,,,,10,2,17
+2114,2016,xugaoxiang,Xu GaoXiang,User,," Shanghai, China",,31,13,124
+2115,2015,Stevezhong0506,Steve,User,,,,24,0,5
+2116,2018,zhan1218,,User,,,,30,12,129
+2117,2016,zhongqian,,User,,,,6,0,6
+2118,2015,merlinJie,Merlin,User,Eleme,shanghai,,21,21,96
+2119,2013,BrickXu,Lei Xu,User,Qunar.com,Beijing China,,28,35,121
+2120,2018,Gianni1909,,User,,,,1,0,6
+2121,2016,Zoranner,杨新冉,User,,,,2,3,86
+2122,2011,felixlu,Felix Lu,User,,Shenzhen,,41,9,41
+2123,2017,goodcan,灿灿,User,,中国 浙江 杭州,,7,2,8
+2124,2014,psc0606,Joe.P,User,,China,,27,1,20
+2125,2016,ZZITE,Linchengyi,User,,,,12,6,17
+2126,2008,openweb,Allen Long,User,huihoo,China,,76,112,334
+2127,2015,pengliheng,peng,User,jb,深圳,,93,660,39010
+2128,2013,chencang,_popc,User,ok,,,27,1,42
+2129,2017,qyhyinghao,,User,,,,91,0,18
+2130,2015,lcdsmao,MAO YUFENG,User,,Tokyo,,39,2,24
+2131,2017,github-xisha,xisha,User,Secsmart,"hangzhou, China",,23,4,16
+2132,2017,lvhanzhi,吕涵之,User,,,,4,11,23
+2133,2017,WzRaCai,,User,,,,1,0,8
+2134,2018,tuibot,tuibot,User,,Earth,,18,0,4
+2135,2018,ever-lasting,,User,,,,1,0,2
+2136,2012,wolfhong,wolfhong,User,,"ShenZhen, China",,27,12,12
+2137,2016,YunyuZhang,Yunyu Zhang,User,,,,20,18,36
+2138,2015,linweiwei123,yitala,User,meetyou,xiamen Fujian Province,,63,54,48
+2139,2017,lianghonglei,,User,,,,6,1,2
+2140,2013,genius52,Chengcheng,User,爱奇艺,Shanghai,,19,5,3
+2141,2017,leifeng110,,User,,,,1,3,4
+2142,2016,YuyangHYY,He Yuyang,User,,"Kuala Lumpur, Malaysia",,35,1,39
+2143,2012,dabing1205,cbcbc,User,,,,8,6,31
+2144,2015,bamboo516,,User,,,,0,0,1
+2145,2018,lzh461606742,,User,,,,11,0,12
+2146,2017,ZitherPeng,zither,User,Oray,ShangHai China,,11,2,20
+2147,2017,birkhoff2017,simon,User,,,,49,2,96
+2148,2015,cuitxubin,Cuitxb,User,,ChengDu,,107,2,34
+2149,2011,r569594043,Riley Ren,User,,,,80,26,76
+2150,2015,jiangjiyun,,User,,,,18,1,20
+2151,2018,HuangQi7777777,,User,,,,1,0,2
+2152,2016,joeywang310,joey wang,User,,上海,,8,0,5
+2153,2013,hstonel,,User,,,,66,10,146
+2154,2015,iamzjk,Jingkun Zhuang,User,@Arable ,New Jersey,,16,4,7
+2155,2014,splashinn,Kyle Maune,User,"@cooperaerial, @Widgetry ",Phoenix,,243,101,1046
+2156,2016,MostafaYoussef11,Mostafa Youssef,User,,,,1,0,27
+2157,2015,DanqingFu,,User,,,,5,3,4
+2158,2017,KKKKKyle,Chentao Wang,User,,,,18,11,22
+2159,2014,zelloss,,User,,,,7,1,4
+2160,2015,JuntingLiu,Junting,User,,Shenzhen,,22,35,365
+2161,2013,zenghanfu,,User,,,,56,2,217
+2162,2016,sohokay,冯凯昌,User,,中国-深圳,,57,15,67
+2163,2017,WildChen,,User,,,,143,3,51
+2164,2016,jeromehan,jerome han,User,jeromehan@163.com,Peking,,202,5,144
+2165,2016,guygubaby,guygubaby,User,,chengdu,,73,29,252
+2166,2018,Nan-lgg,,User,,,,9,52,58
+2167,2017,makeF,,User,,,,6,0,4
+2168,2015,Nan3r,Nan3r,User,,,,98,17,8
+2169,2012,xxks-kkk,Zeyuan Hu,User,,"Austin, TX",,69,41,516
+2170,2013,zhangxaochen,,User,,,,44,37,65
+2171,2018,issaeed,Zack,User,Hijack-Sec,USA,,2,0,27
+2172,2017,Choven-Meng,Choven,User,,Shanghai,,14,2,14
+2173,2015,baobin81,MikeBao,User,,北京,,112,5,110
+2174,2015,Musk66,Musk66,User,,BeiJing,,18,13,330
+2175,2014,AllenYoung1987,,User,,,,1,4,38
+2176,2016,kkxna,,User,,,,16,1,15
+2177,2017,SukaraLin,l1nk3r,User,,,,10,48,51
+2178,2017,PierreBaoy,Baoy,User,,Beijing,,4,1,8
+2179,2016,wwhwwhwwh,,User,,,,52,20,717
+2180,2016,jay-bill,,User,,,,31,1,2
+2181,2018,jifengjxx,Secret,User,,,,4,0,6
+2182,2013,honglei92,,User,,chengdu,,18,7,115
+2183,2009,firnice,firnice,User,,,,9,5,9
+2184,2015,PW486,DONGGEON LIM,User,R.O.K. Cyber Command,"Seoul, Korea",,37,122,415
+2185,2015,Jafeney,Jafeney Lou,User,阿里口碑,浙江省杭州市西湖区Z空间,,74,54,3
+2186,2014,jhlpotato,Jin Hongliang,User,huawei,Beijing,,8,6,20
+2187,2014,fengyun8,wangming,User,,,,54,15,200
+2188,2017,phenge,,User,,,,9,0,17
+2189,2015,zhuwenxing,,User,Shanghai University,shanghai,,73,53,404
+2190,2018,cynthia0811,,User,,SHANGHAI,,24,2,9
+2191,2017,zc314314,,User,,,,2,1,6
+2192,2013,michaelg-j,,User,,,,14,1,4
+2193,2018,s6dyl,,User,,,,64,44,3094
+2194,2011,quxiaofeng,Qu Xiaofeng / 曲晓峰,User,Tsinghua University Shenzhen Graduate School & LUMI United,"Shenzhen & Hong Kong, China",,419,175,909
+2195,2017,GHAUOA,huahua,User,,"hangzhou,china",,12,0,27
+2196,2017,pushyzheng,Pushy,User,,"Fujian,China",,24,8,21
+2197,2015,llesson,,User,,,,1,4,62
+2198,2015,coolvip,,User,,,,3,1,10
+2199,2015,276523923,yyyue,User,,厦门,,9,0,13
+2200,2015,ls19491314,Liten,User,It is a secret.,HK.China,,60,1,50
+2201,2017,hellozhiqi,,User,,,,21,0,7
+2202,2015,secretleo,,User,,,,134,32,1486
+2203,2016,prkom,,User,,,,3,1,6
+2204,2017,marlonchiu,,User,,"Beijing,China",,18,1,28
+2205,2017,sumorFly,sumorFly,User,,,,4,0,21
+2206,2013,dannyge,DannyGe,User,,BeiJing,,50,3,79
+2207,2016,kevinhjk,Harvey,User,,,,104,11,209
+2208,2017,luo1994,Pure LOve,User,天朝随心所欲有限公司,天朝,,24,9,68
+2209,2017,yiran7324,cocopush,User,,ファミリーマート,,21,42,261
+2210,2013,mickhan,Mick Han,User,,,,12,12,18
+2211,2013,lroin,,User,,,,36,1,47
+2212,2018,git8542,wangzhao,User,,China,,21,0,27
+2213,2013,wlaotou,,User,,,,246,18,282
+2214,2013,shjia,,User,,,,3,2,28
+2215,2017,li-xingguang,Li Xingguang,User,,QingDao,,1,0,13
+2216,2018,sxwang1991,,User,,,,137,1,44
+2217,2014,FuzhePan,,User,,,,5,3,5
+2218,2013,pauldo,dupeng,User,Qufenqi,Beijing China,,6,4,20
+2219,2018,gdpve,,User,,,,4,0,1
+2220,2016,MsZhangLu,Lu,User,University of Southern California,Los Angeles,,24,3,22
+2221,2018,AlexanderShang,Alexander Shang,User,,,,0,0,4
+2222,2015,youshenfan,,User,,,,10,0,5
+2223,2018,CNfzq,某男,User,,,,7,0,6
+2224,2016,mofengfs,I Know You Know,User,,,,30,1,22
+2225,2009,mvayngrib,Mark Vayngrib,User,Tradle Inc.,remote,,278,113,445
+2226,2015,xanpen,wangxp,User,@yixia,,,4,3,27
+2227,2011,zojune,,User,,,,27,2,5
+2228,2015,kajiter,,User,,,,8,1,15
+2229,2015,stly,,User,,,,13,9,23
+2230,2017,elpaca,lizhengxiao,User,,,,6,4,8
+2231,2013,ThomasLau,Thomas,User,,Shanghai,,37,67,1127
+2232,2014,chenyoufu,youfu,User,,,,90,351,359
+2233,2013,lonjoy,Xiangfu Wang,User,YN,"Chengdu, China",,1552,54,752
+2234,2017,calmzealA,calmzeal,User,,,,43,5,19
+2235,2016,wydhcws,wydhcws,User,,Beijing,,3,2,56
+2236,2016,Feuchr,?%20%40%??,User,,,,6,0,3
+2237,2018,ArsenalFanNanning,funing.ma,User,,"NanNing,China",,29,2,80
+2238,2015,BussanQ,EnmaAiJie,User,,,,27,3,14
+2239,2018,Tobby-star,法纳斯特,User,,,,13,69,4
+2240,2016,liaobaocheng,廖保城,User,么有,中国深圳,,68,5,27
+2241,2012,KevinHock,,User,@Yelp,I love San Francisco,,23,2991,304019
+2242,2017,lin14543,lin,User,,,,11,0,3
+2243,2017,bridgeren,nickless,User,,,,2,0,3
+2244,2016,xiaobing88,,User,,chengdu,,9,18,11
+2245,2014,wjhtime,wjh,User,,,,18,4,33
+2246,2018,songsiqiu,,User,,,,0,0,2
+2247,2015,ytian81,Yang Tian,User,,San Francisco,,20,8,50
+2248,2017,sunyiwei24601,Sun Yiwei,User,,Shanghai,,16,0,43
+2249,2018,suihailiang,,User,,,,19,2,1
+2250,2016,luckydan61,,User,,,,16,0,1
+2251,2015,hcxyh,hcxyh,User,,xi'an,,23,2,162
+2252,2012,shixying,,User,,,,43,11,157
+2253,2013,Channely,Channely,User,x-space,RPC,,156,26,220
+2254,2017,ASC8384,ASC_8384,User,,,,8,2,43
+2255,2016,magicLaLa,Wick Magic,User,,China,,25,4,33
+2256,2014,Fangyh09,Coder_Hong,User,SJTU,Shanghai,,54,27,96
+2257,2018,spruce2016,,User,,,,0,0,19
+2258,2017,AmandaKrystal,waqqqqq,User,,郑州,,4,1,18
+2259,2014,SizeLee,Size Lee,User,,,,11,2,13
+2260,2015,caikeal,Keal,User,,Suzhou,,41,11,28
+2261,2013,hachi-zzq,朱正钱,User,,,,52,4,52
+2262,2016,yanjinhuagood,闫驚鏵,User,,通江县洪口镇松溪乡五村三社(沙溪角溪沟),,10,5,291
+2263,2011,yobdc,白玉豆酱拌面,User,,"Shanghai, China",,23,14,89
+2264,2018,demoanddemo,,User,,,,51,3,104
+2265,2017,Sowevo,,User,,,,23,4,3
+2266,2017,JonnyBanana,Jonny Banana,User,WebChainSolutions - SappohSamaWorkshop -  Trolling Studios - ROOM#101 - H0wT0hAck - HTML.IT/Makers ,Bologna -  Italy,,106,1203,13742
+2267,2017,EIETMC2,,User,,,,1,4,3
+2268,2016,JoJoJoJoJoJoJo,Joseph Wang - Elico Corp,User,,,,23,1,3
+2269,2015,laowa,,User,,,,2,0,6
+2270,2017,yanzhi321,,User,,,,20,4,72
+2271,2016,aqzwy,Mr.AI,User,,,,11,0,13
+2272,2016,GuZhebin,gzbin,User,,,,3,0,27
+2273,2015,ahbon123,,User,,Beijing,,5,2,189
+2274,2013,huachen0216,huachen0216,User,Yonyou,Beijing,,77,8,31
+2275,2015,isuperqiang,落英坠露,User,,"Hangzhou, China",,33,18,78
+2276,2017,toddyeah,,User,,,,0,0,1
+2277,2018,githublhc,,User,,,,2,0,5
+2278,2015,zfz15011,zhengkoko,User,mintoo.cn,,,26,3,32
+2279,2017,ds19991999,2333,User,,,,8,4,45
+2280,2013,liuzuil,Liu,User,58赶集,Beijing,,19,11,54
+2281,2017,larryzin,Larry Zin,User,SCUT,"Canton, Shenzhen",,11,1,34
+2282,2015,DragonII78,,User,,,,1,0,1
+2283,2017,Sar-Kerson,Leiqi Yao,User,,"Dalian, China",,33,5,22
+2284,2016,lihuat,phkj_data_group,User,phkj,chengdu,,10,1,7
+2285,2012,houfeng0923,houfeng,User,,Mars,,29,23,62
+2286,2017,qjyoung,乔健勇,User,,山西 晋中,,17,7,23
+2287,2018,625099504,,User,,,,3,0,2
+2288,2014,Alex9029,Alex Wang,User,Hust,Beijing,,33,0,11
+2289,2016,1432886945,,User,,,,13,3,141
+2290,2015,lisidi,思迪,User,KingNet,Shanghai,,69,48,68
+2291,2016,Dingxiang2016,,User,,,,0,0,33
+2292,2012,ronanhardiman,Brucelq,User,,,,154,32,476
+2293,2016,wuchaoliang,,User,,广州番禺,,1,9,51
+2294,2014,freskyme,,User,,,,7,0,14
+2295,2012,richi-chen,richi chen,User,free,Taiwan,,19,11,15
+2296,2014,renyijiu,,User,,,,19,6,24
+2297,2016,HuangCongQing,重庆同学,User,,"Chongqing, China",,122,59,38
+2298,2013,birdgun,,User,,,,124,1,10
+2299,2018,dpeng1203,Watercress movies,User,,,,29,1,14
+2300,2015,Juary88,Liudingyi,User,Unionbigdata,,,103,10,58
+2301,2016,wsfcsk,Fire,User,,China ,,1,0,1
+2302,2013,zhangfy068,FFish,User,,,,70,8,38
+2303,2012,dreamyboy,Allen,User,,,,28,8,119
+2304,2016,tianhanfangyan,daiyang,User,,China,,41,4,6
+2305,2017,1073280291,OrrsRosx,User,,,,11,0,4
+2306,2013,sheepstarli,李晨星,User,,北京,,21,11,30
+2307,2018,tiandao1994,子帅,User,,"Shanghai,China",,6,0,2
+2308,2017,mkfoyw,mkfoyw,User,,,,15,5,16
+2309,2016,wangfangxuedaima,王方,User,JD,北京,,24,1,31
+2310,2016,SmileTower,,User,,,,10,0,18
+2311,2012,MajorGeneralMao,,User,,,,4,24,1531
+2312,2015,SJTUboy,Angle_He,User,SJTU,Shanghai,,263,34,815
+2313,2016,dengyingguo,,User,,,,43,8,36
+2314,2017,qepan0520,,User,,,,0,0,3
+2315,2017,FuyaoLi2017,,User,,,,22,2,20
+2316,2017,chenyuhang331,,User,,,,19,0,55
+2317,2017,bury1111,bury,User,,,,8,0,7
+2318,2015,WangYueScream,WangYue,User,,中国河南,,55,24,346
+2319,2017,pixcat8102,Pixcat,User,,,,6,3,13
+2320,2017,HurryUpWb,haoey,User,,mars,,17,3,23
+2321,2015,wangjiahong666,Jiahong Wang,User,Hatch,"Helsinki, Finland",,211,7,54
+2322,2018,AreYouQQ,,User,,,,1,107,14279
+2323,2016,suhao,,User,@IQIYI @Intehel,"ShangHai, China",,9,18,296
+2324,2012,jeewinchang,JeeWin,User,,china,,10,13,29
+2325,2018,Zessay,Zhu Shuai,User,,"Wuhan, China",,31,1,21
+2326,2013,tismagic,Tismagic,User,,,,39,2,41
+2327,2013,doudoupo,,User,,,,7,0,1
+2328,2016,qicaiyun,baiwei,User,,,,43,2,134
+2329,2018,zstu-lly,lly,User,,,,18,1,11
+2330,2015,shinalone,UlionTse,User,,Beijing,,59,9,89
+2331,2015,Irvindu,,User,,,,0,1,11
+2332,2017,pawn9527,,User,,,,10,0,15
+2333,2017,luweixiaoxiao,mengqing,User,,,,5,0,23
+2334,2015,huaziwang,,User,,,,7,1,26
+2335,2015,huangcaocao,,User,,,,21,2,10
+2336,2017,jaydenxxx,Jayden,User,,,,38,1,8
+2337,2017,catchonme,catchme ,User,baidu,,,33,34,228
+2338,2012,xfstudio,windy,User,xfstudio,Chengdu,,251,3,34
+2339,2015,wchuanghard,Bill_Chuang,User,,"Atherton, CA",,7,33,463
+2340,2016,paynexianr,Steve Kissinger,User,,,,8,2,10
+2341,2015,huayanqiaq,cike,User,,,,17,4,70
+2342,2015,jwangee,Jianfeng-NSL,User,,Los Angeles,,13,2,17
+2343,2015,nicewahson,sugar.wahson,User,@rngame,,,100,39,464
+2344,2015,DUALDUKE,,User,,,,11,1,33
+2345,2018,mygithubbo,,User,公司,地址,,20,0,14
+2346,2013,peterlee2008,,User,,,,120,9,198
+2347,2015,imuhao,CaiMuhao,User,,,,18,21,80
+2348,2014,JamesLinus,JamesLinus,User,Intel,"new york, USA",,4107,197,4914
+2349,2017,YangQuan666,杨权,User,,,,9,2,11
+2350,2015,yrwanziqi,,User,,,,40,3,33
+2351,2017,hqzh,,User,@sz-star,All over the place,,20,4,13
+2352,2015,neciszhang,Necis,User,,Shanghai ,,27,1,10
+2353,2016,mujinveil,,User,,,,27,1,12
+2354,2016,aikaiqiang,aikaiqiang,User,,ShenZhen,,44,3,35
+2355,2018,Mr-NB,,User,,,,11,0,7
+2356,2012,creasy2010,杨晓东,User,千米网,中国.南京,,23,31,183
+2357,2015,dahaifeige,Afei,User,Heilongjiang University,Beijing. China,,10,1,57
+2358,2015,uprightws,Wang.Song,User,,,,5,0,4
+2359,2016,lvm0306,Lovesosoi,User,,杭州,,21,32,46
+2360,2015,KB5201314,imlk,User,,BUPT,,19,57,96
+2361,2017,hisenbergs,Brian Zhang,User,Agilent Tech.,Shanghai,,0,0,2
+2362,2018,18626879419,,User,,,,0,0,1
+2363,2018,mrxuyong,Mr.Xu,User,千米网,中国.南京,,34,19,173
+2364,2014,SeeMoonUp,limeng,User, Anhui University of Science and Technology,china,,7,0,6
+2365,2013,kimifdw,kimifdw,User,aux,China,,179,17,222
+2366,2016,Ewenwan,Wan Youwen,User,Tongji University,Shanghai,,727,624,176
+2367,2013,cggos,Hongchen Gao,User,,"Beijing City,China",,41,46,140
+2368,2014,gaochengcai,,User,,,,4,1,11
+2369,2018,User-Hrsat,Hrsat,User,,earth,,2,1,7
+2370,2018,nanba-dengtao,,User,,,,3,0,1
+2371,2016,RyanZHe,Ziming He,User,Georgia Tech,Atlanta,,15,12,286
+2372,2015,HaohongWANG,Rubik,User,,,,4,5,13
+2373,2012,smallbaby,Jason zhang,User,PD,,,218,3,22
+2374,2018,grennshadow,,User,,,,4,0,5
+2375,2016,cizel,Cizel,User,@XiaoMi,"Beijing, China",,63,24,75
+2376,2018,yhl123,HaiLong,User,,,,5,3,3
+2377,2013,phonix2012,,User,,,,246,1,36
+2378,2016,mukae1997,,User,,,,24,4,16
+2379,2017,chenwbyx,,User,,,,11,1,2
+2380,2018,itechzone,,User,,,,1,0,17
+2381,2012,halfslipper,halfslipper,User,,,,9,11,249
+2382,2012,zhaozhenqiang,,User,,,,14,2,29
+2383,2018,raz4ever,,User,,,,0,0,5
+2384,2016,gangjie,,User,,,,1,1,1
+2385,2017,jackchow621,JackChow,User,,shenzhen guangdong,,23,5,13
+2386,2015,yayayahei,,User,,,,8,0,5
+2387,2015,yennanliu,yennj12,User,,London,,168,14,211
+2388,2010,weibobo,,User,,,,141,8,40
+2389,2017,DismalSnail,DismalSnail,User,,,,19,2,11
+2390,2015,leeway001,,User,,,,37,0,20
+2391,2017,MyOnlyWayUp,Night,User,,,,32,0,2
+2392,2012,yejinlei,yejinlei,User,,,,56,24,36
+2393,2017,WangYang-wy,王阳,User,Sichuan University,ChengDu,,11,133,108
+2394,2015,yang123vc,,User,,,,1867,16,161
+2395,2012,4u4v,水木清华,User,水木工作室,China,,28,16,9
+2396,2013,zacker330,翟志军,User,,"GuangDong, China",,80,103,768
+2397,2017,L1L,,User,,,,12,0,8
+2398,2018,kylwao,,User,,,,0,0,12
+2399,2018,KFGameHacker,K.F.GameHacker,User,https://github.com/settings/sessions,,,9,0,33
+2400,2016,asd2003asd,,User,,,,57,1,22
+2401,2018,hongdahuang,hongdahuang,User,,,,0,0,2
+2402,2016,YJWWZHANG,二氷,User,(╯' - ')╯︵ ┻━┻  , ┬─┬ ノ( ' - 'ノ) ,,25,6,52
+2403,2018,jankin987,Zhongjie Mao,User,,,,2,0,5
+2404,2017,EuniceF,Eunice,User,,,,31,0,5
+2405,2018,DavidZhangdw,,User,,,,28,0,20
+2406,2017,supervons,supervons,User,,Beijing,,10,4,7
+2407,2018,auroralzone,xqiang,User,,,,2,0,4
+2408,2016,Hjiaooo,Hjiaooo,User,,,,17,0,32
+2409,2018,youdianqian,,User,,,,3,3,4
+2410,2015,AngelicaWan88,,User,,,,0,0,8
+2411,2016,dexterduan,,User,,,,3,0,6
+2412,2015,zhangkun0625,zarkx,User,,,,32,11,49
+2413,2016,thxit,,User,,,,10,0,6
+2414,2017,zfzi,zhangfeng,User,,,,4,0,5
+2415,2016,SmithXiong,xiong,User,,"Xi'an,China",,22,1,6
+2416,2013,YucongDing,ChrisDing,User,,,,8,7,34
+2417,2016,keenlee123,Lee,User,,,,1,3,53
+2418,2017,wys18,,User,,,,8,1,7
+2419,2016,leekoko,李宇斌,User,广州科猫学院,中国 广东 广州,,20,11,36
+2420,2013,haryhouqin,,User,,,,4,17,442
+2421,2016,leslieSie,leslieSie,User,,,,78,146,12
+2422,2013,Yggdrasill-7C9,枯れない花,User,,梦里,,92,43,100
+2423,2015,lilyef2000,,User,,,,47,4,43
+2424,2016,orange-soda,Soda,User,,,,2,1,36
+2425,2011,jacksmion,jacksmion,User,eisoo,"changsha,hunan,china",,13,1,25
+2426,2018,roseitou,,User,,,,1,0,1
+2427,2018,lyz22233,,User,,,,0,0,7
+2428,2016,xvcy,,User,,,,16,1,24
+2429,2018,daguoqlg,,User,,,,3,0,1
+2430,2017,740065512,,User,,,,1,0,3
+2431,2018,xiwer1,,User,,,,1,0,5
+2432,2014,xuewenfei,xuewenfei,User,,,,170,4,86
+2433,2018,blankFtp,,User,,,,0,0,2
+2434,2018,dudongpeng, Elysium,User,,zhenzhou,,7,4,11
+2435,2017,Pangkejian,,User,,,,1,0,1
+2436,2015,leo1900227,Zhiliang Lin,User,Jinan University(Guangzhou),Guangzhou,,10,3,186
+2437,2010,zhuoyr,zhuoyr,User,JUHU.COM,Xiamen China,,27,5,19
+2438,2016,chuanfe,wuchuan,User,Syman,"Nanjing, China",,34,9,78
+2439,2018,RorshachE0,,User,,,,1,0,8
+2440,2012,zw1232002,coly,User,,,,11,20,22
+2441,2018,QQ4830163,,User,,,,8,0,12
+2442,2018,add1112,,User,,,,1,0,3
+2443,2016,lrlxz1127,,User,,,,7,0,4
+2444,2013,wainshine,wainshine,User,,beijing,,9,170,1091
+2445,2018,linzhi01,,User,,,,0,0,2
+2446,2018,apol2305,,User,,,,4,0,1
+2447,2016,sleepworld,,User,,,,6,4,13
+2448,2015,ihoey,Ihoey,User,@WildDogTeam @DreamStacks ,"BeiJing, China",,29,54,17
+2449,2018,Jxysir,BugMan,User,,,,7,10,78
+2450,2012,netstao,super,User,,,,145,61,138
+2451,2017,panghaoran,庞浩然&Paul,User,,Beijing,,37,6,96
+2452,2017,Styx11,Styx,User,,"Hangzhou, China",,7,2,6
+2453,2017,haskellcg,WangBin,User,,,,17,3,68
+2454,2013,visense,visense,User,,,,377,1,8
+2455,2017,bjxiaoaimin,,User,,,,0,0,2
+2456,2015,eagleonefight,eagleone,User,Suzhou University of Science and Technology,"Soochow,China, Asia",,5,5,14
+2457,2018,diguacheng,,User,,,,5,0,9
+2458,2017,molvqingtai,John Wu,User,,,,17,1,5
+2459,2011,zhkzyth,hugo,User,null,shenzhen@China,,53,95,1201
+2460,2017,jianghongxiu,,User,,,,0,0,19
+2461,2014,liutianze,,User,,,,357,3,13
+2462,2014,guapier,瓜皮,User,中安信业,深圳市福田区车公庙时代科技大厦,,84,27,90
+2463,2017,yanghuazai,,User,,,,3,0,13
+2464,2018,Panjr,,User,,北京,,8,1,13
+2465,2012,jxltom,,User,,,,76,12,92
+2466,2014,shanshuiguochu,山水过处,User,,Shanghai,,4,4,3
+2467,2011,erma928,Jimin Feng,User,,Wuhan China,,5,4,49
+2468,2017,Hongbosherlock,Xu Hongbo,User,SiChuan University,Cheng Du,,14,4,32
+2469,2015,Jakexxh,Jake Xue,User,,China,,22,5,21
+2470,2018,xiang1210,,User,,,,2,0,1
+2471,2017,Neulana,Neulana,User,localhost,"Shanghai, China",,31,22,70
+2472,2012,zhengger,Frank Zheng,User,,,,248,3,143
+2473,2013,svcvit,svcvit,User,,Shanghai,,61,7,61
+2474,2014,benxin,Benson,User,,shenzhen,,9,0,5
+2475,2015,lcfevr,Taki,User,,,,15,5,7
+2476,2017,iqbalhossen1993,iqbalhossen1993,User,YOUNGONE,"Korean EPZ,Anowara.",,1,30,834
+2477,2012,ugo5,,User,,"Hangzhou, Zhejiang, China",,39,9,25
+2478,2014,stanye,Stan Ye,User,urban-tech,Shanghai,,5,8,32
+2479,2013,yuanmouren1hao,Golden Li,User,,,,32,11,22
+2480,2017,lin3713271998,jack_lin,User,,,,5,3,21
+2481,2012,NirViaje,,User,KAST&EDS,,,32,34,392
+2482,2018,Baroncheng,,User,,,,1,0,3
+2483,2014,ningwhy,,User,,,,3,1,5
+2484,2017,ZikeX,,User,ZikeX,In ChengDu,,560,9,144
+2485,2018,lnaive,lnaive,User,@LearnSolid ,shanghai,,6,4,87
+2486,2015,jiongjiongqiaodaima,,User,,,,1,0,7
+2487,2013,HaynesRuan,Haynes.Ruan,User,,,,15,1,16
+2488,2018,wkd-lidashuang,,User,,,,17,1,11
+2489,2018,nanrenne,E_Page,User,,,,0,0,10
+2490,2018,yuuFen,,User,,,,2,0,2
+2491,2012,chinesesoft,,User,,,,32,3,10
+2492,2018,Jeonwang,Sarah Wang,User,,Shenzhen China,,0,0,32
+2493,2015,isyue,,User,,,,9,0,6
+2494,2013,csh159,dennis,User,,,,142,28,465
+2495,2015,leon2017,leon,User,,Shanghai,,109,86,338
+2496,2018,sxyuanhAlex,sx_alex,User,,Beijing,,13,0,3
+2497,2014,Style-sen,,User,,,,76,0,10
+2498,2016,yzk19930501,,User,,,,44,5,93
+2499,2016,624990742,屌丝爷霉儿,User,求带走,北京,,6,4,81
+2500,2013,bjsunhe,,User,lu.com,Shanghai,,65,20,344
+2501,2017,Superxzz,,User,,,,34,1,4
+2502,2017,sjcfr,,User,,,,2,0,9
+2503,2015,pengcgithub,Tracy,User,,,,31,6,22
+2504,2016,Asura-one,,User,,,,8,5,52
+2505,2018,Leo-xxx,,User,,,,198,0,33
+2506,2018,henuyh,na,User,,,,6,1,18
+2507,2013,zhenyong,Huang ZhenYong,User,,Shenzhen,,60,60,52
+2508,2015,Ybow,,User,,,,4,4,186
+2509,2017,suyichen,,User,,,,13,0,6
+2510,2010,dongfeiwww,Fei,User,,Mountain View,,49,188,89
+2511,2016,thatman6666,徐江西,User,北方民族大学,遗传,,8,1,4
+2512,2018,fengqianan,,User,,,,0,0,7
+2513,2015,iOSBoy,Tony,User,,Beijing,,47,25,257
+2514,2018,spritteego,sprittee,User,,广州,,22,1,8
+2515,2012,nkysg,nk_ysg,User,,beijing,,112,8,165
+2516,2016,pangtong97,pangtong,User,,,,6,1,21
+2517,2018,Atguome,Atguome Guo,User,,"Chine, Guangdong, Guangzhou",,2,0,11
+2518,2015,a731062834,,User,,"HangZhou,China",,18,7,236
+2519,2018,lidianxiang,,User,,,,61,1,11
+2520,2015,seanhuai,纳如,User,,"Guangzhou,China",,10,20,61
+2521,2017,efreeway,,User,,,,46,0,3
+2522,2017,tgshg,,User,,,,5,0,3
+2523,2018,EllenMengqiXu,,User,,,,8,1,6
+2524,2018,ericssy,,User,,,,2,0,3
+2525,2015,dong5981,,User,,,,1,0,2
+2526,2016,yangml6,,User,,,,11,0,13
+2527,2018,glodsky,,User,,,,24,2,42
+2528,2017,huangmengying1994,,User,,,,0,1,101
+2529,2015,ju0632,Ju0632,User,,,,14,3,176
+2530,2017,cucker0,,User,,,,22,2,8
+2531,2014,Methimpact,methimpact,User,/\/\3K4 |\|3K4|_,127.0.0.1,,101,51,538
+2532,2016,zhaoyingjie,,User,Central South University,"ChangSha,China",,12,16,27
+2533,2017,wgshun,oh，ss,User,,"Beijing, China",,3,2,12
+2534,2017,eggnice,,User,no work,sky,,7,4,10
+2535,2012,hyddd,hyddd,User,,"Guangzhou, P.R.China",,13,6,18
+2536,2013,sogouo,sogouo,User,,,,21,4,102
+2537,2014,huminted,胡敏,User,,Sichuang Mianyang,,31,10,66
+2538,2013,lovejavaee,Jeff M,User,,,,939,95,1894
+2539,2015,Lispre,,User,,,,276,284,40452
+2540,2018,SGF009,,User,,,,0,1,10
+2541,2018,fh2000126,yuki,User,,,,12,25,31
+2542,2016,Mick-Brujah,Mick,User,,,,42,0,31
+2543,2018,xingmath,xingmath,User,,NanJing,,6,1,37
+2544,2017,igxm,,User,,,,6,0,44
+2545,2015,JailbreakFox,Jesse Tsui,User,,,,5,7,22
+2546,2018,Kaer05,,User,,,,1,0,3
+2547,2013,Hkmu,He Jie,User,,Hangzhou,,3,19,143
+2548,2014,shuangzhiling,,User,,,,5,0,13
+2549,2017,Supremeyh,Supremeyh,User,,Tokyo,,19,0,58
+2550,2014,chengstone,程世东,User,,Tokyo,,69,159,62
+2551,2010,shawjia,,User,,"Shenzhen, China",,32,80,555
+2552,2013,dkmeteor,Dean Ding,User,Free,China ShangHai,,52,553,24
+2553,2012,zhufuing,zhufu,User,,Beijing,,16,32,345
+2554,2014,adgvcxz,adgvcxz,User,,"Chengdu, China",,19,15,39
+2555,2018,Neebla,,User,,,,2,0,9
+2556,2012,onyas,morty,User,,Xiamen China,,44,14,122
+2557,2018,GH2019,,User,,,,3,0,6
+2558,2012,nicosommi,nico,User,@integracionesagiles ,"Buenos Aires, Argentina",,51,10,18
+2559,2017,sillymistake,,User,,,,8,4,12
+2560,2018,RiversLEECN,RiversLEECN,User,,china,,20,0,4
+2561,2014,cooper1x,linkstar,User,,杭州,,14,3,133
+2562,2017,hjy15759633702,,User,,,,35,0,4
+2563,2016,LeeGitHub0817,LEE,User,,,,31,1,19
+2564,2018,stiverick610,,User,,,,23,2,28
+2565,2016,Zomfice,,User,,shanghai,,40,1,64
+2566,2018,robinsonsu,robinsonsu,User,,,,0,1,40
+2567,2013,zhangazheng,zhangazheng,User,,,,48,15,22
+2568,2013,zhiyue,zhiyue,User,Guangdong University of Technology,guangzhou,,384,56,141
+2569,2016,flowpig,,User,,,,23,3,28
+2570,2013,xiongxianzhu,zhuxiongxian,User,,广东广州天河区,,240,13,15
+2571,2018,veiTian,,User,,,,0,0,3
+2572,2017,chongfalong,,User,,,,20,0,1
+2573,2018,yuanzhoulvpai,,User,,,,0,0,6
+2574,2017,HSQCoollaughing,,User,,,,139,0,79
+2575,2013,Jiangew,Jiangew,User,Innovation Works,Beijing Haidian,,177,23,78
+2576,2012,jeffreywugz,Jeff,User,"startup, Co-founder and CTO",Beijing,,675,39,759
+2577,2018,JosephChy,,User,,China,,0,0,2
+2578,2016,shytime,Qi Yang,User,Xi'an University of Science and Technology,"Xi'an,China",,16,1,15
+2579,2016,GeekTan,,User,,Beijing,,24,16,32
+2580,2015,wishwzp,wishwzp,User,,"NanJin,China",,12,5,22
+2581,2015,jingyihiter,mjy,User,HIT,Harbin China,,15,38,95
+2582,2013,geosson,geosson,User,,,,71,3,58
+2583,2016,fighterhit,,User,,,,19,0,51
+2584,2014,billhhh,Bill Wang,User,,Australia,,77,97,307
+2585,2013,Sanster,Qing,User,,Shanghai,,47,43,138
+2586,2017,edgemaker,,User,,,,9,3,69
+2587,2016,MachineLP,,User,MachineLP,https://t.zsxq.com/e62RFub,,165,328,65
+2588,2017,PEGASUS1993,PEGASUS ,User,Umbrella Corporation,"Pasadena,California",,26,6,62
+2589,2015,Glepooek,,User,,,,9,0,5
+2590,2018,Ymy214,,User,,,,15,0,12
+2591,2019,gc19861210,,User,,,,2,0,2
+2592,2018,jade111,,User,,,,0,0,7
+2593,2017,SWEDEN1003,,User,,,,8,0,37
+2594,2013,rtu,Tony Tu,User,,Canada,,212,25,67
+2595,2016,shareBeautiful,,User,,,,21,2,9
+2596,2017,gochao,shewang,User,,,,481,2,178
+2597,2014,ChenHaolong,,User,,,,20,6,7
+2598,2018,KennethYCK,Kenneth Yeung,User,,Hong Kong,,3,3,4
+2599,2017,zxcasd848955,陈振,User,无,hefei China,,10,0,12
+2600,2018,wangfeiwest,,User,,,,2,0,1
+2601,2014,LouisYang2019,杨林川,User,家里蹲,"ShenZhen,China",,3,0,2
+2602,2018,lazycece,W,User,,"Chengdu, China",,6,0,6
+2603,2013,xiaoluoboding,Yunwei Xiao ,User,JD.com,Beijing,,34,147,251
+2604,2016,james-cain,reyshieh,User,,"Shenzhen,China",,37,32,477
+2605,2012,qizhou2019,meng.qizhou,User,,Beijing,,66,0,22
+2606,2018,Kylin92,Foxgeek,User,,北京,,12,0,20
+2607,2019,RodmanZhao,,User,,,,0,0,1
+2608,2012,Wangjunyu,浚宇,User,,,,8,80,52
+2609,2014,suhanyujie,suhanyu,User,顶点集团,Asia/Shanghai,,69,27,199
+2610,2015,gilbert-yuan,静静,User,,shanghai,,31,20,71
+2611,2015,XWJACK,Jack,User,,,,59,13,77
+2612,2015,xixihuang,,User,,,,9,0,7
+2613,2018,DD4lx,,User,,,,4,1,22
+2614,2018,Solar914,solarshub,User,,xiamen,,0,1,2
+2615,2015,PsYear,wendell,User,,,,13,8,79
+2616,2018,chenzhou0812,,User,,,,0,0,12
+2617,2017,yumgh,yuming,User,,shenzhen,,2,3,36
+2618,2013,dybwall1234,Don,User,,,,89,14,33
+2619,2010,deer-hope,南知,User,Alibaba,HangZhou,,119,15,136
+2620,2018,heguohui2018,heguohui2018,User,,,,4,6,226
+2621,2018,WatermelonIsMe,Watermelon,User,FBI,San Francisco,,7,1,6
+2622,2012,alreadydone,Junyan Xu,User,,,,33,53,577
+2623,2014,lenovobenben,lenovobenben,User,,California,,24,3,7
+2624,2015,zelinhehe,武坤,User,,杭州,,10,5,57
+2625,2018,seven7eight8,limengna,User,,,,1,3,259
+2626,2018,chaojunke,BlueSeaBear,User,,,,1,14,868
+2627,2017,ShaunAgni,,User,,,,20,0,24
+2628,2019,liangzaifeng,李远锋,User,,,,6,36,143
+2629,2014,weaming,garden.yuen,User,,"Shenzhen, China",,103,61,295
+2630,2017,mrwhite24,,User,,,,33,0,5
+2631,2016,liu-song,halst,User,,,,39,4,226
+2632,2013,gold3bear,gold3bear,User,,shanghai,,165,29,46
+2633,2016,Bonjour430,,User,,,,14,1,101
+2634,2014,DowneyTung,Downey Tung,User,,,,17,2,12
+2635,2017,sohyunQVQ,Lin,User,,China,,18,0,5
+2636,2018,fenglei110,tortoise,User,,北京,,13,14,2
+2637,2018,Fieyina,infinity,User,GF Securities,Shenzhen,,2,1,15
+2638,2013,sudami,,User,,Beijing,,201,28,100
+2639,2017,RemmyChen,,User,,,,19,0,2
+2640,2012,fengjixuchui,,User,,,,2189,21,1570
+2641,2014,LLCChen,,User,,,,44,0,35
+2642,2017,jorcy,,User,,,,1,0,3
+2643,2019,xingjian1,,User,,,,1,0,3
+2644,2018,kingdomrain002,,User,,,,8,0,28
+2645,2019,weimingjuncn,Mingjun Wei,User,,Nanning,,1,0,57
+2646,2016,Yikhan,Yikhan,User,,Sydney,,16,6,3
+2647,2017,calelin,T,User,Insulting_Steamed_Bun ,"Kansas City, MO",,3039,46,9578
+2648,2019,pysmart,,User,,,,0,1,39
+2649,2017,blackdogss,,User,,,,3,0,6
+2650,2018,redcsh,,User,,,,1,0,13
+2651,2017,feng-dan,Adrian,User,fengdan,,,33,0,1
+2652,2013,xuliker,Aaron.L.Xu,User,@Intel,SHZ Site,,14,112,2176
+2653,2018,xuntaowang,xuntaowang,User,,,,4,0,6
+2654,2016,scsd3211,chenzhuo,User,,,,30,0,6
+2655,2016,ZhidaSong,,User,,,,12,1,21
+2656,2015,wuzhenbin,吴圳彬,User,,,,15,1,4
+2657,2016,gygygygy2007,,User,,,,24,0,3
+2658,2016,Littlesqx,Littlesqx,User,,Shenzhen,,12,21,219
+2659,2013,zhichaofu,halihi,User,,ShangHai,,0,13,10
+2660,2016,songshuiyang,songshuiyang,User,,广东 深圳,,23,11,27
+2661,2014,Nightonke,Weiping Huang,User,,"Guangzhou, China",,40,1623,50
+2662,2016,IurKwan,,User,,,,5,5,55
+2663,2014,biezhihua,biezhihua,User,优酷,北京,,50,64,47
+2664,2017,calvin008,calvin,User,,,,10,1,3
+2665,2013,Cr321,Rui Cai,User,webeyemob,"Nanjing, China",,7,3,14
+2666,2016,lelewolf,浪里个浪,User,,china,,32,1,34
+2667,2010,stardiviner,Kin,User,,"Water, China",,312,80,335
+2668,2015,kingser,yc,User,,,,22,0,10
+2669,2012,appleshan,Apple Shan,User,Freelancer,"GuangZhou, Guangdong, China",,56,35,90
+2670,2017,Wuwei9536,Wien Wu,User,weimob,"ShangHai,China",,22,0,23
+2671,2012,flowithwind,,User,,,,3,0,1
+2672,2013,xuyze,Zeny,User,,,,6,0,1
+2673,2014,experdot,,User,,,,8,39,12
+2674,2015,lian899,,User,,,,153,1,3
+2675,2012,s503483121,Lusitian,User,,,,1,0,2
+2676,2012,qioixiy,qioixiy,User,a@b.com,china,,83,28,221
+2677,2014,cntoast,,User,,,,7,0,5
+2678,2018,laugh12321,Laugh,User,,Northern Hemisphere,,9,3,6
+2679,2018,huaq-dd,,User,,,,0,0,24
+2680,2018,yesxcv,,User,,,,4,0,1
+2681,2015,just-a-bot,Justin Bot,User,,,,0,43,13583
+2682,2016,GaoStudio,JayeGao,User,,Beijing,,33,7,42
+2683,2018,daiyoting,,User,,,,3,0,2
+2684,2015,zhaojunlike,阿俊,User,oeynet, YiBin  Sichuan,,121,37,24
+2685,2018,JuChunChen,JachinChen,User,,,,2,0,14
+2686,2017,universebang,Richard Yang,User,,,,25,1,38
+2687,2013,q980916297,,User,,,,2,0,3
+2688,2019,wiseaha,,User,,,,0,0,10
+2689,2018,chaotianjiao,,User,,,,0,0,2
+2690,2016,yanghcc,Anglo,User,,shanghai city.,,91,9,57
+2691,2012,wwj718,,User,codelab.club,"GuangZhou, China",,353,699,354
+2692,2015,liaokongVFX,了空,User,,Beijing,,29,43,223
+2693,2018,tanweish,,User,,,,0,0,7
+2694,2017,raopanfeng,PanFeng Rao,User,,"Wuhan, China",,0,6,253
+2695,2016,shipengqi,shipengqi,User,@microfocus,"Shanghai, China",,27,33,70
+2696,2015,windstormeye,Piron Weng,User,@ifLab ,Beijing,,51,187,159
+2697,2016,windorz9,,User,,,,105,7,383
+2698,2019,zkf0529,,User,,,,0,0,7
+2699,2018,sivionww,,User,,,,0,0,2
+2700,2016,wukuai,,User,滴滴出行,Beijing,,25,23,81
+2701,2017,Howe829,HoweChen,User,,,,9,0,4
+2702,2015,keevalking,Keeval King,User,,,,0,0,10
+2703,2016,luolitao,Eric Luo,User,,"Guangzhou, China",,24,6,282
+2704,2017,lxorc,,User,,,,19,1,10
+2705,2013,WeJie,WeJie,User,,,,32,20,462
+2706,2014,jacobdong,jacobdong,User,,,,97,7,34
+2707,2018,univerone,Jiang Shanshan,User,Nankai University,TianJin,,5,1,12
+2708,2015,lineuman,lineuman,User,,,,32,12,32
+2709,2011,tubu,,User,,,,53,6,24
+2710,2016,mingway426,,User,,ShenZhen,,9,1,4
+2711,2017,ihehe616,,User,,,,3,0,3
