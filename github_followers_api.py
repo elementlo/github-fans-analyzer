@@ -19,7 +19,10 @@ PD_FORMAT = {
     "contributions" : [],
     "public_repos" : [],
     "followers" : [],
-    "following" : []
+    "following" : [],
+    "bio":[],
+    "blog":[],
+    "repositories":[]
 }
 
 def _task(NamedUser):
@@ -27,6 +30,7 @@ def _task(NamedUser):
     Arguments:
         NamedUser {[class]} -- [github.NamedUser.NamedUser]
     """
+    
     created_at = NamedUser.created_at.year
     login = NamedUser.login
     name = NamedUser.name
@@ -37,7 +41,10 @@ def _task(NamedUser):
     public_repos = NamedUser.public_repos
     followers = NamedUser.followers
     following = NamedUser.following
-    print('current follower: ' + login)
+    bio=NamedUser.bio
+    blog=NamedUser.blog
+    repositories=NamedUser.public_repos
+    print('current following: ' + login)
     # lock.acquire()
     PD_FORMAT['created_at'].append(created_at)
     PD_FORMAT['login'].append(login)
@@ -49,6 +56,9 @@ def _task(NamedUser):
     PD_FORMAT['public_repos'].append(public_repos)
     PD_FORMAT['followers'].append(followers)
     PD_FORMAT['following'].append(following)
+    PD_FORMAT['bio'].append(bio)
+    PD_FORMAT['blog'].append(blog)
+    PD_FORMAT['repositories'].append(repositories)
     # print(PD_FORMAT)
     # lock.release()
     
@@ -66,26 +76,27 @@ def _print_user_profile(NamedUser):
     print('company   :' + NamedUser.company)
     print('location  :' + NamedUser.location)
     print('contributions:'+ str(NamedUser.contributions))
-    print('followers :' + str(NamedUser.followers))
-    print('followers_url:' + NamedUser.followers_url)
+    print('followings :' + str(NamedUser.following))
+    print('followings_url:' + NamedUser.following_url)
+    print('repositories:' + str(NamedUser.public_repos))
     print('--------------------------------')
 
-def get_all_followers(user_name):
+def get_all_followings(user_name):
     """[get all followers] 
     Arguments:
         user_name {[string]} -- [user to analysis]
     """
     center_user = GIT.get_user(user_name)
     _print_user_profile(center_user)
-    for follower in center_user.get_followers():
+    for follower in center_user.get_following():
         _task(follower)
 
     df = pd.DataFrame(PD_FORMAT)
-    df.to_csv('followers.csv')
+    df.to_csv('followings.csv')
     print('-----end-----')
 
 def main():
-    get_all_followers('wangshub')
+    get_all_followings('wangshub')
 
 if __name__ == '__main__':
     main()

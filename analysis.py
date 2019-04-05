@@ -9,29 +9,29 @@ from pyecharts import Bar
 import math
 from pypinyin import lazy_pinyin
 
-RAW_FILE = 'data/result.csv'
+RAW_FILE = 'followings.csv'
 
-def plot_stars():
-    """stars graph
-    """
+# def plot_stars():
+#     """stars graph
+#     """
 
-    df = pd.read_csv(RAW_FILE)
-    data_list = list(df['stars'])
-    print(len(data_list))
-    print('max star = ',max(data_list))
-    labels = [u'00~00', u'01~10', u'11~50', u'51~100', '101~500', '501~1000', '>1000']
-    sizes = []
-    sizes.append(len([pp for pp in data_list if pp == 0]))
-    sizes.append(len([pp for pp in data_list if pp >= 1 and pp <= 10]))
-    sizes.append(len([pp for pp in data_list if pp >= 11 and pp <= 50]))
-    sizes.append(len([pp for pp in data_list if pp >= 51 and pp <= 100]))
-    sizes.append(len([pp for pp in data_list if pp >= 101 and pp <= 500]))
-    sizes.append(len([pp for pp in data_list if pp >= 501 and pp <= 1000]))
-    sizes.append(len([pp for pp in data_list if pp >= 1001]))
-    bar = Bar("stars", "stars hist graph of users")
-    # bar.add("precipitation", labels, sizes, mark_line=["average"], mark_point=["max", "min"])
-    bar.add("", labels, sizes, is_label_show=True, mark_line=["average"])
-    bar.render('pics/stars.html')
+#     df = pd.read_csv(RAW_FILE)
+#     data_list = list(df['stars'])
+#     print(len(data_list))
+#     print('max star = ',max(data_list))
+#     labels = [u'00~00', u'01~10', u'11~50', u'51~100', '101~500', '501~1000', '>1000']
+#     sizes = []
+#     sizes.append(len([pp for pp in data_list if pp == 0]))
+#     sizes.append(len([pp for pp in data_list if pp >= 1 and pp <= 10]))
+#     sizes.append(len([pp for pp in data_list if pp >= 11 and pp <= 50]))
+#     sizes.append(len([pp for pp in data_list if pp >= 51 and pp <= 100]))
+#     sizes.append(len([pp for pp in data_list if pp >= 101 and pp <= 500]))
+#     sizes.append(len([pp for pp in data_list if pp >= 501 and pp <= 1000]))
+#     sizes.append(len([pp for pp in data_list if pp >= 1001]))
+#     bar = Bar("stars", "stars hist graph of users")
+#     # bar.add("precipitation", labels, sizes, mark_line=["average"], mark_point=["max", "min"])
+#     bar.add("", labels, sizes, is_label_show=True, mark_line=["average"])
+#     bar.render('pics/stars.html')
    
 def plot_repositories():
     """repos graph
@@ -124,7 +124,7 @@ def plot_position():
     """positions analysis
     """
     df = pd.read_csv(RAW_FILE)
-    data_list = list(df['position'])
+    data_list = list(df['location'])
     # 数据清理
     data_pos = [pp for pp in data_list if str(pp) != 'nan']
     # 中文转拼音
@@ -141,7 +141,7 @@ def plot_position():
 
 
 def main():
-    plot_stars()
+    # plot_stars()
     plot_repositories()
     plot_following()
     plot_followers()
