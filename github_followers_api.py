@@ -2,66 +2,33 @@
 from github import Github, StatsCommitActivity
 from multiprocessing import Pool, cpu_count, Lock
 import pandas as pd
+import csv
 
 # or using an access token
 GIT = Github("81bb10423c837b5a6d517b25117a7a95a7ec444a")
 
-# LOCK = threading.Lock()     # 全局资源锁
-lock = Lock()
+list_all_following=[]
 
-PD_FORMAT = {
-    "created_at" : [],
-    "login" : [],
-    "name" : [],
-    "type" : [],
-    "company" : [],
-    "location" : [],
-    "contributions" : [],
-    "public_repos" : [],
-    "followers" : [],
-    "following" : [],
-    "bio":[],
-    "blog":[],
-    "repositories":[]
-}
-
-def _task(NamedUser):
-    """多线程任务执行
+def _task(list_following,i):
+    """
     Arguments:
         NamedUser {[class]} -- [github.NamedUser.NamedUser]
     """
-    
-    created_at = NamedUser.created_at.year
-    login = NamedUser.login
-    name = NamedUser.name
-    utype = NamedUser.type
-    company = NamedUser.company
-    location = NamedUser.location
-    contributions = NamedUser.contributions
-    public_repos = NamedUser.public_repos
-    followers = NamedUser.followers
-    following = NamedUser.following
-    bio=NamedUser.bio
-    blog=NamedUser.blog
-    repositories=NamedUser.public_repos
-    print('current following: ' + login)
-    # lock.acquire()
-    PD_FORMAT['created_at'].append(created_at)
-    PD_FORMAT['login'].append(login)
-    PD_FORMAT['name'].append(name)
-    PD_FORMAT['type'].append(utype)
-    PD_FORMAT['company'].append(company)
-    PD_FORMAT['location'].append(location)
-    PD_FORMAT['contributions'].append(contributions)
-    PD_FORMAT['public_repos'].append(public_repos)
-    PD_FORMAT['followers'].append(followers)
-    PD_FORMAT['following'].append(following)
-    PD_FORMAT['bio'].append(bio)
-    PD_FORMAT['blog'].append(blog)
-    PD_FORMAT['repositories'].append(repositories)
-    # print(PD_FORMAT)
-    # lock.release()
-    
+    i += 1
+    print(i)
+    if i==2:
+        return
+    for following in list_following:
+        list_user=[]
+        login = following.login
+        list_user.append(login)
+        list_following_fo = following.get_following()
+        for following_fo in list_following_fo:
+            list_user.append(following_fo.login)
+        list_all_following.append(list_user)
+        print(list_all_following)
+    _task(list_following_fo,i)
+
 
 def _print_user_profile(NamedUser):
     """[print user profile]  
@@ -70,16 +37,16 @@ def _print_user_profile(NamedUser):
     """
     print('--------------------------------')
     print(NamedUser.created_at.year)
-    print('login     :' + NamedUser.login)    
+    print('login     :' + NamedUser.login)
     print('name      :' + NamedUser.name)
     print('type      :' + NamedUser.type)
     print('company   :' + NamedUser.company)
     print('location  :' + NamedUser.location)
-    print('contributions:'+ str(NamedUser.contributions))
-    print('followings :' + str(NamedUser.following))
-    print('followings_url:' + NamedUser.following_url)
-    print('repositories:' + str(NamedUser.public_repos))
+    print('contributions:' + str(NamedUser.contributions))
+    print('followers :' + str(NamedUser.followers))
+    print('followers_url:' + NamedUser.followers_url)
     print('--------------------------------')
+
 
 def get_all_followings(user_name):
     """[get all followers] 
@@ -88,15 +55,24 @@ def get_all_followings(user_name):
     """
     center_user = GIT.get_user(user_name)
     _print_user_profile(center_user)
-    for follower in center_user.get_following():
-        _task(follower)
-
-    df = pd.DataFrame(PD_FORMAT)
-    df.to_csv('followings.csv')
+    list_user =[]
+    login = center_user.login
+    list_user.append(login)
+    list_following = center_user.get_following()
+    for following in list_following:
+        list_user.append(following.login)
+    
+    list_all_following.append(list_user)
+    print(list_all_following)
+    i=0
+    _task(list_following,i)
+    df = pd.DataFrame(data=list_all_following)
+    df.to_csv('following.csv')
     print('-----end-----')
 
 def main():
-    get_all_followings('wangshub')
+    get_all_followings('elementlo')
+
 
 if __name__ == '__main__':
     main()
