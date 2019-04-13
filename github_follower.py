@@ -68,7 +68,7 @@ def get_all_followings(user_name):
     i=0
     _task(list_following,i)
     df = pd.DataFrame(data=list_all_following,columns = column_name)
-    df.to_csv('following_pagerank.csv')
+    df.to_csv('following_graph.csv')
     print('-----end-----')
 
 def main():
