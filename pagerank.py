@@ -18,8 +18,8 @@ def buildGraph():
 
     list_pagerank=sorted(pr.items(),key=lambda item:item[1],reverse=True)
     df=pd.DataFrame(data=list_pagerank)
-    df.to_csv('following_pagerank')
-    
+    df.to_csv('following_pagerank.csv')
+
     print(pr)
     layout = nx.spring_layout(G)
     nx.draw(G,pos=layout, node_color='b',with_labels=True)
